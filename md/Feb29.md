@@ -11,6 +11,7 @@
 总之熬了几天夜也算是糊弄出一个 “成果”：[BICMR-ai4math 寒假研讨班第七组：一二三维 Lie 代数分类 (一维、二维)](https://github.com/bicmr-ai4math/Group7-1D-2D)。
 
 ---
+
 回想起寒假前的小目标：
 
 > - 读完《超实数导论》前三部分；
@@ -38,7 +39,6 @@ $$
 
 - Robinson' Compactness Criterion: 
   $$ B \subseteq \mathbb{R} \text{compact} \Leftrightarrow ^*\!\!B \subseteq \bigcup_{r \in B} \text{hal}(r). $$
-
 - Saturation;
 - Overflow principle;
 - ...
