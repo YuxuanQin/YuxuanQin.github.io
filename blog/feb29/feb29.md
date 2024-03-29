@@ -38,7 +38,7 @@ $$
 目前的主要成果：
 
 - Robinson' Compactness Criterion: 
-  $$ B \subseteq \mathbb{R} \text{compact} \Leftrightarrow ^*\!\!B \subseteq \bigcup_{r \in B} \text{hal}(r). $$
+  $$ B \subseteq \mathbb{R}\ \text{compact} \Leftrightarrow ^*\!\!B \subseteq \bigcup_{r \in B} \text{hal}(r). $$
 - Saturation;
 - Overflow principle;
 - ...
