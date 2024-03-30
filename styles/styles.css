@@ -88,6 +88,8 @@ code {
 pre {
   margin: 1em 0;
   overflow: auto;
+  font-family: Georgia, serif;
+  font-size: 17px;
 }
 pre code {
   padding: 0;
@@ -101,7 +103,7 @@ pre code {
 hr {
   background-color: #1a1a1a;
   border: none;
-  height: 2px;
+  height: 1.1px;
   margin: 2em 0;
 }
 table {
