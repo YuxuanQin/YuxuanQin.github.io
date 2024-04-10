@@ -4,14 +4,22 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>絮语</title>
+  <title>index</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css" />
@@ -21,6 +29,7 @@
 <h1 id="絮语">絮语</h1>
 <p>我写下这些文字，于是它们便这般存在。</p>
 <h3 id="二〇二四">二〇二四</h3>
+<p><a href="./birth">生日之前</a></p>
 <p><a href="./heroes">读完了《英雄与坟墓》</a></p>
 <p><a href="./feb29">二月二十九日小记</a></p>
 <p><a href="./finalweek">寒假之前的记录</a></p>
@@ -29,5 +38,7 @@
 <p><a href="./declog">十二月小记</a></p>
 <h3 id="古代史">古代史</h3>
 <p><a href="../old">神秘链接</a></p>
+<p>math test:
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi><mi>u</mi><mi>c</mi><mi>k</mi><mo>∑</mo></mrow><annotation encoding="application/x-tex">fuck\sum</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mord mathnormal">u</span><span class="mord mathnormal">c</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span></p>
 </body>
 </html>
