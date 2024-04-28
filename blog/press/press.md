@@ -6,31 +6,31 @@
 
 小出版并非公司，而是一群爱书的人自发组织而成的团体，他们给想写东西的人提供了平台，我个人认为这是文化解放的必然后果，这是好事。
 
-- [副本制作](fuben.org)，本部在广州。这是我心目中最好的小出版组织，他们出版了很多杰出的纯文学作品，没有他们，这些文字不会（这么快）面世。同时他们和出版社有合作，例如四川文艺出版社的“副本制作”系列。可惜我至今仍未得知到底如何购买他们未与出版社合作发行的书，依我看来，那是真正的小出版、文艺的碎片。
+- [副本制作](https://fuben.org)，本部在广州。这是我心目中最好的小出版组织，他们出版了很多杰出的纯文学作品，没有他们，这些文字不会（这么快）面世。同时他们和出版社有合作，例如四川文艺出版社的“副本制作”系列。可惜我至今仍未得知到底如何购买他们未与出版社合作发行的书，依我看来，那是真正的小出版、文艺的碎片。
 
-- [挪石社](nosbooks.com)，本部在台湾，他们的书没那么多文学气息，只可称为玩艺，或者说更像是玩具。
+- [挪石社](https://nosbooks.com)，本部在台湾，他们的书没那么多文学气息，只可称为玩艺，或者说更像是玩具。
 
-- [单读](owspace.com)，本部在北京，他们做了很多杂志，看起来都还挺有意思，有很强的文学气息。
+- [单读](https://owspace.com)，本部在北京，他们做了很多杂志，看起来都还挺有意思，有很强的文学气息。
 
 
 ## zines
 
 这是外国文化，由 `magazine` 演变而来，我认为这是极有意思的活动：自己编文、设计、出版。一切都是自我的，不受任何监管，“动我一字，男盗女娼”，就是这种全权所有的澄澈，思想就这样完完全全流露出来，无须在意**读者**的目光，因为这是写给**自我**的诗。
 
-- [Lainzine](lainzine.org)，这是我第一次见到“zine”字样的地方，也算是启蒙了，内容大多关于网络，在我看来名气应该挺大的，内容从动画到编程，非常丰富，但是文学性作品少。
+- [Lainzine](https://lainzine.org)，这是我第一次见到“zine”字样的地方，也算是启蒙了，内容大多关于网络，在我看来名气应该挺大的，内容从动画到编程，非常丰富，但是文学性作品少。
 
-  注意：lainzine 似乎在准备中文翻译（[出处](lainchan.org/lit/res/9748.html#9800)）。
+  注意：lainzine 似乎在准备中文翻译（[出处](https://lainchan.org/lit/res/9748.html#9800)）。
 
-- [黑雾 Blackfog](blackfogzine.org)，这份 zine 主要关注文艺作品和漫画，看起来非常有趣！
+- [黑雾 Blackfog](https://blackfogzine.org)，这份 zine 主要关注文艺作品和漫画，看起来非常有趣！
 
 
-- [Nekogirlzine](nekogirlzine.com)，名字没有意义，这份 zine 内容及其古怪（但是并不意味着我不喜欢）：动漫和伊斯兰混合、品钦的名字和欧里庇得斯的言辞穿插在文章之间、略血腥而怪异的照片到处都是、$\LaTeX$ 排版……这一切综合起来，简直就是后现代的盛宴。请看他们自述如下：
+- [Nekogirlzine](https://nekogirlmagazine.com)，名字没有意义，这份 zine 内容及其古怪（但是并不意味着我不喜欢）：动漫和伊斯兰混合、品钦的名字和欧里庇得斯的言辞穿插在文章之间、略血腥而怪异的照片到处都是、$\LaTeX$ 排版……这一切综合起来，简直就是后现代的盛宴。请看他们自述如下：
 
 > This is NEKO GIRL MAGAZINE– a special interest-slash-lifestyle journal for the kind of e-libertine who hasn't seen daylight in sixteen days. Ladies & gents, smelly fujoshi's & pan-fluid perverts, send us your best works. We want illustrations of cute little girls transforming into ooze, poetry about the sensuous edges of rotting garbage, reviews of cheaply-printed Japanese porn, essays on how to survive within the belly of Amazon's torture gardens, rants about the demons occupying academia, homoerotic interviews of arsonists, libidinal screeds & revisionism, fictional sexual encounters with historical icons, suicide manga, and step-by-step guides on how to jam the controls– everything a modern neko girl needs to know.
 >
 > We are a mixed-media rag– we want your prose, poetry, essays, reviews and your illustrations, lithographs, MS Paint scrawls, and derogatory napkin scribbles.
 
-- [Zine wiki](zinewiki.com)，如其名，这里还有很多内容值得探索。
+- [Zine wiki](https://zinewiki.com)，如其名，这里还有很多内容值得探索。
 
 
 
