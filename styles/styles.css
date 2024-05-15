@@ -42,7 +42,7 @@ body {
 }
 p {
   margin: 1em 0;
-  text-indent: 2em each-line;
+  text-indent: 2em;
 }
 a:link {
   color: blue;
