@@ -1,6 +1,6 @@
 # Denotational Semantics (指称语义)
 
-这是我阅读 [Haksell Wiki book/Denotational Semantics](https://en.wikibooks.org/wiki/Haskell/Denotational_semantics)的笔记。
+这是我阅读 [Haksell Wiki book/Denotational Semantics](https://en.wikibooks.org/wiki/Haskell/Denotational_semantics) 的笔记。
 
 ---
 
@@ -72,8 +72,8 @@ $$
 
 > **例子**
 >
-> $1 \sqsubseteq 1$，因为 $ 1 = 1$；
-> $1 \not \sqsubseteq 2$，因为这两个数的定义层级显然是一样的，同时，$ 1 \neq 2$。
+> $1 \sqsubseteq 1$，因为 $1 = 1$；
+> $1 \not \sqsubseteq 2$，因为这两个数的定义层级显然是一样的，同时，$1 \neq 2$。
 
 当然，这个偏序也能拓展到函数层面，只需注意函数层面的 “更有定义”，乃是逐点的：
 
