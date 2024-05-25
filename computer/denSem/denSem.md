@@ -212,17 +212,33 @@ foo Nothing  = Fasle
 
 剩下的内容感觉没写完，而且也主要是关于 Haskell 本身的，姑且速记如下：
 
-- `~` 符号可以强制输入值进入哪条赛道：
+- `~` 符号可以强制输入值进入哪条赛道，做到**强制**惰性：
   ```haskell
   f ~(Just x) = x + 1
   f Nothing   = 0      -- 其实这一行根本没效果
   ```
-  这样所有输入值都会被认作是 `Just x` 的形式，事实上也确实如此，执行 `f Nothing`，ghci 会提示 `*** Exception: <interactive>:(6,1)-(7,13): Non-exhaustive patterns in Just x`，所以下面那一行定义根本不会被识别！
+  这样所有输入值都会被认作是 `Just x` 的形式，事实上也确实如此，执行 `f Nothing`，ghci 会提示 `*** Exception: <interactive>:(6,1)-(7,13): Non-exhaustive patterns in Just x`，所以下面那一行定义根本不会被识别！上面所说的强制惰性便是指，你给我的输入，我甚至懒到连 `Just ...` 的形式都不检查了，全盘收下便是。
 - `!` 强制严格求值，主要是在定义类型的时候使用：
   ```haskell
   data Maybe' a = Just' !a | Nothing'
   ```
   这样，每当程序中出现 `Just' ...` 的时候，省略号里的内容都会被严格求值。
 
+最后，对于数学中常见的 `... = SomeThingAbout(x), where x satisfy ...` 句式，我们可以在 Haskell 中用 `let` 句式来模拟：
+
+```haskell
+nat :: [Int]
+nat = let
+        nat = 1 : (map (+1) nat)
+      in
+        nat
+```
+上面这段代码和如下数学表达式是一样的：
+
+$$
+\text{nat} = U,\, \text{where} U = 1 \cup \text{addOne}(\text{nat}).
+$$
+
+所以，只要把定义物满足的条件写在 `let` 语句中即可。
 
 <p align = "right">五月二十二日早晨</p>

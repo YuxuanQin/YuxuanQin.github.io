@@ -336,6 +336,20 @@ class="sourceCode haskell"><code class="sourceCode haskell"><span id="cb8-1"><a 
 <p>这样，每当程序中出现 <code>Just' ...</code>
 的时候，省略号里的内容都会被严格求值。</p></li>
 </ul>
+<p>最后，对于数学中常见的
+<code>... = SomeThingAbout(x), where x satisfy ...</code>
+句式，我们可以在 Haskell 中用 <code>let</code> 句式来模拟：</p>
+<div class="sourceCode" id="cb9"><pre
+class="sourceCode haskell"><code class="sourceCode haskell"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ot">nat ::</span> [<span class="dt">Int</span>]</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>nat <span class="ot">=</span> <span class="kw">let</span></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>        nat <span class="ot">=</span> <span class="dv">1</span> <span class="op">:</span> (<span class="fu">map</span> (<span class="op">+</span><span class="dv">1</span>) nat)</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>      <span class="kw">in</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>        nat</span></code></pre></div>
+<p>上面这段代码和如下数学表达式是一样的：</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>nat</mtext><mo>=</mo><mi>U</mi><mo separator="true">,</mo><mtext> </mtext><mtext>where</mtext><mi>U</mi><mo>=</mo><mn>1</mn><mo>∪</mo><mtext>addOne</mtext><mo stretchy="false">(</mo><mtext>nat</mtext><mo stretchy="false">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">
+\text{nat} = U,\, \text{where} U = 1 \cup \text{addOne}(\text{nat}).
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6151em;"></span><span class="mord text"><span class="mord">nat</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord text"><span class="mord">where</span></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∪</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">addOne</span></span><span class="mopen">(</span><span class="mord text"><span class="mord">nat</span></span><span class="mclose">)</span><span class="mord">.</span></span></span></span></span></p>
+<p>所以，只要把定义物满足的条件写在 <code>let</code> 语句中即可。</p>
 <p align="right">
 五月二十二日早晨
 </p>

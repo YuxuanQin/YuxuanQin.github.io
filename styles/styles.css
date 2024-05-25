@@ -1,13 +1,13 @@
 html {
   line-height: 1.5;
-  font-family: Georgia, serif;
-  font-size: 19px;
+  font-family: serif;
+  font-size: 16px;
   color: #1a1a1a;
   background-color: #f3ede6;
 }
 body {
   margin: 0 auto;
-  max-width: 60em;
+  max-width: 75%;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 50px;
@@ -15,7 +15,7 @@ body {
   hyphens: auto;
   overflow-wrap: break-word;
   text-rendering: optimizeLegibility;
-  font-kerning: none;
+  font-kerning: auto;
 }
 @media (max-width: 600px) {
   body {
@@ -81,7 +81,8 @@ blockquote {
   color: #606060;
 }
 code {
-  font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+  /* font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace; */
+  font-family: Fira Code, monospace;
   font-size: 85%;
   margin: 0;
 }
