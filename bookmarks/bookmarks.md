@@ -31,6 +31,10 @@
 - [Tom de Jong](https://tdejong.com/)：诺丁汉的博士，为 Midland Graduate School 著有 *Domain theory* 和 *Category Realizability*；
 - [Complex Analysis](https://complex-analysis.com/)：可视化复分析，看起来很不错的补充材料；
 - [Matilde Marcolli](https://www.its.caltech.edu/~matilde/)：修过古典学的语言学家、数学家、达达主义者。网站上有计算语言学资料；
+- [Steve Awdoey](https://awodey.github.io/)：范畴逻辑讲义；
+- [Amar Hadzihasanovic](https://www.ioc.ee/~amar/)：他的范畴论讲义看起来不错，第二讲就引入了 Bicategory，还讲了线图 (String diagram)。
+- [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
+- [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
@@ -63,4 +67,4 @@
 - [lainchan](https://lainchan.org/news.html)
 - [4chan](https://www.4chan.org/index.php)
 
-<p align = "right">五月二十五日</p>
+<p align = "right">五月二十八日</p>
