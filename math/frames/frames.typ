@@ -173,8 +173,33 @@ which is we wanted.
 ]
 
 #thm[Left Galois adjoint preserve suprema, while the right one preserve infima.]
-
 #proof[Guess what? By *Category theory*, left adjoint preserve not only coproduct (hence suprema), but also co-limit, and the situation of right adjoint is similar, qed.]
+
+In lattice theory, the converse statement is also true:
+
+#thm[If a monotone maps $f : X -> Y$ preverse suprema, then it is a left adjoint.]<thm1-2-3>
+The goal is to construct, in a explicit way, a map $g : Y -> X$ satisfies the definition. That is to arrange each $y in Y$ to some value in $X$. Let's first assume $g$ is indeed athe right adjoint of $f$, and find some properties it *must* satisfy which guide our constructtion.
+
+We claim that $g(y)$ *must* be the suprema of all $x$ such that $f(x) <= y$, i.e., this equation must holds:
+
+$ g(y) = sup {x : f(x) <= y}. $
+
+There is no doubt $g(y)$ is a general upper bound of ${x : f(x) <= y}$, also note this set contain $g(y)$ itself as well, since $g(y) <= g(y)$ and then by the adjunction's property. Accordingly, our cliam is true.
+
+So there is actually no other ways to define the behaviour of $g$, we are *forced* to arrange each $y in Y$ to $sup {x : f(x) <= y}$, no other choices. 
+
+#proof[of @thm1-2-3][
+  Define $g : Y -> X, y |-> sup {x : f(x) <= y}$. And we verify this is indeed the right adjoint of $f$:
+
+  - $f(x) <= y$ implies $x <= g(y)$: this is trivial by the definition of $g(y)$.
+
+  - $x <= g(y)$ implies $f(x) <= y$: Please think about the assumption that $f$ preverse arbitrary suprema, which hasn't been used yet. Apply $f$ to both side of the inequality $x <= g(y)$, and by the monotonity:
+
+  $ f(x) <= f(g(y)) = f(sup{u : f(u) <= y}); $
+
+  since $f$ preserve suprema, the last stuff equals to $sup{f(u) : f(u) <= y}$, which is aparently less than or equal to $y$.
+]
+
 == Lattices
 Lattices are just better posets, we concern thoes fancy sets since the topology of a sapce $X$, or $Omega X$, the set of all its open sets is indeed a lattice. #footnote([Why don't you use paratheness, namely use $Omega(X)$? Lol, because the world is ruled by *Category theory*, $Omega$ is a _functor_!])
 
@@ -246,7 +271,8 @@ The main result of this section is the so called "ultralfilters exists" theorem,
 - Primeness: this is more chanllengable, give me some times to digest it. // TODO: finish this proof
 ]
 
-== Pseudocomplement, Heyting and Boolean algebra
+
+== Pseudocomplement
 This is the last section of today (I hope), fuh!
 
 Since defining Heyting algebra needs the preparation of pseudocomplement, we first define this slightly abstract notion:
@@ -278,3 +304,56 @@ We use the convenient notation $a^*$ to denote this (unique) pseudocomplement.
 ]
 
 ]
+
+== Heyting algebras
+Heyting algebras captrue the notion of "semantics implication" in some sense -- those structures are equipped with a so-called _Heyting operation_ "$->$", which can be indentified with the logic implication. There is a interesting correspondence between implications and complements of elements: in (classic) logic, $0$ is the complement of $1$ and vice versa, with these equations:
+
+$ (1 -> 0) = "the complement of" 1; $
+$ (0 -> 0) = "the complement of" 0; $
+
+by definition of implication.
+
+A Heyting algebra extends this correspondence: change "complement" to "pseudocomplement" and add more elements other than $1$ and $0$, at the same time preserving the equations above, namely the pseudocomplement $a^*$ of $a in H$ is equal to $a -> 0$. And this Heyting operation can be extended, too, that is we can define more formulars than just ($square -> 0$), so, finally, here is the definition:
+
+#def[Heyting algebras][A lattice is called a _Heyting algebra_ if it is equipped with a binary _Heyting operation_ "$->$" such that
+
+$ c <= a -> b "if and only if" c and a <= b. $
+
+#remark[
+  - This law is indeed a Galois adjunction, where the left adjoint is the map ($square |-> a and square$) and the right one is ($square |-> (a -> square)$). 
+  - This law ensures that the Heyting operation is indeed a extension of implication of classic logic, i.e., 
+
+  $ a^* = a -> 0, $
+  where $a^*$ is the pseudocomplement of $a$.
+]
+]
+The equation in the definition is *like* the definition of Galois adjunction, but we need to justify that these maps are really _leagal morphisms_ -- monotone maps.  
+
+- The left adjoint is monotone: this is obvious, since by the definition of infima: $ x <= y ==> u and x <= u and y. $
+- The right guy: suppose $x <= y$ and fix $u$, we want to prove $ (u -> x) <= (u -> y)$, which is equavalent to, by definition, $u and (u -> x) <= y$. The trick is: $ u and (u -> x) <= x, $ since $u -> x = u -> x$.
+
+There is a striking result, of the specific left adjoint ($square |-> (a and square)$):
+
+#thm[Every Heyting algebra is distributive.]
+#proof[
+  A lattice is distributive if and only if
+  $ a and (b or c) = (a and b) or (a and c). $
+  And a left adjoint preverse suprema (the $or$ operation), apply this little lemma to our left adjoint, we immediately obtain the distributive law.
+]
+
+Thanks to Galois adjunction, we can obtain two more amazing theorems about Heyting algebra, which is of sattisfactory, in all sense:
+
+#thm[Heyting operation is unique]
+#proof[By the uniqueness of adjoint, and notice the left one ($square |-> (a and square)$) is fixed.]
+
+#thm[A lattice admits a Heyting algebra if this arbitrary distributive law holds:
+$ b and (or_(i in I) a_i) = or_(i in I)(b and a_i). $
+]
+#proof[By @thm1-2-3, plus the observation of monotonity of the map ($square |-> (a and square)$), we obtain a right adjoint of this map, but don't forget the Heyting operation _is_ a right adjoint of it and, adjointy _is_ unique. We are done.]
+
+Some warm notices:
+- All Heyting algebras are distributive, that's true.
+- All _arbitrary distributive_ lattices are equipped with Heyting operations, that's also true. 
+- General distributive lattices don't promise arbitrary distributive law.
+
+== TODO: Boolean algebras
