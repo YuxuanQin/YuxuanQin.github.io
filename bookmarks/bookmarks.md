@@ -35,7 +35,7 @@
 - [Amar Hadzihasanovic](https://www.ioc.ee/~amar/)：他的范畴论讲义看起来不错，第二讲就引入了 Bicategory，还讲了线图 (String diagram)。
 - [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
-
+- [Neil D. Jones](http://hjemmesider.diku.dk/~neil/)：可计算性讲义；
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
 - [NES Ninja](https://nesninja.com/)：NES 游戏；

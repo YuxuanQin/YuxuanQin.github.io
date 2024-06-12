@@ -357,3 +357,18 @@ Some warm notices:
 - General distributive lattices don't promise arbitrary distributive law.
 
 == TODO: Boolean algebras
+
+
+= June 4, 2024
+Today we play with category theory.
+
+== Orthogonal morphisms
+
+== Extremal, strong, and regular
+
+#def[Extremal morphisms][
+  A mono $m$ is extremal, if for any factorisation $m = f compose e$, where $e$ is epi, the $e$ must be an iso, too.
+]
+#eg[
+  + All injections in $bold("Set")$, $bold("Grp")$ and so on.
+]
