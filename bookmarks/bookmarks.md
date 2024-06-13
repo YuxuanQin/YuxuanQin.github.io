@@ -36,9 +36,12 @@
 - [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
 - [Neil D. Jones](http://hjemmesider.diku.dk/~neil/)：可计算性讲义；
+
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
 - [NES Ninja](https://nesninja.com/)：NES 游戏；
+- [Yume wiki](https://yume.wiki/)：梦日记百科；
+- [梦日记中文站](https://yumenikki.info/)
 
 ## 博客
 - [Henrize](https://henrize.kim/)：十字街站长博客；
@@ -51,6 +54,10 @@
 - [quiver](https://q.uiver.app)：在线画交换图；
 - [Temp Email](https://temp-email.dreamhunter2333.xyz/)
 - [Temp files store](https://0x0.st/)：存放临时文件；
+- [Biliblioreads](https://biblioreads.eu.org/)：替代 goodreads；
+- [Invidous](https://invidious.darkness.services/)：替代 Youtube；
+- [SafeTwitch](https://safetwitch.nogafam.fr/)：替代 twitch；
+- [Wikiless](https://wikiless.rawbit.ninja/wiki/Main_Page?lang=en)：替代维基百科；
 
 ## 语言
 - [字統](https://zi.tools/)
@@ -67,4 +74,4 @@
 - [lainchan](https://lainchan.org/news.html)
 - [4chan](https://www.4chan.org/index.php)
 
-<p align = "right">五月二十八日</p>
+<p align = "right">六月十三日</p>
