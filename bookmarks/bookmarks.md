@@ -38,6 +38,7 @@
 - [Neil D. Jones](http://hjemmesider.diku.dk/~neil/)：可计算性讲义；
 - [遗忘的左伴随](https://www.bananaspace.org/wiki/用户:遗忘的左伴随)：很厉害的同学，有关于平展上同调的讲义；
 
+
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
 - [NES Ninja](https://nesninja.com/)：NES 游戏；
