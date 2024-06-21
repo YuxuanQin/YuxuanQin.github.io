@@ -36,6 +36,7 @@
 - [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
 - [Neil D. Jones](http://hjemmesider.diku.dk/~neil/)：可计算性讲义；
+- [遗忘的左伴随](https://www.bananaspace.org/wiki/用户:遗忘的左伴随)：很厉害的同学，有关于平展上同调的讲义；
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
@@ -58,6 +59,8 @@
 - [Invidous](https://invidious.darkness.services/)：替代 Youtube；
 - [SafeTwitch](https://safetwitch.nogafam.fr/)：替代 twitch；
 - [Wikiless](https://wikiless.rawbit.ninja/wiki/Main_Page?lang=en)：替代维基百科；
+- [Send](https://send.mni.li/)：传文件；
+
 
 ## 语言
 - [字統](https://zi.tools/)
