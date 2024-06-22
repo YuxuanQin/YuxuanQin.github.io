@@ -27,6 +27,7 @@
     - [Coq 的类型论](https://coq.inria.fr/doc/master/refman/language/cic.html)；
     - [Mario 的文章 —— Type theory of Lean](https://github.com/digama0/lean-type-theory/releases)；
     - HoTT Book 前几章，或者 *An introduction of HoTT*；
+    - 可以参考[这个日程](https://github.com/sattlerc/hott-reading-course/blob/master/schedule.md)；
 
 ## 八月
 这时候应该比较闲了
