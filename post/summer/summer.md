@@ -23,6 +23,10 @@
   - [Theorem proving in lean](https://leanprover.github.io/theorem_proving_in_lean4/title_page.html)；
   - [Function programming in lean](https://leanprover.github.io/functional_programming_in_lean/)；
   - 继续读 *Lambda calculus and Combinators*；
+  - 进一步了解类型论：
+    - [Coq 的类型论](https://coq.inria.fr/doc/master/refman/language/cic.html)；
+    - [Mario 的文章 —— Type theory of Lean](https://github.com/digama0/lean-type-theory/releases)；
+    - HoTT Book 前几章，或者 *An introduction of HoTT*；
 
 ## 八月
 这时候应该比较闲了
