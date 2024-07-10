@@ -37,6 +37,8 @@
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
 - [Neil D. Jones](http://hjemmesider.diku.dk/~neil/)：可计算性讲义；
 - [遗忘的左伴随](https://www.bananaspace.org/wiki/用户:遗忘的左伴随)：很厉害的同学，有关于平展上同调的讲义；
+- [Birgit Richter](https://www.math.uni-hamburg.de/home/richter/)：主页上有书 *From Categories to Homotopy* 及代数拓扑课程，有深度；
+- [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/)：亚美尼亚人，主页有描述集合论、数理逻辑的讲义；
 
 
 ## 游戏
