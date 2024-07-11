@@ -39,6 +39,7 @@
 - [遗忘的左伴随](https://www.bananaspace.org/wiki/用户:遗忘的左伴随)：很厉害的同学，有关于平展上同调的讲义；
 - [Birgit Richter](https://www.math.uni-hamburg.de/home/richter/)：主页上有书 *From Categories to Homotopy* 及代数拓扑课程，有深度；
 - [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/)：亚美尼亚人，主页有描述集合论、数理逻辑的讲义；
+- [Andrew Marks](https://math.berkeley.edu/~marks/)：主页有集合论、计算理论的讲义，看起来十分现代；
 
 
 ## 游戏
