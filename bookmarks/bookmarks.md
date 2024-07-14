@@ -61,8 +61,13 @@
 - [Temp files store](https://0x0.st/)：存放临时文件；
 - [Biliblioreads](https://biblioreads.eu.org/)：替代 goodreads；
 - [Invidous](https://invidious.darkness.services/)：替代 Youtube；
+- [redlib](https://reddit.idevicehacked.com/)：替代 Reddit；
 - [SafeTwitch](https://safetwitch.nogafam.fr/)：替代 twitch；
 - [Wikiless](https://wikiless.rawbit.ninja/wiki/Main_Page?lang=en)：替代维基百科；
+- [YouTube Music](https://hyperpipe.drgns.space/)：替代 Youtube 音乐；
+- [Quotre](https://quetre.r4fo.com/)：替代 Quora；
+- [Mozhi](https://translate.privacyredirect.com/)：多引擎翻译；
+- [Wolfree](https://gqq.gitlab.io/input/)：高速访问 Wolfram；
 - [Send](https://send.mni.li/)：传文件；
 
 
