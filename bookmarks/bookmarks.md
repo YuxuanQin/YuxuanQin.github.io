@@ -40,6 +40,10 @@
 - [Birgit Richter](https://www.math.uni-hamburg.de/home/richter/)：主页上有书 *From Categories to Homotopy* 及代数拓扑课程，有深度；
 - [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/)：亚美尼亚人，主页有描述集合论、数理逻辑的讲义；
 - [Andrew Marks](https://math.berkeley.edu/~marks/)：主页有集合论、计算理论的讲义，看起来十分现代；
+- [John Baez 的应用范畴论](https://math.ucr.edu/home/baez/act_course/)：应用范畴论课程；
+- [Keith Conrad's Blurbs](https://kconrad.math.uconn.edu/blurbs/)：极好的学习材料，涵盖群、环、几何；
+- [Algebra Topology 2016 - MIT](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)：mit 的代数拓扑；
+- [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2023fa/)：康奈尔的编译器课，适合自学；
 
 
 ## 游戏
