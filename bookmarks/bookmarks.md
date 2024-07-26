@@ -10,6 +10,7 @@
 - [ERGO PROXY SUM](http://ergoproxysum.russelldjones.ru/)：动画《死亡代理人》中的典故、背景知识（俄语）；
 - [L A I N](https://fauux.neocities.org/)：关于 lain 的艺术站点；
 - [万民书社](https://wanmin-books.github.io/)：孩子们，你们的妈妈叫什么？
+- [Библиотека](https://ilibrary.ru/)：俄语图书馆；
 
 ## 学习
 - [科大孙天阳](https://tysunseven.github.io/#)：本科数学题、笔记；
@@ -45,6 +46,7 @@
 - [Algebra Topology 2016 - MIT](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)：mit 的代数拓扑；
 - [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2023fa/)：康奈尔的编译器课，适合自学；
 - [William Gasarch's Computability](https://www.cs.umd.edu/~gasarch/COURSES/452/S24/index.html)：计算理论，有许多补充内容，值得一看；
+- [UTah cs3520](https://my.eng.utah.edu/~cs3520/schedule.html)：编译器；
 
 
 ## 游戏
