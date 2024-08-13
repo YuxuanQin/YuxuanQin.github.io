@@ -47,8 +47,8 @@
 - [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2023fa/)：康奈尔的编译器课，适合自学；
 - [William Gasarch's Computability](https://www.cs.umd.edu/~gasarch/COURSES/452/S24/index.html)：计算理论，有许多补充内容，值得一看；
 - [UTah cs3520](https://my.eng.utah.edu/~cs3520/schedule.html)：编译器；
-- [Jesper Grodal](https://web.math.ku.dk/~jg/): Some (algebraic) topology via category. 
-
+- [Jesper Grodal](https://web.math.ku.dk/~jg/): 用范畴论讲了些代数拓扑；
+- [Izak (Ieke) Moerdijk](https://www.uu.nl/staff/IMoerdijk/Teaching)：*Sheaves in Geometry and Logic* 的作者，网页中有同调代数、同伦论的资料；
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
 - [NES Ninja](https://nesninja.com/)：NES 游戏；
