@@ -24,7 +24,7 @@
 - [黑雾 Blackfog](https://blackfogzine.org)，这份 zine 主要关注文艺作品和漫画，看起来非常有趣！
 
 
-- [Nekogirlzine](https://nekogirlmagazine.com)，名字没有意义，这份 zine 内容及其古怪（但是并不意味着我不喜欢）：动漫和伊斯兰混合、品钦的名字和欧里庇得斯的言辞穿插在文章之间、略血腥而怪异的照片到处都是、$\LaTeX$ 排版……这一切综合起来，简直就是后现代的盛宴。请看他们自述如下：
+- [Nekogirlzine](https://nekogirlmagazine.com)，名字没有意义，这份 zine 内容及其古怪（但是并不意味着我不喜欢）：动漫和伊斯兰混合、品钦的名字和欧里庇得斯的言辞穿插在文章之间、略血腥而怪异的照片到处都是、LaTeX 排版……这一切综合起来，简直就是后现代的盛宴。请看他们自述如下：
 
 > This is NEKO GIRL MAGAZINE– a special interest-slash-lifestyle journal for the kind of e-libertine who hasn't seen daylight in sixteen days. Ladies & gents, smelly fujoshi's & pan-fluid perverts, send us your best works. We want illustrations of cute little girls transforming into ooze, poetry about the sensuous edges of rotting garbage, reviews of cheaply-printed Japanese porn, essays on how to survive within the belly of Amazon's torture gardens, rants about the demons occupying academia, homoerotic interviews of arsonists, libidinal screeds & revisionism, fictional sexual encounters with historical icons, suicide manga, and step-by-step guides on how to jam the controls– everything a modern neko girl needs to know.
 >

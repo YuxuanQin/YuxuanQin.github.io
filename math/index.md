@@ -6,4 +6,6 @@
 
 ## 二〇二四
 
-[[译] 接纳构造主义只需五步](./stages)
+- [*Frames and Locales* 笔记](./frames)
+
+- [[译] 接纳构造主义只需五步](./stages)
