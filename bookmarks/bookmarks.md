@@ -49,6 +49,7 @@
 - [UTah cs3520](https://my.eng.utah.edu/~cs3520/schedule.html)：编译器；
 - [Jesper Grodal](https://web.math.ku.dk/~jg/): 用范畴论讲了些代数拓扑；
 - [Izak (Ieke) Moerdijk](https://www.uu.nl/staff/IMoerdijk/Teaching)：*Sheaves in Geometry and Logic* 的作者，网页中有同调代数、同伦论的资料；
+- [Resources for homotopy theory and K-theory](https://www.homotopytheory.info/)：如其名，有同伦论、K 理论相关的材料。
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
@@ -94,4 +95,4 @@
 - [lainchan](https://lainchan.org/news.html)
 - [4chan](https://www.4chan.org/index.php)
 
-<p align = "right">六月十三日</p>
+<p align = "right">九月二十二日</p>
