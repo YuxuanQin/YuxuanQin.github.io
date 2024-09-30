@@ -50,6 +50,9 @@
 - [Jesper Grodal](https://web.math.ku.dk/~jg/): 用范畴论讲了些代数拓扑；
 - [Izak (Ieke) Moerdijk](https://www.uu.nl/staff/IMoerdijk/Teaching)：*Sheaves in Geometry and Logic* 的作者，网页中有同调代数、同伦论的资料；
 - [Resources for homotopy theory and K-theory](https://www.homotopytheory.info/)：如其名，有同伦论、K 理论相关的材料。
+- [Charles Rezk](https://rezk.web.illinois.edu/)：主页内有准范畴（quasi category）讲义，声称只需要基本的范畴论知识即可阅读。另外，他还组织了一个关于代数拓扑的 [discord 频道](https://rezk.web.illinois.edu/discord.html)。
+- [Ivan Di Liberti](https://diliberti.github.io/)：有数理逻辑的许多课程，还有推荐书单，内容十分齐备，囊括经典四论、范畴逻辑等等。
+- [verbit 的微分几何](http://bogomolov-lab.ru/KURSY/GEOM-2013/)：俄式讲义，内容很丰富，第一讲就提到了层。
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
