@@ -53,6 +53,7 @@
 - [Charles Rezk](https://rezk.web.illinois.edu/)：主页内有准范畴（quasi category）讲义，声称只需要基本的范畴论知识即可阅读。另外，他还组织了一个关于代数拓扑的 [discord 频道](https://rezk.web.illinois.edu/discord.html)。
 - [Ivan Di Liberti](https://diliberti.github.io/)：有数理逻辑的许多课程，还有推荐书单，内容十分齐备，囊括经典四论、范畴逻辑等等。
 - [verbit 的微分几何](http://bogomolov-lab.ru/KURSY/GEOM-2013/)：俄式讲义，内容很丰富，第一讲就提到了层。
+- [Tommaso Moraschini](https://moraschini.github.io/teaching.html)：有代数逻辑的讲义。
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
