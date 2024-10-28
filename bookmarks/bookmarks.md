@@ -54,6 +54,7 @@
 - [Ivan Di Liberti](https://diliberti.github.io/)：有数理逻辑的许多课程，还有推荐书单，内容十分齐备，囊括经典四论、范畴逻辑等等。
 - [verbit 的微分几何](http://bogomolov-lab.ru/KURSY/GEOM-2013/)：俄式讲义，内容很丰富，第一讲就提到了层。
 - [Tommaso Moraschini](https://moraschini.github.io/teaching.html)：有代数逻辑的讲义。
+- [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/)：在名古屋大学任教的丹麦人，有表示论讲义（看着有几个交换图，感觉不错）。
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
