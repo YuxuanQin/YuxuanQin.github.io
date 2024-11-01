@@ -83,7 +83,7 @@
 - [Mozhi](https://translate.privacyredirect.com/)：多引擎翻译；
 - [Wolfree](https://gqq.gitlab.io/input/)：高速访问 Wolfram；
 - [Send](https://send.mni.li/)：传文件；
-
+- [Jitsi](https://jitsi.tildeverse.org/)：快速线上会议，无须登录
 
 ## 语言
 - [字統](https://zi.tools/)
