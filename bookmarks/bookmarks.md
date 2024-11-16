@@ -55,6 +55,8 @@
 - [verbit 的微分几何](http://bogomolov-lab.ru/KURSY/GEOM-2013/)：俄式讲义，内容很丰富，第一讲就提到了层。
 - [Tommaso Moraschini](https://moraschini.github.io/teaching.html)：有代数逻辑的讲义。
 - [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/)：在名古屋大学任教的丹麦人，有表示论讲义（看着有几个交换图，感觉不错）。
+- [经典力学笔记](https://www.bananaspace.org/wiki/用户:Solution/_笔记:_经典力学)：速通大学物理吧！
+- [一些有意思的文章](https://pqnelson.github.io/org-notes/bookmarks.html)：某人记录了一些论文，看着挺有意思。
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
@@ -100,4 +102,4 @@
 - [lainchan](https://lainchan.org/news.html)
 - [4chan](https://www.4chan.org/index.php)
 
-<p align = "right">九月二十二日</p>
+<p align="right">十一月十六日<p/>
