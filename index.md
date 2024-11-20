@@ -6,7 +6,7 @@
 - [数学](./math)
 - [计算机](./computer)
 - [书签](./bookmarks)
-- [想读的书](./wishlist)
+- [想读的书](./toread)
 - [储物间](./store)
 
 我有时候写些[博文](./post)。
