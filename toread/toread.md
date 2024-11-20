@@ -1,4 +1,17 @@
-二〇二四年初雪之前按：欲望大爆发，想起来高中那个记了两百多条 “待读书目” 的本子，姑勉之，勿怠惰！
+二〇二四年十一月一日~~初雪之前~~按：欲望大爆发，想起来高中那个记了两百多条 “待读书目” 的本子，姑勉之，勿怠惰！
+
+## 网络资源
+1. [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
+2. [nCafe - Large sets II](https://golem.ph.utexas.edu/category/2021/06/large_sets_2.html)
+3. [nCafe - Nonstandard arithmetic model](https://golem.ph.utexas.edu/category/2019/06/nonstandard_models_of_arithmet.html)
+4. [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
+5. [nCafe - Ends](https://golem.ph.utexas.edu/category/2014/01/ends.html)
+6. [Examples of Kan extension](https://ao.bloat.cat/exchange/math/questions/1108266/toy-examples-for-kan-extensions)
+7. [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
+8. [Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
+9. [关于少女椿的一切](https://mangatalk.net/shojo-tsubaki/)
+10. [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
+11. [nCafe - Algebraic Closure](https://golem.ph.utexas.edu/category/2021/04/algebraic_closure.html)
 
 ## 想读的书
 - 《萨满教与神话》，富育光，商务印书馆，450 页，2023 版：详细介绍了萨满教。
@@ -31,3 +44,4 @@
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。
+<p align="right">十一月二十日<p/>
