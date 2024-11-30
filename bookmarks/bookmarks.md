@@ -24,7 +24,6 @@
 - [neverendingbooks](http://www.neverendingbooks.org/)
 - [Adam Chlipala](http://adam.chlipala.net/)：在 MIT 做编程语言理论的教授，网站上有书 *Certified Programming with Dependent Types* 及 *Formal Reasoning About Programs*，主要通过 Coq 讲形式化验证；
 - [Martín Hötzel Escardó](https://www.cs.bham.ac.uk/~mhe/)：一大堆东西，*Introduction of HoTT/Univalence in Agda* 的作者；
-- [Lambda Calculus](https://www21.in.tum.de/teaching/lambda/WS23/index.html)：提供了 $\lambda$ 演算的讲义、习题及解答；
 - [THE topology book](https://friedl.app.uni-regensburg.de/)：四千页的拓扑学讲义；
 - [Constructive Logic](http://www.cs.cmu.edu/~crary/317-f23/schedule.html)：CMU 的构造逻辑讲义；
 - [Gert Smolka](https://www.ps.uni-saarland.de/~smolka/)：著有 *Modeling and Proving in Computational Type Theory* 及一本 OCaml 教程；
@@ -57,6 +56,7 @@
 - [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/)：在名古屋大学任教的丹麦人，有表示论讲义（看着有几个交换图，感觉不错）。
 - [经典力学笔记](https://www.bananaspace.org/wiki/用户:Solution/_笔记:_经典力学)：速通大学物理吧！
 - [一些有意思的文章](https://pqnelson.github.io/org-notes/bookmarks.html)：某人记录了一些论文，看着挺有意思。
+- [Bodirsky](https://wwwpub.zih.tu-dresden.de/~bodirsky/)：模型论讲义。
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；

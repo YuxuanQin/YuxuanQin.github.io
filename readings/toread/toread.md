@@ -2,18 +2,26 @@
 
 二〇二四年十一月一日~~初雪之前~~按：欲望大爆发，想起来高中那个记了两百多条 “待读书目” 的本子，姑勉之，勿怠惰！
 
+## 文章
+- [CODENSITY AND THE ULTRAFILTER MONAD](http://www.tac.mta.ca/tac/volumes/28/13/28-13.pdf)：Tom Leinster 出品，必属精品！附有四篇博文：
+  - [nCafe - Where Do Monads Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_monads_come_from.html)
+  - [nCafe - Where Do Ultrafilters Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultrafilters_come_fro.html)
+  - [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
+
 ## 网络资源
-1. [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
-2. [nCafe - Large sets II](https://golem.ph.utexas.edu/category/2021/06/large_sets_2.html)
-3. [nCafe - Nonstandard arithmetic model](https://golem.ph.utexas.edu/category/2019/06/nonstandard_models_of_arithmet.html)
-4. [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
-5. [nCafe - Ends](https://golem.ph.utexas.edu/category/2014/01/ends.html)
-6. [Examples of Kan extension](https://ao.bloat.cat/exchange/math/questions/1108266/toy-examples-for-kan-extensions)
-7. [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
-8. [Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
-9. [关于少女椿的一切](https://mangatalk.net/shojo-tsubaki/)
-10. [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
-11. [nCafe - Algebraic Closure](https://golem.ph.utexas.edu/category/2021/04/algebraic_closure.html)
+- [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
+- [nCafe - Large sets II](https://golem.ph.utexas.edu/category/2021/06/large_sets_2.html)
+- [nCafe - Nonstandard arithmetic model](https://golem.ph.utexas.edu/category/2019/06/nonstandard_models_of_arithmet.html)
+- [Examples of Kan extension](https://ao.bloat.cat/exchange/math/questions/1108266/toy-examples-for-kan-extensions)
+- [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
+- [nCafe - Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
+  - [nLab - Tannaka duality](https://ncatlab.org/nlab/show/Tannaka+duality)
+- [关于少女椿的一切](https://mangatalk.net/shojo-tsubaki/)
+- [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
+- [nCafe - Algebraic Closure](https://golem.ph.utexas.edu/category/2021/04/algebraic_closure.html)
+- [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
+- [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书
+- [How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
 
 ## 想读的书
 - 《萨满教与神话》，富育光，商务印书馆，450 页，2023 版：详细介绍了萨满教。
@@ -31,7 +39,6 @@
 - 《当代伊斯兰教》
 - 《藏传佛教思想史纲》，B946.5
 - 《激荡百年的俄罗斯》，K512/ZH11
-- ~~《卡布斯教诲录》，B373/M02~~ 不好看，挺无聊的
 - 《印度神话》，上书同列同排。
 - 《印度哲学通史》，上书左列同排。
 - 《古代艺术与仪式》，B929.198.4/H00，左侧即消防栓。
