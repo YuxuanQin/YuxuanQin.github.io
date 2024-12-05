@@ -2,26 +2,33 @@
 
 二〇二四年十一月一日~~初雪之前~~按：欲望大爆发，想起来高中那个记了两百多条 “待读书目” 的本子，姑勉之，勿怠惰！
 
-## 文章
+## 文章、报告
 - [CODENSITY AND THE ULTRAFILTER MONAD](http://www.tac.mta.ca/tac/volumes/28/13/28-13.pdf)：Tom Leinster 出品，必属精品！附有四篇博文：
   - [nCafe - Where Do Monads Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_monads_come_from.html)
   - [nCafe - Where Do Ultrafilters Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultrafilters_come_fro.html)
   - [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
+- [Homotopy Type Theory for doing Category Theory](http://davidjaz.com/Talks/DJM_HoTTMIT2020.pdf)
+- [Understanding Intutionism](https://web.math.princeton.edu/%7Enelson/papers/int.pdf)：Nelson；
+- [A Sometimes Funny Book Supposedly about Infinity](https://www.ams.org/notices/200406/rev-harris.pdf)：ams 关于大卫 · 华莱士所著 *Everything and More* 的书评；
+- [An elementary illustrated introduction to simplicial sets](https://arxiv.org/pdf/0809.4221)：讲单纯集，59 页；
+- [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
 - [nCafe - Large sets II](https://golem.ph.utexas.edu/category/2021/06/large_sets_2.html)
 - [nCafe - Nonstandard arithmetic model](https://golem.ph.utexas.edu/category/2019/06/nonstandard_models_of_arithmet.html)
-- [Examples of Kan extension](https://ao.bloat.cat/exchange/math/questions/1108266/toy-examples-for-kan-extensions)
-- [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
+- [nCafe - Algebraic Closure](https://golem.ph.utexas.edu/category/2021/04/algebraic_closure.html)
+- [nCafe - Enrichment and its Limits](https://golem.ph.utexas.edu/category/2017/04/enrichment_and_its_limits.html)
 - [nCafe - Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
   - [nLab - Tannaka duality](https://ncatlab.org/nlab/show/Tannaka+duality)
+- [Examples of Kan extension](https://ao.bloat.cat/exchange/math/questions/1108266/toy-examples-for-kan-extensions)
+- [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
 - [关于少女椿的一切](https://mangatalk.net/shojo-tsubaki/)
 - [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
-- [nCafe - Algebraic Closure](https://golem.ph.utexas.edu/category/2021/04/algebraic_closure.html)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书
 - [How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
+- [超理论坛 - 代数拓扑简介](https://chaoli.club/index.php/6824/0/)
 
 ## 想读的书
 - 《萨满教与神话》，富育光，商务印书馆，450 页，2023 版：详细介绍了萨满教。
@@ -57,4 +64,4 @@
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。
-<p align="right">十一月二十日<p/>
+<p align="right">二〇二四年十二月五日<p/>

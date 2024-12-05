@@ -11,6 +11,8 @@
 - [L A I N](https://fauux.neocities.org/)：关于 lain 的艺术站点；
 - [万民书社](https://wanmin-books.github.io/)：孩子们，你们的妈妈叫什么？
 - [Библиотека](https://ilibrary.ru/)：俄语图书馆；
+- [Авторский Комикс](https://acomics.ru/)：俄语漫画；
+- [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
 
 ## 学习
 - [科大孙天阳](https://tysunseven.github.io/#)：本科数学题、笔记；
