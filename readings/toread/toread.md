@@ -12,6 +12,11 @@
 - [A Sometimes Funny Book Supposedly about Infinity](https://www.ams.org/notices/200406/rev-harris.pdf)：ams 关于大卫 · 华莱士所著 *Everything and More* 的书评；
 - [An elementary illustrated introduction to simplicial sets](https://arxiv.org/pdf/0809.4221)：讲单纯集，59 页；
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
+- 拓扑群相关：
+  - [Locally Compact Groups](https://www.uni-muenster.de/AGKramer/index.php?name=LocallyCompactGroups&menu=members)：明斯特大学某教授的讲义。
+  - [Fourier Analysis on Number Fields](https://math.mit.edu/~sdlh/math99r_f20/index.html)：只要看拓扑群、Понтрягин 对偶那一部分就够了。
+  - [nLab - Pontrjagin duality](https://ncatlab.org/nlab/show/Pontrjagin+dual)：nLab 总是要看的。
+
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -60,6 +65,7 @@
 - 《大唐西域求法高僧传校注》：中华书局
 - 《华严原人论校释》：中华书局
 - 《秦汉史讲义》：秦晖，山西人民出版社
+- 杜布拉夫卡·乌格雷西奇的作品（不认识，但看起来很不错）
 
 
 ## 想看的电影

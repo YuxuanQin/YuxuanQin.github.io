@@ -13,6 +13,7 @@
 - [Библиотека](https://ilibrary.ru/)：俄语图书馆；
 - [Авторский Комикс](https://acomics.ru/)：俄语漫画；
 - [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/)：低科技杂志，探讨“过时”科技对可持续发展能否作出贡献（文化考古）
 
 ## 学习
 - [科大孙天阳](https://tysunseven.github.io/#)：本科数学题、笔记；
@@ -59,6 +60,7 @@
 - [经典力学笔记](https://www.bananaspace.org/wiki/用户:Solution/_笔记:_经典力学)：速通大学物理吧！
 - [一些有意思的文章](https://pqnelson.github.io/org-notes/bookmarks.html)：某人记录了一些论文，看着挺有意思。
 - [Bodirsky](https://wwwpub.zih.tu-dresden.de/~bodirsky/)：模型论讲义。
+- [丁一文](http://faculty.bicmr.pku.edu.cn/~dingyiwen/)：数论讲义（可以作为 serre 的参考）
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
