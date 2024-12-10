@@ -16,7 +16,7 @@
   - [Locally Compact Groups](https://www.uni-muenster.de/AGKramer/index.php?name=LocallyCompactGroups&menu=members)：明斯特大学某教授的讲义。
   - [Fourier Analysis on Number Fields](https://math.mit.edu/~sdlh/math99r_f20/index.html)：只要看拓扑群、Понтрягин 对偶那一部分就够了。
   - [nLab - Pontrjagin duality](https://ncatlab.org/nlab/show/Pontrjagin+dual)：nLab 总是要看的。
-
+- [Riemann Surface](https://www.mathi.uni-heidelberg.de/~freitag/skripten/riemfl.pdf)Eberhard Freitag 的黎曼面讲义，讲了层。
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)

@@ -14,6 +14,7 @@
 - [Авторский Комикс](https://acomics.ru/)：俄语漫画；
 - [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/)：低科技杂志，探讨“过时”科技对可持续发展能否作出贡献（文化考古）
+- AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月日/年月日FullIssue.pdf`。
 
 ## 学习
 - [科大孙天阳](https://tysunseven.github.io/#)：本科数学题、笔记；
@@ -61,6 +62,7 @@
 - [一些有意思的文章](https://pqnelson.github.io/org-notes/bookmarks.html)：某人记录了一些论文，看着挺有意思。
 - [Bodirsky](https://wwwpub.zih.tu-dresden.de/~bodirsky/)：模型论讲义。
 - [丁一文](http://faculty.bicmr.pku.edu.cn/~dingyiwen/)：数论讲义（可以作为 serre 的参考）
+- [MIT 椭圆曲线](https://math.mit.edu/classes/18.783/2023/)：现在已经学了复分析，可以读了（据说课上还会用到 sage，顺便一起学了）
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
