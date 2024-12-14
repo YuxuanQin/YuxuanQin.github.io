@@ -17,6 +17,11 @@
   - [Fourier Analysis on Number Fields](https://math.mit.edu/~sdlh/math99r_f20/index.html)：只要看拓扑群、Понтрягин 对偶那一部分就够了。
   - [nLab - Pontrjagin duality](https://ncatlab.org/nlab/show/Pontrjagin+dual)：nLab 总是要看的。
 - [Riemann Surface](https://www.mathi.uni-heidelberg.de/~freitag/skripten/riemfl.pdf)Eberhard Freitag 的黎曼面讲义，讲了层。
+- 单纯集：
+  - [An elementary illustrated introduction to simplicial sets](https://arxiv.org/abs/0809.4221)：讲单纯集的，看起来不错，59 页；
+  - [A Leisurely Introduction to Simplicial Sets（视频）](https://www.bilibili.com/video/BV1zVq7YmEtn)：40 分钟；
+  - [A LEISURELY INTRODUCTION TO SIMPLICIAL SETS](https://math.jhu.edu/~eriehl/ssets.pdf)：Riehl，14 页；
+
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -26,14 +31,11 @@
 - [nCafe - Enrichment and its Limits](https://golem.ph.utexas.edu/category/2017/04/enrichment_and_its_limits.html)
 - [nCafe - Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
   - [nLab - Tannaka duality](https://ncatlab.org/nlab/show/Tannaka+duality)
-- [Examples of Kan extension](https://ao.bloat.cat/exchange/math/questions/1108266/toy-examples-for-kan-extensions)
 - [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
-- [关于少女椿的一切](https://mangatalk.net/shojo-tsubaki/)
 - [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书
 - [How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
-- [超理论坛 - 代数拓扑简介](https://chaoli.club/index.php/6824/0/)
 
 ## 想读的书
 - 《萨满教与神话》，富育光，商务印书馆，450 页，2023 版：详细介绍了萨满教。
@@ -85,7 +87,9 @@
 - 《〈异形〉与哲学》：也是休闲书，了解一下哲学，以及异形；
 - 《天黑前的夏天》：多丽丝·莱辛，译林出版社（此人拿了诺贝尔奖，另外本书讲中年女人被生活压到发疯）；
 - 《秘密笔记》：作者不认识，人民文学出版社（同样讲人到中年）；
-
+- 佛教相关：
+  - 《佛教基础三十讲》：姚卫群，商务印书馆，2019 年；
+  - 《佛学概论》：姚卫群，线装书局，2021 年；
 
 
 
