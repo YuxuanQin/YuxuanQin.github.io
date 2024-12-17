@@ -50,6 +50,9 @@
 - [Bodirsky](https://wwwpub.zih.tu-dresden.de/~bodirsky/)：模型论讲义。
 - [丁一文](http://faculty.bicmr.pku.edu.cn/~dingyiwen/)：数论讲义（可以作为 serre 的参考）
 - [MIT 椭圆曲线](https://math.mit.edu/classes/18.783/2023/)：现在已经学了复分析，可以读了（据说课上还会用到 sage，顺便一起学了）
+- [Дмитри Повлов](https://dmitripavlov.org/)：有极好的同伦论、范畴论讲义，迅速介绍了单纯集、模型范畴，省去不必要的废话，必须得读啊！（另外，他还有一份给数学家的 git 教程）
+
+
 
 ## 计算机
 - [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2023fa/)：康奈尔的编译器课，适合自学；
@@ -84,6 +87,7 @@
 - [Wolfree](https://gqq.gitlab.io/input/)：快速访问 Wolfram；
 - [Send](https://send.mni.li/)：传文件；
 - [Jitsi](https://jitsi.tildeverse.org/)：快速线上会议，无须登录
+- [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2024 年 12 月 6 日。
 
 ## 语言
 - [字統](https://zi.tools/)

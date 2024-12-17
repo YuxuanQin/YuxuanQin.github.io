@@ -21,6 +21,7 @@
   - [An elementary illustrated introduction to simplicial sets](https://arxiv.org/abs/0809.4221)：讲单纯集的，看起来不错，59 页；
   - [A Leisurely Introduction to Simplicial Sets（视频）](https://www.bilibili.com/video/BV1zVq7YmEtn)：40 分钟；
   - [A LEISURELY INTRODUCTION TO SIMPLICIAL SETS](https://math.jhu.edu/~eriehl/ssets.pdf)：Riehl，14 页；
+- [Category Theory](https://dmitripavlov.org/notes/2018s-6325.pdf)：Дмитри Повлов，例子很丰富，44 页。
 
 
 ## 网络资源
