@@ -51,6 +51,7 @@
 - [丁一文](http://faculty.bicmr.pku.edu.cn/~dingyiwen/)：数论讲义（可以作为 serre 的参考）
 - [MIT 椭圆曲线](https://math.mit.edu/classes/18.783/2023/)：现在已经学了复分析，可以读了（据说课上还会用到 sage，顺便一起学了）
 - [Дмитри Повлов](https://dmitripavlov.org/)：有极好的同伦论、范畴论讲义，迅速介绍了单纯集、模型范畴，省去不必要的废话，必须得读啊！（另外，他还有一份给数学家的 git 教程）
+- [Lectures on the Geometry of Manifolds - Liviu I. Nicolaescu](https://www3.nd.edu/~lnicolae/Lectures.pdf)：看起来很不错的微分几何讲稿。
 
 
 
