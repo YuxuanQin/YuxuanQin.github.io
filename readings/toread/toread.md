@@ -22,6 +22,10 @@
   - [A Leisurely Introduction to Simplicial Sets（视频）](https://www.bilibili.com/video/BV1zVq7YmEtn)：40 分钟；
   - [A LEISURELY INTRODUCTION TO SIMPLICIAL SETS](https://math.jhu.edu/~eriehl/ssets.pdf)：Riehl，14 页；
 - [Category Theory](https://dmitripavlov.org/notes/2018s-6325.pdf)：Дмитри Повлов，例子很丰富，44 页。
+- Alejandra as Translator：好像讨论了阿莱杭德娜和杜拉斯的关系；
+- Galois 理论和覆叠空间：
+  - [Galois theory and coverings](https://ncm.gu.se/pdf/normat/178191_Eriksson3.pdf)：作者不认识，14 页。
+  - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
 
 
 ## 网络资源
@@ -35,8 +39,14 @@
 - [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
 - [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
-- [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书
+- [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
 - [How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
+- [The Vanishing Act: On Duras, Pizarnik, Bachmann, and Müller](https://www.poetryfoundation.org/blog/open-door/74620/the-vanishing-act)：似乎也讨论了阿莱杭德娜和杜拉斯的关系；
+- [Bruno Schulz](https://culture.pl/en/artist/bruno-schulz)：culture.pl 对布鲁诺·舒尔茨的介绍；
+- [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
+- [Github for mathematicians](https://g4m.code4math.org/g4m.html)：数学人用 github 指南；
+
+
 
 ## 想读的书
 - 《萨满教与神话》，富育光，商务印书馆，450 页，2023 版：详细介绍了萨满教。
@@ -91,6 +101,17 @@
 - 佛教相关：
   - 《佛教基础三十讲》：姚卫群，商务印书馆，2019 年；
   - 《佛学概论》：姚卫群，线装书局，2021 年；
+- 《声音集》：人民文学出版社（注意，据《最后的天真》，阿莱杭德娜受他影响极大）；
+- 《金克木译天竺诗文》：`I351.22/J35`，印度文学那一栏；
+- 《镜子与迷宫》：张猛，作家出版社，俄罗斯文化评论；
+- 《生活在树上》：译林出版社，卡尔维诺传；
+
+
+
+
+
+
+
 
 
 
@@ -99,4 +120,7 @@
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。
+
+## 以备不时之需
+- [Path induction again (sorry)](https://github.com/HoTT/book/issues/460OT)：关于 HoTT 中道路归纳的讨论（托管于 github issue）
 <p align="right">二〇二四年十二月五日<p/>
