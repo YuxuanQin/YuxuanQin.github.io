@@ -28,7 +28,6 @@
 - [Matilde Marcolli](https://www.its.caltech.edu/~matilde/)：修过古典学的语言学家、数学家、达达主义者。网站上有计算语言学资料；
 - [Steve Awdoey](https://awodey.github.io/)：范畴逻辑讲义；
 - [Amar Hadzihasanovic](https://www.ioc.ee/~amar/)：他的范畴论讲义看起来不错，第二讲就引入了 Bicategory，还讲了线图 (String diagram)。
-- [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
 - [遗忘的左伴随](https://www.bananaspace.org/wiki/用户:遗忘的左伴随)：很厉害的同学，有关于平展上同调的讲义；
 - [Birgit Richter](https://www.math.uni-hamburg.de/home/richter/)：主页上有书 *From Categories to Homotopy* 及代数拓扑课程，有深度；
@@ -53,6 +52,7 @@
 - [Дмитри Повлов](https://dmitripavlov.org/)：有极好的同伦论、范畴论讲义，迅速介绍了单纯集、模型范畴，省去不必要的废话，必须得读啊！（另外，他还有一份给数学家的 git 教程）
 - [Lectures on the Geometry of Manifolds - Liviu I. Nicolaescu](https://www3.nd.edu/~lnicolae/Lectures.pdf)：看起来很不错的微分几何讲稿。
 - [Real not Complex](https://realnotcomplex.com/)：数学资源库，搜集了各种讲义；
+- [Matthew R. Ballard](https://www.matthewrobertballard.com/teaching/)：用 lean 来学习密码学、导出范畴。
 
 
 
@@ -60,12 +60,14 @@
 - [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2023fa/)：康奈尔的编译器课，适合自学；
 - [William Gasarch's Computability](https://www.cs.umd.edu/~gasarch/COURSES/452/S24/index.html)：计算理论，有许多补充内容，值得一看；
 - [UTah cs3520](https://my.eng.utah.edu/~cs3520/schedule.html)：编译器；
-- [Adam Chlipala](http://adam.chlipala.net/)：在 MIT 做编程语言理论的教授，网站上有书 *Certified Programming with Dependent Types* 及 *Formal Reasoning About Programs*，主要通过 Coq 讲形式化验证；
-- [Martín Hötzel Escardó](https://www.cs.bham.ac.uk/~mhe/)：一大堆东西，*Introduction of HoTT/Univalence in Agda* 的作者；
+- [Adam Chlipala](http://adam.chlipala.net/)：在 MIT 做编程语言理论的教授，主要通过 Coq 讲形式化验证；
 - [Constructive Logic](http://www.cs.cmu.edu/~crary/317-f23/schedule.html)：CMU 的构造逻辑讲义；
 - [Gert Smolka](https://www.ps.uni-saarland.de/~smolka/)：著有 *Modeling and Proving in Computational Type Theory* 及一本 OCaml 教程；
 - [Carlo Angiuli](https://carloangiuli.com/)：著有 *Modern Dependent Types*，回答了很多关于依赖类型论的问题；
 - [Neil D. Jones](http://hjemmesider.diku.dk/~neil/)：可计算性讲义；
+- [CS 152](https://groups.seas.harvard.edu/courses/cs152/2024sp/index.html)：哈佛的编程语言理论；
+- [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/)：mit 的计算理论；
+- [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 
 
 ## 游戏

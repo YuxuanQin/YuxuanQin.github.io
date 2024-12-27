@@ -26,7 +26,7 @@
 - Galois 理论和覆叠空间：
   - [Galois theory and coverings](https://ncm.gu.se/pdf/normat/178191_Eriksson3.pdf)：作者不认识，14 页。
   - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
-
+- [Introduction to nonstandard models of arithmetic](https://victoriagitman.github.io/files/introToPAModels.pdf)：讲非标准模型的报告，幻灯片共 88 页。
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
