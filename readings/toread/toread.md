@@ -122,8 +122,8 @@
 - 《笔墨游戏》：中华书局，2022 年（古典小说分析集）；
 - 《西方文学十五讲》：北京大学出版社，2002 年（速看即可）；
 - 《中国史纲》，张荫麟，中华书局（思想深邃）；
-- 《追寻现代中国》，有英文版 The Search of Morden China，有[MIT 公开课](https://ocw.mit.edu/courses/21h-152-modern-china-spring-2022/)；
-- A History of the Morden Middle East，有[MIT 公开课](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/)
+- 《追寻现代中国》，有英文版 The Search of Morden China，有 [MIT 公开课](https://ocw.mit.edu/courses/21h-152-modern-china-spring-2022/)；
+- A History of the Morden Middle East，有 [MIT 公开课](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/)
 
 
 
