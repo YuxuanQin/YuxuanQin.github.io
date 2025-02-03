@@ -13,9 +13,13 @@
 - [Библиотека](https://ilibrary.ru/)：俄语图书馆；
 - [Авторский Комикс](https://acomics.ru/)：俄语漫画；
 - [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
-- [Low Tech Magazine](https://solar.lowtechmagazine.com/)：低科技杂志，探讨“过时”科技对可持续发展能否作出贡献（文化考古）
-- [neverendingbooks](http://www.neverendingbooks.org/)：看起来像是数学文化史
-- AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月日/年月日FullIssue.pdf`。
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/)：低科技杂志，探讨“过时”科技对可持续发展能否作出贡献（文化考古）；
+- [neverendingbooks](http://www.neverendingbooks.org/)：看起来像是数学文化史；
+- AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月日/年月日FullIssue.pdf`；
+- MIT 公开课系列：
+  - [拉美近代史](https://ocw.mit.edu/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/)，有阅读材料、课程表；
+  - [苏俄史](https://ocw.mit.edu/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/)，有阅读材料、课程表；
+  - [语言学](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/)，有阅读材料、课程表并录像；
 
 ## 数学
 - [科大孙天阳](https://tysunseven.github.io/#)：本科数学题、笔记；
@@ -99,4 +103,4 @@
 - [叶典](http://yedict.com/)
 - [中华全国世界语协会](https://www.chinaesperantoligo.com.cn/)
 
-<p align="right">二〇二四年十二月十日<p/>
+<p align="right">二〇二五年二月三日<p/>
