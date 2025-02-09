@@ -124,8 +124,11 @@
 - 《中国史纲》，张荫麟，中华书局（思想深邃）；
 - 《追寻现代中国》，有英文版 The Search of Morden China，有 [MIT 公开课](https://ocw.mit.edu/courses/21h-152-modern-china-spring-2022/)；
 - A History of the Morden Middle East，有 [MIT 公开课](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/)
-
-
+- 米歇尔·图尼埃的书；
+- 《俄国文学史》，米尔斯基，商务印书馆，2020 年（纳博科夫称这是最好的俄国文学史）；
+- 《诗经图谱》，冈元凤，上海古籍出版社，2024 年；
+- 《瘾君子》，巴勒斯（垮掉的一代毕竟还是值得一读）；
+- 《现代性的五副面孔》，译林出版社；
 
 
 
@@ -137,7 +140,10 @@
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。
+- 《新桥恋人》
+
+
 
 ## 以备不时之需
 - [Path induction again (sorry)](https://github.com/HoTT/book/issues/460OT)：关于 HoTT 中道路归纳的讨论（托管于 github issue）
-<p align="right">二〇二四年十二月五日<p/>
+<p align="right">二〇二五年二月九日<p/>

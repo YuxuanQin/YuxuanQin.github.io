@@ -72,7 +72,8 @@
 - [CS 152](https://groups.seas.harvard.edu/courses/cs152/2024sp/index.html)：哈佛的编程语言理论；
 - [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/)：mit 的计算理论；
 - [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
-
+- [CS 144]：斯坦福的网络课（也许能用来入门 C++？）；
+- [MGS 2021 - 单子](https://cs.ioc.ee/~tarmo/mgs21/)：单子与计算；
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
@@ -103,4 +104,4 @@
 - [叶典](http://yedict.com/)
 - [中华全国世界语协会](https://www.chinaesperantoligo.com.cn/)
 
-<p align="right">二〇二五年二月三日<p/>
+<p align="right">二〇二五年二月九日<p/>
