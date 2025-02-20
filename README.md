@@ -1,5 +1,8 @@
 # 个人主页
 
-这是我的[个人主页](https://fup6m3vj0.codeberg.page)。
+`HTML` 内容由 [pandoc](https://pandoc.org) 生成。
 
-`html` 内容由 `pandoc` 生成。
+另外，本博客同时备份于 Codeberg 和 Github，可通过以下两个网址访问：
+
+- fup6m3vj0.codeberg.page
+- yuxuanqin.github.io
