@@ -37,11 +37,9 @@
 - [nCafe - Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
   - [nLab - Tannaka duality](https://ncatlab.org/nlab/show/Tannaka+duality)
 - [Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
-- [The Use of “Чтобы” in Russian Language](https://learnrussianlanguage.net/the-use-of-%d1%87%d1%82%d0%be%d0%b1%d1%8b-in-russian-language)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
 - [How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
-- [The Vanishing Act: On Duras, Pizarnik, Bachmann, and Müller](https://www.poetryfoundation.org/blog/open-door/74620/the-vanishing-act)：似乎也讨论了阿莱杭德娜和杜拉斯的关系；
 - [Bruno Schulz](https://culture.pl/en/artist/bruno-schulz)：culture.pl 对布鲁诺·舒尔茨的介绍；
 - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
 - [Github for mathematicians](https://g4m.code4math.org/g4m.html)：数学人用 github 指南；
@@ -146,4 +144,4 @@
 
 ## 以备不时之需
 - [Path induction again (sorry)](https://github.com/HoTT/book/issues/460OT)：关于 HoTT 中道路归纳的讨论（托管于 github issue）
-<p align="right">二〇二五年二月九日<p/>
+<p align="right">二〇二五年二月二十日<p/>

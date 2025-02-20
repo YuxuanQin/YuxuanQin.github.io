@@ -22,8 +22,16 @@
 ---
 
 另有需要学习的课程如次：
+
 - *Manifolds, Sheaves, and Cohomology*
 - Marker GTM Logic
 - *Enriched Category*
 - *Coend Calculus*
 - 范畴逻辑
+
+---
+### 参考书
+
+- An introduction to the arithmetic of elliptic curves: 
+  - *Rational Points on Elliptic Curves*
+  - *Elliptic Curves: Number Theory and Cryptography*, washington
