@@ -27,6 +27,7 @@
   - [Galois theory and coverings](https://ncm.gu.se/pdf/normat/178191_Eriksson3.pdf)：作者不认识，14 页。
   - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
 - [Introduction to nonstandard models of arithmetic](https://victoriagitman.github.io/files/introToPAModels.pdf)：讲非标准模型的报告，幻灯片共 88 页。
+- [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)
 
 
 ## 网络资源

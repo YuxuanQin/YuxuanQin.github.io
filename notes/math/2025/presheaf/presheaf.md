@@ -6,7 +6,7 @@ For consistence let's formulate what to prove:
 
 **Theorem.** For any (small) category $\mathbf{C}$, its presheaf category $\hat{\mathbf{C}} := [\mathbf{C}^{\mathrm{op}}, {\mathrm{Set}}]$ is cartesien closed, i.e., for any presheaves $P, Q, R \in \hat{\mathbf{C}}$, there exist a exponential object $R^Q$ whi\hat{\mathbf{C}} is right adjoint to product:
 
-$$\hat{\mathbf{C}}(P tm Q, R) eq \hat{\mathbf{C}}(P, R^Q);$$
+$$\hat{\mathbf{C}}(P \times Q, R) eq \hat{\mathbf{C}}(P, R^Q);$$
 
 *proof:* In the following calculus, the theorems/propositions in the comments after each equation are all in the book *Coend Calculus*.
 
@@ -29,10 +29,9 @@ QED.
 
 ---
 
-The source latex:
+Source of TeX:
 
 ```latex
-$$
 \begin{align}
 \hat{\mathbf{C}}(P, \hat{\mathbf{C}}(\mathbf{y}_ {()} \times Q, R)) & = \int_c {\rm Set}(Pc, \hat{\mathbf{C}}(\mathbf{y}_c \times Q, R))  &(\text{By Thm 1.4.1}) \\
      & = \int_c {\rm Set} (Pc, \int_x {\rm Set}(\mathbf{C}(x, c) \times Qx, Rx)) &(\text{By Thm 1.4.1}) \\
@@ -45,5 +44,4 @@ $$
      & = \hat{\mathbf{C}}(P \times Q, R) &(\text{By Thm 1.4.1}) \\
         
 \end{align}
-$$
 ```
