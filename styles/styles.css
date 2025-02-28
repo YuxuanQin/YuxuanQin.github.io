@@ -22,7 +22,6 @@ body {
 math {
   font-family: "Latin Modern Math";
   overflow-x: auto; /* 允许数学公式左右滑动 */
-  display: block;   /* 确保数学公式作为块元素显示 */
 }
 
 img {
