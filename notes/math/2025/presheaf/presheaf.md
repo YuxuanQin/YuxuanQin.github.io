@@ -2,13 +2,15 @@
 
 We will prove the title by using coend calculus, as hinted in [Coend Calculus](https://arxiv.org/abs/1501.02503) by [Fosco Loregian](https://tetrapharmakon.github.io/).
 
-For consistence let's formulate what to prove:
+For consistence let's first formulate what to prove:
 
 **Theorem.** For any (small) category $\mathbf{C}$, its presheaf category $\hat{\mathbf{C}} := [\mathbf{C}^{\mathrm{op}}, {\mathrm{Set}}]$ is cartesien closed, i.e., for any presheaves $P, Q, R \in \hat{\mathbf{C}}$, there exist a exponential object $R^Q$ whi\hat{\mathbf{C}} is right adjoint to product:
 
 $$\hat{\mathbf{C}}(P \times Q, R) \cong \hat{\mathbf{C}}(P, R^Q);$$
 
-*proof:* In the following calculus, the theorems/propositions in the comments after each equation are all in the book *Coend Calculus*, and $\mathbf{y}_{()}$ it the standard yoneda embedding. 
+*proof:* The exponential object $P^Q$ is defined as $P^Q(c) := \hat{\mathbf{C}}(\mathbf{y}_c \times Q, R)$.
+
+The theorems/propositions in the comments after each equation are all in the book *Coend Calculus*, and $\mathbf{y}_{()}$ is the standard yoneda embedding. 
 
 $$\begin{align}
 \hat{\mathbf{C}}(P, \hat{\mathbf{C}}(\mathbf{y}_ {()} \times Q, R)) & \cong \int_c {\mathrm{Set}}(Pc, \hat{\mathbf{C}}(\mathbf{y}_c \times Q, R))  &(\text{By Thm 1.4.1}) \\
