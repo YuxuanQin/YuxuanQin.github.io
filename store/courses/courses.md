@@ -1,12 +1,4 @@
 # 二〇二五年春季课程
-- 黎曼几何、微分 Galois 理论可听。
-- 据学在吉大的录像，微分几何比较水。
-- 其他课没必要现场听，学在吉大即可。
-
-当然，都可以不听 :]
-
-
-| 名称 | 地点 | 时间 |
 | ---- | ---- | ---- |
 | 黎曼几何 | 敬信 - C 103 | 周六，第 5 节 - 第 7 节|
 | 微分 Galois 理论 | 敬信 - C 103 | 周五，第 9 节 - 第 11 节 |
@@ -21,17 +13,10 @@
 
 ---
 
-另有需要学习的课程如次：
+暂定参考书目：
 
-- *Manifolds, Sheaves, and Cohomology*
-- Marker GTM Logic
-- *Enriched Category*
-- *Coend Calculus*
-- 范畴逻辑
-
----
-### 参考书
-
-- An introduction to the arithmetic of elliptic curves: 
-  - *Rational Points on Elliptic Curves*
-  - *Elliptic Curves: Number Theory and Cryptography*, washington
+| --- | --- |
+| 范畴 | *Coend Calculus*、*Enriched Category* - Kelly |
+| 层与流形 | *Sheaf and manifold* |
+| 代数拓扑 | Dmitri、May |
+| 逻辑 | Marker、Tent |
