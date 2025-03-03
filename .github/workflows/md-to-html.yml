@@ -25,8 +25,12 @@ jobs:
         id: get-changed-files
         run: |
           # 获取当前提交和上一次提交的差异
-          CHANGED_FILES=$(git diff --name-only --diff-filter=M HEAD~1 HEAD | grep '\.md$')
-          echo "Changed .md files: $CHANGED_FILES"
+          CHANGED_FILES=$(git diff --name-only --diff-filter=M HEAD~1 HEAD 2>/dev/null | grep '\.md$' || true)
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No .md files changed."
+          else
+            echo "Changed .md files: $CHANGED_FILES"
+          fi
           echo "::set-output name=changed_files::$CHANGED_FILES"
 
       # 获取当前提交的时间
@@ -78,18 +82,27 @@ jobs:
           IFS='-' read -r YEAR MONTH DAY <<< "$COMMIT_DATE"
           CHINESE_DATE=$(convert_to_chinese_date "$YEAR" "$MONTH" "$DAY")
 
+          # 获取发生变化的 .md 文件
+          CHANGED_FILES=${{ steps.get-changed-files.outputs.changed_files }}
+
+          # 如果没有变化的文件，跳过转换
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No .md files changed. Skipping conversion."
+            exit 0
+          fi
+
           # 转换发生变化的 .md 文件
-          for file in ${{ steps.get-changed-files.outputs.changed_files }}; do
-            if [ -n "$file" ]; then
+          for file in $CHANGED_FILES; do
+            if [ -f "$file" ]; then
               html_file="${file%.md}.html"
-              pandoc -c "/styles/styles.css" "$file" -o "$html_file" --mathml
+              pandoc -c "/styles/styles.css" "$file" -o index.html --mathml
               echo "Converted $file to $html_file"
 
               # 在 .html 文件末尾添加时间戳，并设置靠右对齐
               echo '<footer style="text-align: right;">最后更新：'"$CHINESE_DATE"'</footer>' >> "$html_file"
               echo "Added timestamp to $html_file"
             else
-              echo "No changed .md files to convert."
+              echo "File $file does not exist. Skipping."
             fi
           done
 
@@ -99,5 +112,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto-generated HTML files from changed Markdown with timestamp"
-          git push
+          git commit -m "Auto-generated HTML files from changed Markdown with timestamp" || echo "No changes to commit"
+          git push || echo "No changes to push"
