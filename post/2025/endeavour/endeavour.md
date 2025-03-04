@@ -53,6 +53,7 @@
       1. 执行 `pacman -S fcitx5 fcitx5-rime` 下载 rime 本体；
       2. 执行 `yay -S rime-ice-git` 下载雾凇词库；
       3. 典中典的终端配置：
+
          ```
          patch:
            # 仅使用「雾凇拼音」的默认配置，配置此行即可
@@ -67,6 +68,7 @@
                Shift_L: commit_code  # 可选：保留 Shift 切换英文模式
                Shift_R: commit_code  # 可选：保留 Shift 切换英文模式
           ```
+
       4. 执行 `fcitx5`，直接开始使用输入法；
       5. 执行 `pacman -S fcitx5-qt fcitx5-configtool` 设置输入法；
     - sway：绷，
@@ -77,4 +79,4 @@
 ---
 
 不想写了，好累，看《金瓶梅》😡。
-今晚能看完第五十五回！
+今晚能看完第五十五回！（deepseek 太笨了，今晚这个目标不知能否实现）

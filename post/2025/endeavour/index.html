@@ -91,12 +91,25 @@ href="https://mirrors.tuna.tsinghua.edu.cn/help/archlinuxcn/">tuna
 href="https://codeberg.org/fup6m3vj0/dotfiles">仓库</a>）： -
 输入法：老大难问题😭
 <ol type="1">
-<li>执行 <code>pacman -S fcitx5 fcitx5-rime</code> 下载 rime 本体；</li>
-<li>执行 <code>yay -S rime-ice-git</code> 下载雾凇词库；</li>
-<li>典中典的终端配置：
-<code>patch:       # 仅使用「雾凇拼音」的默认配置，配置此行即可       __include: rime_ice_suggestion:/       # 以下根据自己所需自行定义，仅做参考。       # 针对对应处方的定制条目，请使用 &lt;recipe&gt;.custom.yaml 中配置，例如 rime_ice.custom.yaml       menu:           page_size: 9  # 九行候选栏       ascii_composer:         switch_key:           Caps_Lock: noop  # 禁用 Caps Lock 切换英文模式           Shift_L: commit_code  # 可选：保留 Shift 切换英文模式           Shift_R: commit_code  # 可选：保留 Shift 切换英文模式</code></li>
-<li>执行 <code>fcitx5</code>，直接开始使用输入法；</li>
-<li>执行 <code>pacman -S fcitx5-qt fcitx5-configtool</code> 设置输入法；
+<li><p>执行 <code>pacman -S fcitx5 fcitx5-rime</code> 下载 rime
+本体；</p></li>
+<li><p>执行 <code>yay -S rime-ice-git</code> 下载雾凇词库；</p></li>
+<li><p>典中典的终端配置：</p>
+<pre><code>patch:
+  # 仅使用「雾凇拼音」的默认配置，配置此行即可
+  __include: rime_ice_suggestion:/
+  # 以下根据自己所需自行定义，仅做参考。
+  # 针对对应处方的定制条目，请使用 &lt;recipe&gt;.custom.yaml 中配置，例如 rime_ice.custom.yaml
+  menu:  
+    page_size: 9  # 九行候选栏
+  ascii_composer:
+    switch_key:
+      Caps_Lock: noop  # 禁用 Caps Lock 切换英文模式
+      Shift_L: commit_code  # 可选：保留 Shift 切换英文模式
+      Shift_R: commit_code  # 可选：保留 Shift 切换英文模式</code></pre></li>
+<li><p>执行 <code>fcitx5</code>，直接开始使用输入法；</p></li>
+<li><p>执行 <code>pacman -S fcitx5-qt fcitx5-configtool</code>
+设置输入法；</p>
 <ul>
 <li>sway：绷，</li>
 </ul></li>
@@ -109,7 +122,7 @@ href="https://codeberg.org/fup6m3vj0/dotfiles">仓库</a>）： -
 <code>socks5 127.0.0.1 2080</code> 即可；</li>
 </ul>
 <hr />
-<p>不想写了，好累，看《金瓶梅》😡。 今晚能看完第五十五回！</p>
+<p>不想写了，好累，看《金瓶梅》😡。 今晚能看完第五十五回！（deepseek
+太笨了，今晚这个目标不知能否实现）</p>
 </body>
 </html>
-<div style='text-align: right;'>年三月四日</div>

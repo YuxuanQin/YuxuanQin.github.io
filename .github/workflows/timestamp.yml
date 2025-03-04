@@ -78,12 +78,19 @@ jobs:
           month=${month#0}
           day=${day#0}
 
+          # 将年份转换为中文数字
+          chinese_year=""
+          for (( i=0; i<${#year}; i++ )); do
+            digit=${year:$i:1}
+            chinese_year+=${chinese_numbers[$digit]}
+          done
+
           # 将月份和日期转换为中文
           chinese_month=$(echo $month | sed -e 'y/0123456789/〇一二三四五六七八九/')
           chinese_day=$(echo $day | sed -e 'y/0123456789/〇一二三四五六七八九/')
 
-          # 拼接最终的中文日期
-          formatted_date="<div style='text-align: right;'>${chinese_year}年${chinese_month}月${chinese_day}日</div>"
+          # 拼接最终的中文日期，并用 <footer> 包围
+          formatted_date="<footer style='text-align: right;'>${chinese_year}年${chinese_month}月${chinese_day}日</footer>"
 
           # 更新所有变化的 HTML 文件
           for file in ${{ steps.check-changes.outputs.changed_files }}; do
