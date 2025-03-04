@@ -69,17 +69,10 @@ jobs:
           # 获取当前日期
           current_date=$(TZ=Asia/Shanghai date +"%Y年%m月%d日")
 
-          # 将年份转换为中文数字
-          year=$(echo $current_date | cut -d'年' -f1)
-          chinese_year=""
-          for (( i=0; i<${#year}; i++ )); do
-            digit=${year:$i:1}
-            chinese_year+=${chinese_numbers[$digit]}
-          done
-
-          # 处理月份和日期，去掉前导零并转换为中文
-          month=$(echo $current_date | cut -d'年' -f2 | cut -d'月' -f1)
-          day=$(echo $current_date | cut -d'月' -f2 | cut -d'日' -f1)
+          # 使用 awk 提取年、月、日
+          year=$(echo $current_date | awk -F '年' '{print $1}')
+          month=$(echo $current_date | awk -F '年' '{print $2}' | awk -F '月' '{print $1}')
+          day=$(echo $current_date | awk -F '月' '{print $2}' | awk -F '日' '{print $1}')
 
           # 去掉月份和日期的前导零
           month=${month#0}
