@@ -12,6 +12,6 @@ $$f^{-1}((a, b)) = \bigcup_j \bigcup_m \bigcap_{k \ge m} f^{-1}_{k}((a, b)).$$
 
 其实可以翻译成：
 
-$$f^{-1}((a, b)) = \exist_j \exist_m \forall_{k \ge m}, x \in f^{-1}_{k}((a, b)).$$
+$$f^{-1}((a, b)) = \exists_j \exists_m \forall_{k \ge m}, x \in f^{-1}_{k}((a, b)).$$
 
 这样便一目了然了。
