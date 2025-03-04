@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>endeavour</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="/styles/styles.css" />
+</head>
+<body>
+<h1 id="重回-linux">重回 linux</h1>
+<h2 id="我不会用-windwows">我不会用 windwows……</h2>
+<p>新电脑到了以后准备放下花拳绣腿，老老实实使用 windows
+图得轻松，但是如下几点让我很不爽： - 没有窗口管理器； - 注：实际上有（<a
+href="https://lgug2z.github.io/komorebi/">komorebi</a>），但是全局键变成了
+alt，而且性能也不如 sway 来得高 - 系统内大量广告； - 终端： -
+启动速度太慢； - 不支持 nerd font、图片预览等小功能，文件管理器 yazi
+用得很难受； - wsl 用不熟； - 文件资源管理器不能键盘操作； -
+不知道藏了多少我不需要的东西； - 对 tex 支持可能不如纯 linux 好；</p>
+<p>当然，windows 至少让我玩到了 Sheepy: A shrot adventure。</p>
+<h2 id="安装-endeavour-os">安装 endeavour OS</h2>
+<p>本次重装 linux 依然选择神中神的 endeavour
+OS。上官网逛了一圈，发现它的含金量还在上升🤣： - 社区支持的 <a
+href="https://github.com/EndeavourOS-Community-Editions/sway">Sway
+版本</a>自动配置了 sway、waybar、剪切板（clipphist）、托盘图标。</p>
+<h3 id="安装前">安装前</h3>
+<ol type="1">
+<li>进入<a
+href="https://endeavouros.com/">官网</a>，往下拖动，看到“Asia”字样后，选择镜像下载（吉大、清华均有镜像）；</li>
+<li>下载 ventoy，自不必多说；</li>
+<li>在 windows
+内分盘，无须赋予盘符，即：选原有盘，右键压缩卷，得到新卷即可；</li>
+<li>确保安装了 ventoy 的 U 盘中有 endeavour OS 的 <code>.iso</code>
+文件；</li>
+<li>（通过各种手段）进入 BIOS，并： - 关闭 <code>Secure Boot</code>； -
+关闭 <code>Fast Boot</code>； - 调整驱动顺序，确保 U 盘优先级高于
+Windows；</li>
+<li>保存 BIOS 设置并退出，此时电脑应自动重启；</li>
+</ol>
+<h3 id="安装中">安装中：</h3>
+<ol type="1">
+<li>选择第一个默认启动（当然英伟达显卡另谈）；</li>
+<li>联网；</li>
+<li>选择题：
+<ul>
+<li>如果网络不正常（你懂我意思），一切按<a
+href="https://github.com/EndeavourOS-Community-Editions/sway">计划</a>进行；</li>
+<li>如果网络正常：
+<ul>
+<li>把官方仓库备份到其他地方，尝试用自己的仓库作为安装设置，安装，不行的话进入下一步；</li>
+<li>直接无桌面离线安装；</li>
+<li>进入 tty 后联网，克隆仓库后执行脚本；</li>
+</ul></li>
+</ul></li>
+</ol>
+<h3 id="安装后">安装后</h3>
+<ol type="1">
+<li>如果所有软件都变得很大，执行
+<code>wlr-randr --output 显示器名字 --scale 缩放倍率</code>
+可作相应调整，其中 <code>显示器名字</code> 可通过执行
+<code>wlr-randr</code> 获取，一般输出内容第一行就是；</li>
+<li>如果时间不正常，执行
+<code>timedatectl set-timezone Asia/Shanghai</code> 可调整至正常；</li>
+</ol>
+<h2 id="设置">设置</h2>
+<ol type="1">
+<li>改镜像不题；</li>
+<li><code>pacman -Syyu</code> 不题；</li>
+<li>在 <code>/etc/pacman.conf</code> 内加入 <code>archlinuxcn</code>
+链接，详见 <a
+href="https://mirrors.tuna.tsinghua.edu.cn/help/archlinuxcn/">tuna
+指导</a>；</li>
+<li>具体文件的配置（具体文件见<a
+href="https://codeberg.org/fup6m3vj0/dotfiles">仓库</a>）： -
+输入法：老大难问题😭
+<ol type="1">
+<li>执行 <code>pacman -S fcitx5 fcitx5-rime</code> 下载 rime 本体；</li>
+<li>执行 <code>yay -S rime-ice-git</code> 下载雾凇词库；</li>
+<li>典中典的终端配置：
+<code>patch:       # 仅使用「雾凇拼音」的默认配置，配置此行即可       __include: rime_ice_suggestion:/       # 以下根据自己所需自行定义，仅做参考。       # 针对对应处方的定制条目，请使用 &lt;recipe&gt;.custom.yaml 中配置，例如 rime_ice.custom.yaml       menu:           page_size: 9  # 九行候选栏       ascii_composer:         switch_key:           Caps_Lock: noop  # 禁用 Caps Lock 切换英文模式           Shift_L: commit_code  # 可选：保留 Shift 切换英文模式           Shift_R: commit_code  # 可选：保留 Shift 切换英文模式</code></li>
+<li>执行 <code>fcitx5</code>，直接开始使用输入法；</li>
+<li>执行 <code>pacman -S fcitx5-qt fcitx5-configtool</code> 设置输入法；
+<ul>
+<li>sway：绷，</li>
+</ul></li>
+</ol></li>
+</ol>
+<h2 id="小贴士可能只适用于我个人">小贴士（可能只适用于我个人）</h2>
+<ul>
+<li><code>proxychains</code> 可用来做终端代理，如使用
+<code>nekoray</code>，则在 <code>/etc/proxychains.conf</code> 最后加上
+<code>socks5 127.0.0.1 2080</code> 即可；</li>
+</ul>
+<hr />
+<p>不想写了，好累，看《金瓶梅》😡。</p>
+</body>
+</html>
