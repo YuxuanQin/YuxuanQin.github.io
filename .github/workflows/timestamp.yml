@@ -1,4 +1,4 @@
-name: Update HTML Date
+name: html 时间戳
 
 on:
   push:
@@ -15,51 +15,89 @@ jobs:
         with:
           fetch-depth: 2  # 获取最近两次提交，用于比较变化
 
-      - name: Check for HTML file changes
+      - name: 是否有 html 新增或修改
         id: check-changes
         run: |
           # 获取上一次提交和当前提交之间的差异
-          changed_files=$(git diff --name-only HEAD^ HEAD -- '**.html')
+          # 使用 --diff-filter 过滤出修改（M）和新增（A）的文件
+          changed_files=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- '**.html')
           if [ -z "$changed_files" ]; then
             echo "No HTML files changed. Skipping workflow."
             echo "skip=true" >> $GITHUB_OUTPUT
           else
             echo "HTML files changed. Proceeding with updates."
             echo "skip=false" >> $GITHUB_OUTPUT
+            # 将改动的文件列表保存到环境变量中
+            echo "changed_files=${changed_files}" >> $GITHUB_OUTPUT
           fi
 
-      - name: Exit if no changes
+      - name: 没有就退出
         if: steps.check-changes.outputs.skip == 'true'
         run: exit 0
 
-      - name: Set up Python
+      - name: 设置 python
         if: steps.check-changes.outputs.skip == 'false'
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install dependencies
+      - name: 装依赖
         if: steps.check-changes.outputs.skip == 'false'
         run: |
           python -m pip install --upgrade pip
           pip install pytz
 
-      - name: Update HTML files with date
+      - name: 加时间戳
         if: steps.check-changes.outputs.skip == 'false'
         run: |
-          for file in $(git diff --name-only HEAD^ HEAD -- '**.html'); do
+          # 定义数字到中文的映射
+          declare -A chinese_numbers=(
+            ["0"]="〇"
+            ["1"]="一"
+            ["2"]="二"
+            ["3"]="三"
+            ["4"]="四"
+            ["5"]="五"
+            ["6"]="六"
+            ["7"]="七"
+            ["8"]="八"
+            ["9"]="九"
+          )
+
+          # 获取当前日期
+          current_date=$(TZ=Asia/Shanghai date +"%Y年%m月%d日")
+
+          # 将年份转换为中文数字
+          year=$(echo $current_date | cut -d'年' -f1)
+          chinese_year=""
+          for (( i=0; i<${#year}; i++ )); do
+            digit=${year:$i:1}
+            chinese_year+=${chinese_numbers[$digit]}
+          done
+
+          # 处理月份和日期，去掉前导零并转换为中文
+          month=$(echo $current_date | cut -d'年' -f2 | cut -d'月' -f1)
+          day=$(echo $current_date | cut -d'月' -f2 | cut -d'日' -f1)
+
+          # 去掉月份和日期的前导零
+          month=${month#0}
+          day=${day#0}
+
+          # 将月份和日期转换为中文
+          chinese_month=$(echo $month | sed -e 'y/0123456789/〇一二三四五六七八九/')
+          chinese_day=$(echo $day | sed -e 'y/0123456789/〇一二三四五六七八九/')
+
+          # 拼接最终的中文日期
+          formatted_date="<div style='text-align: right;'>${chinese_year}年${chinese_month}月${chinese_day}日</div>"
+
+          # 更新所有变化的 HTML 文件
+          for file in ${{ steps.check-changes.outputs.changed_files }}; do
             if [ -f "$file" ]; then
-              # 获取当前日期并转换为中文格式
-              current_date=$(TZ=Asia/Shanghai date +"%Y年%m月%d日")
-              current_date=$(echo $current_date | sed -e 'y/0123456789/〇一二三四五六七八九/')
-              # 格式化日期为右对齐
-              formatted_date="<div style='text-align: right;'>$current_date</div>"
-              # 将日期追加到文件末尾
               echo "$formatted_date" >> "$file"
             fi
           done
 
-      - name: Commit and push changes
+      - name: 提交变更
         if: steps.check-changes.outputs.skip == 'false'
         run: |
           git config --global user.name "github-actions[bot]"
