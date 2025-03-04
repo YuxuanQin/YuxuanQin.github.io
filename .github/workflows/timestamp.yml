@@ -27,8 +27,10 @@ jobs:
           else
             echo "HTML files changed. Proceeding with updates."
             echo "skip=false" >> $GITHUB_OUTPUT
-            # 将改动的文件列表保存到环境变量中
-            echo "changed_files=${changed_files}" >> $GITHUB_OUTPUT
+            # 将改动的文件列表保存到环境变量中（多行格式）
+            echo "changed_files<<EOF" >> $GITHUB_OUTPUT
+            echo "$changed_files" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
           fi
 
       - name: 没有就退出
