@@ -104,5 +104,3 @@
 - [古今文字集成](http://ccamc.org/)
 - [叶典](http://yedict.com/)
 - [中华全国世界语协会](https://www.chinaesperantoligo.com.cn/)
-
-<p align="right">二〇二五年二月九日<p/>
