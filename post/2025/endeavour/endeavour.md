@@ -75,6 +75,7 @@
 
 ## 小贴士（可能只适用于我个人）
 - `proxychains` 可用来做终端代理，如使用 `nekoray`，则在 `/etc/proxychains.conf` 最后加上 `socks5 127.0.0.1 2080` 即可；
+- 若 `hmcl` 异常卡顿，可退出，并执行 `hmcl -Dprism.forceGPU=true` 以强制启用 GPU；
 
 ---
 
