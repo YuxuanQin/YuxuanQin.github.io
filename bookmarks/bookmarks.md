@@ -14,7 +14,7 @@
 - [Авторский Комикс](https://acomics.ru/)：俄语漫画；
 - [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/)：低科技杂志，探讨“过时”科技对可持续发展能否作出贡献（文化考古）；
-- [neverendingbooks](http://www.neverendingbooks.org/)：看起来像是数学文化史；
+- [neverendingbooks](https://lievenlebruyn.github.io/neverendingbooks/)：看起来像是数学文化史；
 - AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月日/年月日FullIssue.pdf`；
 - MIT 公开课系列：
   - [拉美近代史](https://ocw.mit.edu/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/)，有阅读材料、课程表；
