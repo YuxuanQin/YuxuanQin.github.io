@@ -98,6 +98,7 @@
 - [Jitsi](https://jitsi.tildeverse.org/)：快速线上会议，无须登录
 - [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2024 年 12 月 6 日。
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
+- 自用 dns: `https://qinyx-dns.deno.dev`；
 
 ## 语言
 - [字統](https://zi.tools/)
