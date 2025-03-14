@@ -15,29 +15,24 @@ jobs:
         with:
           ref: only-md
 
-      - name: Install Fish shell
-        run: sudo apt-get install -y fish
-
       - name: Get changed .md files
         id: changed-md-files
-        shell: fish
         run: |
           # Get the list of added or modified .md files in the latest commit
-          set CHANGED_FILES (git diff --name-only --diff-filter=AM HEAD^ HEAD | grep '\.md$')
+          CHANGED_FILES=$(git diff --name-only --diff-filter=AM HEAD^ HEAD | grep '\.md$')
           echo "Changed or added .md files: $CHANGED_FILES"
           echo "::set-output name=files::$CHANGED_FILES"
 
       - name: Check if there are .md files to process
         id: check-md-files
-        shell: fish
         run: |
-          if test -z "${{ steps.changed-md-files.outputs.files }}"
+          if [ -z "${{ steps.changed-md-files.outputs.files }}" ]; then
             echo "No .md files to process. Exiting."
             echo "::set-output name=has_files::false"
           else
             echo "Found .md files to process."
             echo "::set-output name=has_files::true"
-          end
+          fi
 
       - name: Install pandoc
         if: steps.check-md-files.outputs.has_files == 'true'
@@ -45,19 +40,18 @@ jobs:
 
       - name: Convert .md files to HTML
         if: steps.check-md-files.outputs.has_files == 'true'
-        shell: fish
         run: |
-          for file in (echo ${{ steps.changed-md-files.outputs.files }} | tr ' ' '\n')
+          for file in ${{ steps.changed-md-files.outputs.files }}; do
             # Get the directory of the .md file
-            set dir (dirname "$file")
+            dir=$(dirname "$file")
             echo "Processing $file in directory $dir..."
             # Navigate to the directory
             cd "$dir"
             # Convert the .md file to index.html
-            pandoc -s --css="/styles/styles.css" (basename "$file") -o index.html --mathml
+            pandoc -s --css="/styles/styles.css" "$(basename "$file")" -o index.html --mathml
             # Return to the root directory
             cd -
-          end
+          done
 
       - name: Checkout main branch
         if: steps.check-md-files.outputs.has_files == 'true'
@@ -67,7 +61,6 @@ jobs:
 
       - name: Merge only-md branch into main
         if: steps.check-md-files.outputs.has_files == 'true'
-        shell: fish
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
@@ -76,7 +69,6 @@ jobs:
 
       - name: Commit HTML files to main branch
         if: steps.check-md-files.outputs.has_files == 'true'
-        shell: fish
         run: |
           git add .
           git commit -m "Auto-generated HTML files from .md files in only-md branch"
