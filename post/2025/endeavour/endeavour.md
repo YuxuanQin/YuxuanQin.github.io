@@ -2,16 +2,16 @@
 
 ## 我不会用 windwows……
 新电脑到了以后准备放下花拳绣腿，老老实实使用 windows 图得轻松，但是如下几点让我很不爽：
-- 没有窗口管理器；
-  - 注：实际上有（[komorebi](https://lgug2z.github.io/komorebi/)），但是全局键变成了 alt，而且性能也不如 sway 来得高
-- 系统内大量广告；
-- 终端：
-  - 启动速度太慢；
-  - 不支持 nerd font、图片预览等小功能，文件管理器 yazi 用得很难受；
-  - wsl 用不熟；
-- 文件资源管理器不能键盘操作；
-- 不知道藏了多少我不需要的东西；
-- 对 tex 支持可能不如纯 linux 好；
+  - 没有窗口管理器；
+    - 注：实际上有（[komorebi](https://lgug2z.github.io/komorebi/)），但是全局键变成了 alt，而且性能也不如 sway 来得高
+  - 系统内大量广告；
+  - 终端：
+    - 启动速度太慢；
+    - 不支持 nerd font、图片预览等小功能，文件管理器 yazi 用得很难受；
+    - wsl 用不熟；
+  - 文件资源管理器不能键盘操作；
+  - 不知道藏了多少我不需要的东西；
+  - 对 tex 支持可能不如纯 linux 好；
 
 当然，windows 至少让我玩到了 Sheepy: A shrot adventure。
 
