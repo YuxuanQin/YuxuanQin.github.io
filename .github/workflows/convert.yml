@@ -41,7 +41,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git checkout main
-          git merge --no-ff only-md -m "Merge branch 'only-md' into main"
+          git merge -X theirs only-md -m "Merge branch 'only-md' into main"
           git add .
           git commit -m "Generated HTML files from updated Markdown" || exit 0
           git push origin main
