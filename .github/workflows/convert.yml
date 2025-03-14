@@ -1,0 +1,47 @@
+name: Convert Markdown to HTML
+
+on:
+  push:
+    branches:
+      - only-md
+
+jobs:
+  convert_md_to_html:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Ensure full history is available
+
+      - name: Detect changed .md files
+        id: changed-md
+        run: |
+          CHANGED_FILES=$(git diff --name-only --diff-filter=M,A HEAD^ HEAD | grep '\.md$' || true)
+          if [[ -z "$CHANGED_FILES" ]]; then
+            echo "No new or modified Markdown files. Exiting."
+            exit 0
+          fi
+          echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
+          echo "$CHANGED_FILES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Convert Markdown to HTML
+        run: |
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            dir=$(dirname "$file")
+            cd "$dir" || exit 1
+            pandoc -s --css="/styles/styles.css" "$(basename "$file")" -o index.html --mathml
+            cd - > /dev/null || exit 1
+          done <<< "$CHANGED_FILES"
+
+      - name: Commit and push changes to main
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout main
+          git merge -X theirs only-md -m "Merge branch 'only-md' into main"
+          git add .
+          git commit -m "Generated HTML files from updated Markdown" || exit 0
+          git push origin main
