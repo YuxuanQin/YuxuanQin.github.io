@@ -6,76 +6,42 @@ on:
       - only-md
 
 jobs:
-  convert-md:
+  convert_md_to_html:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout the repository
         uses: actions/checkout@v4
         with:
-          ref: only-md
+          fetch-depth: 0  # Ensure full history is available
 
-      - name: Get changed .md files
-        id: changed-md-files
+      - name: Detect changed .md files
+        id: changed-md
         run: |
-          # Check if the branch has more than one commit
-          if git rev-list --count HEAD > 1; then
-            # Get the list of added or modified .md files in the latest commit
-            CHANGED_FILES=$(git diff --name-only --diff-filter=AM HEAD^ HEAD | grep '\.md$')
-          else
-            # If there's only one commit, list all .md files in that commit
-            CHANGED_FILES=$(git ls-tree --name-only HEAD | grep '\.md$')
+          CHANGED_FILES=$(git diff --name-only --diff-filter=M,A HEAD^ HEAD | grep '\.md$' || true)
+          if [[ -z "$CHANGED_FILES" ]]; then
+            echo "No new or modified Markdown files. Exiting."
+            exit 0
           fi
-          echo "Changed or added .md files: $CHANGED_FILES"
-          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+          echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
+          echo "$CHANGED_FILES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
 
-      - name: Check if there are .md files to process
-        id: check-md-files
+      - name: Convert Markdown to HTML
         run: |
-          if [ -z "${{ steps.changed-md-files.outputs.files }}" ]; then
-            echo "No .md files to process. Exiting."
-            echo "has_files=false" >> $GITHUB_OUTPUT
-          else
-            echo "Found .md files to process."
-            echo "has_files=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Install pandoc
-        if: steps.check-md-files.outputs.has_files == 'true'
-        run: sudo apt-get install -y pandoc
-
-      - name: Convert .md files to HTML
-        if: steps.check-md-files.outputs.has_files == 'true'
-        run: |
-          for file in ${{ steps.changed-md-files.outputs.files }}; do
-            # Get the directory of the .md file
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
             dir=$(dirname "$file")
-            echo "Processing $file in directory $dir..."
-            # Navigate to the directory
-            cd "$dir"
-            # Convert the .md file to index.html
+            cd "$dir" || exit 1
             pandoc -s --css="/styles/styles.css" "$(basename "$file")" -o index.html --mathml
-            # Return to the root directory
-            cd -
-          done
+            cd - > /dev/null || exit 1
+          done <<< "$CHANGED_FILES"
 
-      - name: Checkout main branch
-        if: steps.check-md-files.outputs.has_files == 'true'
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Merge only-md branch into main
-        if: steps.check-md-files.outputs.has_files == 'true'
+      - name: Commit and push changes to main
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git fetch origin only-md
-          git merge origin/only-md --no-ff -m "Merge only-md branch into main"
-
-      - name: Commit HTML files to main branch
-        if: steps.check-md-files.outputs.has_files == 'true'
-        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout main
+          git merge --no-ff only-md -m "Merge branch 'only-md' into main"
           git add .
-          git commit -m "Auto-generated HTML files from .md files in only-md branch"
+          git commit -m "Generated HTML files from updated Markdown" || exit 0
           git push origin main
