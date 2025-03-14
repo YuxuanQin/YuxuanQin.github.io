@@ -7,8 +7,4 @@
 
 用语、排版也没统一，翻译痕迹太重，唯一可以表扬的就是 —— 它存在。
 
-选择你的英雄：
-
-- [Html](./stages.html)
-- [pdf](./stages.pdf)
 - [`tex` 源码](./stages.tex)
