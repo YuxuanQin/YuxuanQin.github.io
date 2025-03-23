@@ -95,8 +95,8 @@
 - [Mozhi](https://translate.privacyredirect.com/)：多引擎翻译；
 - [Wolfree](https://gqq.gitlab.io/input/)：快速访问 Wolfram；
 - [Send](https://send.mni.li/)：传文件；
-- [Jitsi](https://jitsi.tildeverse.org/)：快速线上会议，无须登录
-- [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2024 年 12 月 6 日。
+- [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录
+- [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2025 年 3 月 1 日。
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
 
 ## 语言
