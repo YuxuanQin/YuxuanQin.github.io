@@ -28,7 +28,7 @@
   - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
 - [Introduction to nonstandard models of arithmetic](https://victoriagitman.github.io/files/introToPAModels.pdf)：讲非标准模型的报告，幻灯片共 88 页。
 - [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)
-
+- [COVERAGES AND GROTHENDIECK TOPOSES](https://arxiv.org/pdf/2503.20664)：看起来不错的意象讲义，142 页。
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -40,10 +40,13 @@
   - [nLab - Tannaka duality](https://ncatlab.org/nlab/show/Tannaka+duality)
 - [nCafe - Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
 - [nCafe - How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
+- [nCafe - The Nucleus of a Profunctor: Some Categorified Linear Algebra](https://golem.ph.utexas.edu/category/2013/08/the_nucleus_of_a_profunctor_so.html)
+- [nCafe - Introduction to Categorical Probability](https://golem.ph.utexas.edu/category/2024/08/introduction_to_categorical_pr.html)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
 - [Bruno Schulz](https://culture.pl/en/artist/bruno-schulz)：culture.pl 对布鲁诺·舒尔茨的介绍；
 - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
+
 - [Github for mathematicians](https://g4m.code4math.org/g4m.html)：数学人用 github 指南；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
 
