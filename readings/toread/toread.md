@@ -29,6 +29,7 @@
 - [Introduction to nonstandard models of arithmetic](https://victoriagitman.github.io/files/introToPAModels.pdf)：讲非标准模型的报告，幻灯片共 88 页。
 - [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)
 - [COVERAGES AND GROTHENDIECK TOPOSES](https://arxiv.org/pdf/2503.20664)：看起来不错的意象讲义，142 页。
+- [A categorical derivation of Lebesgue integration](https://arxiv.org/abs/2011.00412): Tom Leinster，24 页。
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -133,7 +134,9 @@
 - 《比萨斜塔》，广西师大出版社（俄罗斯女作家的戏剧）；
 - 萨拉·凯恩的戏剧；
 - 《波峰与波谷》，阎步克，（秦汉魏晋南北朝政治）；
-
+- 《象数与义理》，C/B221.5/ZH11SH
+- 《印度宗教哲学概论》，B928.351/Y15-1
+- 《世界四大文化与东南亚文学》，I330.06
 
 
 

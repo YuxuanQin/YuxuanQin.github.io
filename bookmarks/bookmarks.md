@@ -74,7 +74,7 @@
 - [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 - [CS 144]：斯坦福的网络课（也许能用来入门 C++？）；
 - [MGS 2021 - 单子](https://cs.ioc.ee/~tarmo/mgs21/)：单子与计算；
-
+- [Intro Computing](https://introcomputing.org/)：不知道是啥的东西，不过内容不多，估计也可以速通
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
 - [NES Ninja](https://nesninja.com/)：NES 游戏；
