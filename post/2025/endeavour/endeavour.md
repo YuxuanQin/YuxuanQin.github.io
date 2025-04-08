@@ -1,6 +1,7 @@
 # 重回 linux
 
 **注意**：具体配置如下：
+
 - 发行版：[endeavouros](https://endeavouros.com/)（轻松安装版的 arch）；
 - 桌面环境：无（是的，linux 可以没有桌面环境，但是依然能用图形软件！）；
 - 窗口管理器：[sway](swaywm.org)（用的是 vim 键位）；
@@ -8,6 +9,7 @@
 
 ## 我不会用 windwows……
 新电脑到了以后准备放下花拳绣腿，老老实实使用 windows 图得轻松，但是如下几点让我很不爽：
+
   - 没有窗口管理器；
     - 注：实际上有（[komorebi](https://lgug2z.github.io/komorebi/)），但是全局键变成了 alt，而且性能也不如 sway 来得高
   - 系统内大量广告；
@@ -20,9 +22,9 @@
   - 对 tex 支持可能不如纯 linux 好；
 
 当然，windows 至少让我玩到了 Sheepy: A shrot adventure。
-
 ## 安装 endeavour OS
 本次重装 linux 依然选择神中神的 endeavour OS。上官网逛了一圈，发现它的含金量还在上升🤣：
+
   - 社区支持的 [Sway 版本](https://github.com/EndeavourOS-Community-Editions/sway)自动配置了 sway、waybar、剪切板（clipphist）、托盘图标。
 
 ### 安装前
@@ -31,6 +33,7 @@
   3. 在 windows 内分盘，无须赋予盘符，即：选原有盘，右键压缩卷，得到新卷即可；
   4. 确保安装了 ventoy 的 U 盘中有 endeavour OS 的 `.iso` 文件；
   5. （通过各种手段）进入 BIOS，并：
+
     - 关闭 `Secure Boot`；
     - 关闭 `Fast Boot`；
     - 调整驱动顺序，确保 U 盘优先级高于 Windows；
@@ -101,5 +104,6 @@ exec wlsunset -T 4500
 还有许多东西没好好讲解，譬如 `yay` 和 `pacman`，当然 arch 本身的配置也确实非常丰富，不是一篇文章能讲完的，何况网上已经有那么多好文章。
 
 下面极力推荐几篇文章，在我看来属于不得不品级别：
+
 - [Arch Linux 中文维基](https://wiki.archlinuxcn.org/)的第一节“关于发行版”的全部条目
 - [Arch Linux 简明指南](https://arch.icekylin.online/)的全部内容
