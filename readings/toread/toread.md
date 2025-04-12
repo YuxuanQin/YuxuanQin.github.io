@@ -47,7 +47,6 @@
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
 - [Bruno Schulz](https://culture.pl/en/artist/bruno-schulz)：culture.pl 对布鲁诺·舒尔茨的介绍；
 - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
-
 - [Github for mathematicians](https://g4m.code4math.org/g4m.html)：数学人用 github 指南；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
 
@@ -59,7 +58,6 @@
 - 《神话学理论》，埃里克·萨珀著，刘宗迪译，商务印书馆，432 页，2024 版：神话学教材，看着挺好一本。
 - 《鲁拜集》，张鸿年译，商务印书馆。
 - 《没有男人的女人们》，穆宏燕译，上海文艺出版社。
-- 《瞎猫头鹰》，穆宏燕译，河南大学出版社。
 - 《电影导论》，陈涛，中国人民大学出版社，第二版。
 - 《道连格雷的画像》：王尔德（什么译本都行）
 - 《隧道》，萨瓦托最薄的一本。
@@ -106,7 +104,6 @@
 - 《声音集》：人民文学出版社（注意，据《最后的天真》，阿莱杭德娜受他影响极大）；
 - 《金克木译天竺诗文》：`I351.22/J35`，印度文学那一栏；
 - 《镜子与迷宫》：张猛，作家出版社，俄罗斯文化评论；
-- 《生活在树上》：译林出版社，卡尔维诺传；
 - 《往事与随想》：新译本（《家庭的戏剧》是选本，很短，只有两百多页）；
 - 《秦汉魏晋南北朝简史》：北京大学出版社
 - 《后现代主义与文化理论》：北京大学出版社（看起来是讲后现代的书中最好的一本）
