@@ -20,9 +20,9 @@
   - [拉美近代史](https://ocw.mit.edu/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/)，有阅读材料、课程表；
   - [苏俄史](https://ocw.mit.edu/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/)，有阅读材料、课程表；
   - [语言学](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/)，有阅读材料、课程表并录像；
+- [中国社会科学院大学课程表](https://jw.ucass.edu.cn/kcyjc/kcdg.htm)：有阅读书目推荐
 
 ## 数学
-- [科大孙天阳](https://tysunseven.github.io/#)：本科数学题、笔记；
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
 - [2023 科大实分析](http://home.ustc.edu.cn/~matchbox/real.html)：殷浩的讲义值得一看；
 - [John L. Bell](https://publish.uwo.ca/~jbell/)：有许多关于元数学的资料；
@@ -48,7 +48,6 @@
 - [verbit 的微分几何](http://bogomolov-lab.ru/KURSY/GEOM-2013/)：俄式讲义，内容很丰富，第一讲就提到了层。
 - [Tommaso Moraschini](https://moraschini.github.io/teaching.html)：有代数逻辑的讲义。
 - [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/)：在名古屋大学任教的丹麦人，有表示论讲义（看着有几个交换图，感觉不错）。
-- [经典力学笔记](https://www.bananaspace.org/wiki/用户:Solution/_笔记:_经典力学)：速通大学物理吧！
 - [一些有意思的文章](https://pqnelson.github.io/org-notes/bookmarks.html)：某人记录了一些论文，看着挺有意思。
 - [Bodirsky](https://wwwpub.zih.tu-dresden.de/~bodirsky/)：模型论讲义。
 - [丁一文](http://faculty.bicmr.pku.edu.cn/~dingyiwen/)：数论讲义（可以作为 serre 的参考）
