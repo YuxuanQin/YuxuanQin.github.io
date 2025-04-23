@@ -56,6 +56,7 @@
 - [Lectures on the Geometry of Manifolds - Liviu I. Nicolaescu](https://www3.nd.edu/~lnicolae/Lectures.pdf)：看起来很不错的微分几何讲稿。
 - [Real not Complex](https://realnotcomplex.com/)：数学资源库，搜集了各种讲义；
 - [Matthew R. Ballard](https://www.matthewrobertballard.com/teaching/)：用 lean 来学习密码学、导出范畴。
+- [石亚龙](http://maths.nju.edu.cn/~yshi/)：从微积分到上同调讲义；
 
 
 
