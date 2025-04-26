@@ -30,6 +30,7 @@
 - [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)
 - [COVERAGES AND GROTHENDIECK TOPOSES](https://arxiv.org/pdf/2503.20664)：看起来不错的意象讲义，142 页。
 - [A categorical derivation of Lebesgue integration](https://arxiv.org/abs/2011.00412): Tom Leinster，24 页。
+- [A SHEAF THEORETIC APPROACH TO MEASURE THEORY](https://d-scholarship.pitt.edu/7348/1/Matthew_Jackson_Thesis_2006.pdf)：用层论研究测度论。
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
