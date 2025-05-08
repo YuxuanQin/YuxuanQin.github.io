@@ -22,7 +22,6 @@
   - [A Leisurely Introduction to Simplicial Sets（视频）](https://www.bilibili.com/video/BV1zVq7YmEtn)：40 分钟；
   - [A LEISURELY INTRODUCTION TO SIMPLICIAL SETS](https://math.jhu.edu/~eriehl/ssets.pdf)：Riehl，14 页；
 - [Category Theory](https://dmitripavlov.org/notes/2018s-6325.pdf)：Дмитри Повлов，例子很丰富，44 页。
-- Alejandra as Translator：好像讨论了阿莱杭德娜和杜拉斯的关系；
 - Galois 理论和覆叠空间：
   - [Galois theory and coverings](https://ncm.gu.se/pdf/normat/178191_Eriksson3.pdf)：作者不认识，14 页。
   - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
@@ -46,7 +45,6 @@
 - [nCafe - Introduction to Categorical Probability](https://golem.ph.utexas.edu/category/2024/08/introduction_to_categorical_pr.html)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
-- [Bruno Schulz](https://culture.pl/en/artist/bruno-schulz)：culture.pl 对布鲁诺·舒尔茨的介绍；
 - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
 - [Github for mathematicians](https://g4m.code4math.org/g4m.html)：数学人用 github 指南；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
@@ -140,6 +138,7 @@
   - 《悲伤与理智》；
 - 《大师与玛格丽特》；
 - 《日瓦戈医生》
+- 《见证》，肖斯塔科维奇回忆录
 
 
 

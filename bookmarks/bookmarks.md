@@ -21,6 +21,7 @@
   - [苏俄史](https://ocw.mit.edu/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/)，有阅读材料、课程表；
   - [语言学](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/)，有阅读材料、课程表并录像；
 - [中国社会科学院大学课程表](https://jw.ucass.edu.cn/kcyjc/kcdg.htm)：有阅读书目推荐
+- [苏联宣传画](https://the-eye.eu/public/Images/Russian%20Propaganda/)；
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
