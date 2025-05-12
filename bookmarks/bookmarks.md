@@ -100,6 +100,7 @@
 - [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录
 - [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2025 年 3 月 1 日。
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
+- [Youtube local](https://m.fridu.us/https://www.youtube.com/)：代理；
 
 ## 语言
 - [字統](https://zi.tools/)
