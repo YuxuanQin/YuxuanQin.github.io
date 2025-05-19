@@ -1,21 +1,18 @@
 # 书签
 
-下文提及的书都可免费下载。
 
 ## 文化
-- [书格](https://new.shuge.org/)
+- [书格](https://new.shuge.org/)：扫描本古籍；
 - [中国哲学书电子化计划](https://ctext.org/)
 - [杨卡](http://yanka.lenin.ru/)：关于杨卡的一切（俄语）；
 - [Magazine Hall](https://magazines.gorky.media/)：俄罗斯文学杂志集；
 - [ERGO PROXY SUM](http://ergoproxysum.russelldjones.ru/)：动画《死亡代理人》中的典故、背景知识（俄语）；
 - [L A I N](https://fauux.neocities.org/)：关于 lain 的艺术站点；
-- [万民书社](https://wanmin-books.github.io/)：孩子们，你们的妈妈叫什么？
 - [Библиотека](https://ilibrary.ru/)：俄语图书馆；
 - [Авторский Комикс](https://acomics.ru/)：俄语漫画；
 - [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
-- [Low Tech Magazine](https://solar.lowtechmagazine.com/)：低科技杂志，探讨“过时”科技对可持续发展能否作出贡献（文化考古）；
 - [neverendingbooks](http://www.neverendingbooks.org/)：看起来像是数学文化史；
-- AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月日/年月日FullIssue.pdf`；
+- AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月/年月FullIssue.pdf`；
 - MIT 公开课系列：
   - [拉美近代史](https://ocw.mit.edu/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/)，有阅读材料、课程表；
   - [苏俄史](https://ocw.mit.edu/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/)，有阅读材料、课程表；
@@ -55,7 +52,6 @@
 - [MIT 椭圆曲线](https://math.mit.edu/classes/18.783/2023/)：现在已经学了复分析，可以读了（据说课上还会用到 sage，顺便一起学了）
 - [Дмитри Повлов](https://dmitripavlov.org/)：有极好的同伦论、范畴论讲义，迅速介绍了单纯集、模型范畴，省去不必要的废话，必须得读啊！（另外，他还有一份给数学家的 git 教程）
 - [Lectures on the Geometry of Manifolds - Liviu I. Nicolaescu](https://www3.nd.edu/~lnicolae/Lectures.pdf)：看起来很不错的微分几何讲稿。
-- [Real not Complex](https://realnotcomplex.com/)：数学资源库，搜集了各种讲义；
 - [Matthew R. Ballard](https://www.matthewrobertballard.com/teaching/)：用 lean 来学习密码学、导出范畴。
 - [石亚龙](http://maths.nju.edu.cn/~yshi/)：从微积分到上同调讲义；
 - [莫大代数学](https://halgebra.math.msu.su/)：莫大代数学主页
@@ -77,6 +73,7 @@
 - [CS 144]：斯坦福的网络课（也许能用来入门 C++？）；
 - [MGS 2021 - 单子](https://cs.ioc.ee/~tarmo/mgs21/)：单子与计算；
 - [Intro Computing](https://introcomputing.org/)：不知道是啥的东西，不过内容不多，估计也可以速通
+
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
 - [NES Ninja](https://nesninja.com/)：NES 游戏；
@@ -107,3 +104,6 @@
 - [古今文字集成](http://ccamc.org/)
 - [叶典](http://yedict.com/)
 - [中华全国世界语协会](https://www.chinaesperantoligo.com.cn/)
+
+## 一切都逝去了
+- [万民书社](https://wanmin-books.github.io/)：孩子们，你们的妈妈叫什么？
