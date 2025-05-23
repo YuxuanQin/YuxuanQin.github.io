@@ -19,6 +19,7 @@
   - [语言学](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/)，有阅读材料、课程表并录像；
 - [中国社会科学院大学课程表](https://jw.ucass.edu.cn/kcyjc/kcdg.htm)：有阅读书目推荐
 - [苏联宣传画](https://the-eye.eu/public/Images/Russian%20Propaganda/)；
+- [新东方（非补习机构）](https://www.new-east-archive.org/)：东欧、巴尔干、高加索、俄罗斯文化评论；
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
@@ -54,7 +55,8 @@
 - [Lectures on the Geometry of Manifolds - Liviu I. Nicolaescu](https://www3.nd.edu/~lnicolae/Lectures.pdf)：看起来很不错的微分几何讲稿。
 - [Matthew R. Ballard](https://www.matthewrobertballard.com/teaching/)：用 lean 来学习密码学、导出范畴。
 - [石亚龙](http://maths.nju.edu.cn/~yshi/)：从微积分到上同调讲义；
-- [莫大代数学](https://halgebra.math.msu.su/)：莫大代数学主页
+- [莫大代数学](https://halgebra.math.msu.su/)：莫大代数学主页；
+- [归斌](https://binguimath.github.io/)：清华丘中心教授，有极好的分析讲义；
 
 
 
