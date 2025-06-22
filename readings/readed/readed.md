@@ -1,5 +1,7 @@
 # 已读
 
+
+
 ## 网络资源
 - [nCafe - Ends](https://golem.ph.utexas.edu/category/2014/01/ends.html)：相对 *Coend Calculus* 而言没什么新东西。
 - [nCafe - Sheaves Do Not Belong to Algebraic Geometry](https://golem.ph.utexas.edu/category/2010/02/sheaves_do_not_belong_to_algeb.html)(2025-02-15)：极好的材料，用范畴论揭示了层和平展空间之间的伴随关系、层化函子，十分优雅！材料中还提到了如下几点有用信息：
@@ -7,6 +9,9 @@
   - 若范畴 $C$ 余完备，则对任意 $x \in C$，上范畴 $C/x$ 也余完备；
   - 若 $F : C \to E$ 是函子，且 $E$ 余完备，则 $F$ 通过 Kan 扩张，沿米田函子自动获得一个伴随；
 - [le lemme de la Gare du Nord](https://lievenlebruyn.github.io/neverendingbooks/le-lemme-de-la-gare-du-nord/)：关于米田引理的故事：Mac Lane 于巴黎北站采访米田信夫，正是那天，Mac Lane 得知了米田引理，这天也被看作这条伟大引理的诞辰。（文中还提到 Mac Lane 向布尔巴基极力推荐范畴论，但 Weil 却并未理解其意义的故事）
+- [Category Theory](https://dmitripavlov.org/notes/2018s-6325.pdf)：Дмитри Повлов，例子很丰富，44 页。
+  - Hahn–Banach 定理的范畴表述（example 9.9）、测度空间范畴 Meas 通过 BoolAlg，成为实在范畴：
+  - 纯范畴论的内容不多，和具体数学结合的内容很多。
 
 ## 书
 - 《波斯札记》，穆宏燕：波斯文化评论，乃发表于报纸、杂志上的文章所集。挺有意思的，印象最深是关于藏红花源于波斯一篇，以及波斯某皇客死长安一篇。

@@ -21,8 +21,6 @@
   - [An elementary illustrated introduction to simplicial sets](https://arxiv.org/abs/0809.4221)：讲单纯集的，看起来不错，59 页；
   - [A Leisurely Introduction to Simplicial Sets（视频）](https://www.bilibili.com/video/BV1zVq7YmEtn)：40 分钟；
   - [A LEISURELY INTRODUCTION TO SIMPLICIAL SETS](https://math.jhu.edu/~eriehl/ssets.pdf)：Riehl，14 页；
-- [Category Theory](https://dmitripavlov.org/notes/2018s-6325.pdf)：Дмитри Повлов，例子很丰富，44 页。
-  - 目前注意到的点：Hahn–Banach 定理的范畴表述（example 9.9）、测度空间范畴 Meas 通过 BoolAlg，成为实在范畴：
 - Galois 理论和覆叠空间：
   - [Galois theory and coverings](https://ncm.gu.se/pdf/normat/178191_Eriksson3.pdf)：作者不认识，14 页。
   - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
@@ -31,6 +29,7 @@
 - [COVERAGES AND GROTHENDIECK TOPOSES](https://arxiv.org/pdf/2503.20664)：看起来不错的意象讲义，142 页。
 - [A categorical derivation of Lebesgue integration](https://arxiv.org/abs/2011.00412): Tom Leinster，24 页。
 - [A SHEAF THEORETIC APPROACH TO MEASURE THEORY](https://d-scholarship.pitt.edu/7348/1/Matthew_Jackson_Thesis_2006.pdf)：用层论研究测度论。
+- [The fundamental group and covering spaces](https://arxiv.org/pdf/1106.5650)：Moller，31 页。
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -156,6 +155,8 @@
 - 《河的第三条岸》，游雨频译；
 - 伊凡·克里玛的作品
 - 伊莱娜·内米洛夫斯基的作品；
+- 安德烈·别雷的作品；
+- 阿尔志跋绥夫的作品；
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。
