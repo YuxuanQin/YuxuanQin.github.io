@@ -27,9 +27,10 @@
 - [Introduction to nonstandard models of arithmetic](https://victoriagitman.github.io/files/introToPAModels.pdf)：讲非标准模型的报告，幻灯片共 88 页。
 - [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)
 - [COVERAGES AND GROTHENDIECK TOPOSES](https://arxiv.org/pdf/2503.20664)：看起来不错的意象讲义，142 页。
-- [A categorical derivation of Lebesgue integration](https://arxiv.org/abs/2011.00412): Tom Leinster，24 页。
 - [A SHEAF THEORETIC APPROACH TO MEASURE THEORY](https://d-scholarship.pitt.edu/7348/1/Matthew_Jackson_Thesis_2006.pdf)：用层论研究测度论。
 - [The fundamental group and covering spaces](https://arxiv.org/pdf/1106.5650)：Moller，31 页。
+- [Lectures on Homotopy Theory](https://math.sci.uwo.ca/~jardine/HomTh/)：知乎有人力荐；
+- [Introduction to Representation Theory](http://www-math.mit.edu/~etingof/reprbook.pdf)：Етингов，235 页，修订版；
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -46,7 +47,6 @@
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
 - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
-- [Github for mathematicians](https://g4m.code4math.org/g4m.html)：数学人用 github 指南；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
 
 
@@ -158,6 +158,7 @@
 - 阿尔志跋绥夫的作品；
 - 《那一天》，广西师大出版社；
 - 《冷战温度计的爆表时刻：柏林危机》，童欣：这本感觉也不错，著者专做德国与冷战的。
+- 《视而不见》，广西师大出版社：讲民国画报、广告等等视觉艺术；
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。
