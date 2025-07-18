@@ -3,20 +3,17 @@
 二〇二四年十一月一日~~初雪之前~~按：欲望大爆发，想起来高中那个记了两百多条 “待读书目” 的本子，姑勉之，勿怠惰！
 
 ## 文章、报告
-- [CODENSITY AND THE ULTRAFILTER MONAD](http://www.tac.mta.ca/tac/volumes/28/13/28-13.pdf)：Tom Leinster 出品，必属精品！附有四篇博文：
-  - [nCafe - Where Do Monads Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_monads_come_from.html)
+- [CODENSITY AND THE ULTRAFILTER MONAD](http://www.tac.mta.ca/tac/volumes/28/13/28-13.pdf)：Tom Leinster 出品，必属精品！附有三篇博文：
   - [nCafe - Where Do Ultrafilters Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultrafilters_come_fro.html)
   - [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
-- [Homotopy Type Theory for doing Category Theory](http://davidjaz.com/Talks/DJM_HoTTMIT2020.pdf)
-- [Understanding Intutionism](https://web.math.princeton.edu/%7Enelson/papers/int.pdf)：Nelson；
+  - [codensity monad](https://ncatlab.org/nlab/show/codensity+monad)：nlab 文章；
+- [CODENSITY: ISBELL DUALITY, PRO-OBJECTS, COMPACTNESS AND ACCESSIBILITY](https://arxiv.org/pdf/1910.01014)：Ivan Di Liberti，20 页，可以看成是 Leinster 文章的后传嘿嘿。
 - [A Sometimes Funny Book Supposedly about Infinity](https://www.ams.org/notices/200406/rev-harris.pdf)：ams 关于大卫 · 华莱士所著 *Everything and More* 的书评；
-- [An elementary illustrated introduction to simplicial sets](https://arxiv.org/pdf/0809.4221)：讲单纯集，59 页；
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
 - 拓扑群相关：
   - [Locally Compact Groups](https://www.uni-muenster.de/AGKramer/index.php?name=LocallyCompactGroups&menu=members)：明斯特大学某教授的讲义。
   - [Fourier Analysis on Number Fields](https://math.mit.edu/~sdlh/math99r_f20/index.html)：只要看拓扑群、Понтрягин 对偶那一部分就够了。
-  - [nLab - Pontrjagin duality](https://ncatlab.org/nlab/show/Pontrjagin+dual)：nLab 总是要看的。
-- [Riemann Surface](https://www.mathi.uni-heidelberg.de/~freitag/skripten/riemfl.pdf)Eberhard Freitag 的黎曼面讲义，讲了层。
+- [Riemann Surface](https://www.mathi.uni-heidelberg.de/~freitag/skripten/riemfl.pdf)：Eberhard Freitag 的黎曼面讲义，讲了层。
 - 单纯集：
   - [An elementary illustrated introduction to simplicial sets](https://arxiv.org/abs/0809.4221)：讲单纯集的，看起来不错，59 页；
   - [A Leisurely Introduction to Simplicial Sets（视频）](https://www.bilibili.com/video/BV1zVq7YmEtn)：40 分钟；
@@ -25,12 +22,20 @@
   - [Galois theory and coverings](https://ncm.gu.se/pdf/normat/178191_Eriksson3.pdf)：作者不认识，14 页。
   - [Galois cover and fundamental groups](https://rmehtany.github.io/research/galoisgroups.pdf)：作者好像是个印度人，受 peter may 指导，19 页。
 - [Introduction to nonstandard models of arithmetic](https://victoriagitman.github.io/files/introToPAModels.pdf)：讲非标准模型的报告，幻灯片共 88 页。
-- [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)
+- [The Curry-Howard correspondence today - Xavier Leroy](https://xavierleroy.org/CdF/2018-2019/)：法国人写的讲义，似乎是非常有名的材料。
 - [COVERAGES AND GROTHENDIECK TOPOSES](https://arxiv.org/pdf/2503.20664)：看起来不错的意象讲义，142 页。
-- [A SHEAF THEORETIC APPROACH TO MEASURE THEORY](https://d-scholarship.pitt.edu/7348/1/Matthew_Jackson_Thesis_2006.pdf)：用层论研究测度论。
 - [The fundamental group and covering spaces](https://arxiv.org/pdf/1106.5650)：Moller，31 页。
 - [Lectures on Homotopy Theory](https://math.sci.uwo.ca/~jardine/HomTh/)：知乎有人力荐；
 - [Introduction to Representation Theory](http://www-math.mit.edu/~etingof/reprbook.pdf)：Етингов，235 页，修订版；
+- [ACCESSIBLE CATEGORIES, SET THEORY, AND MODEL THEORY: AN INVITATION](https://arxiv.org/pdf/1904.11307)：Sebastien Vasey（已离开学术界，专做量化），68 页，可达范畴和模型论交融的这个方向似乎挺新的！
+- [The Discovery of My Completeness Proofs](https://daiwz.net/course/logic/books/Henkin_my_discovery.pdf)：Henkin 证明背后的故事；
+- [Model Theory Courses Note](https://poisson.phc.dm.unipi.it/~mennuni/MT_course_notes.pdf)：某意大利老哥的幽默笔记；
+- [Randomness and Computability](https://www.ams.org/journals/notices/201907/rnoti-p1001.pdf)：AMS 的小品文，用于了解南开暑校内容；
+- [The Blind Spot](https://girard.perso.math.cnrs.fr/keio2006.pdf)：Girard 关于逻辑的评论；
+- [Ultrafilters Throughtout Mathematics](https://people.dm.unipi.it/dinasso/ULTRABIBLIO/Goldbring%20-%20Ultrafilters%20throughout%20mathematics%20(2022).pdf)：关于超滤的百科全书，可以细读导论。
+- [ULTRAFILTERS: WHERE TOPOLOGICAL DYNAMICS = ALGEBRA = COMBINATORICS](https://topology.nipissingu.ca/tp/reprints/v18/tp18003.pdf)：Andreas Blass 关于超滤的综述；
+- [Ultrafilters, finite coproducts and locally connected classifying toposes](https://web.science.mq.edu.au/~rgarner/Papers/Ultrafilters.pdf)：Richard Garner，29 页，前几部分挺初步的，可以读。
+
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
@@ -46,8 +51,11 @@
 - [nCafe - Introduction to Categorical Probability](https://golem.ph.utexas.edu/category/2024/08/introduction_to_categorical_pr.html)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
-- [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
+- 模型论与范畴论： 
+  - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
+  - [Category theory and Model theory](https://homepages.math.uic.edu/~jbaldwin/pub/ams2022slidesa.pdf)：John T. Baldwin 的报告，60 页；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
+- [Shelah](https://mathshistory.st-andrews.ac.uk/Biographies/Shelah/)：Shelah 传记；
 
 
 ## 想读的书
@@ -131,7 +139,6 @@
 - 《印度宗教哲学概论》，B928.351/Y15-1
 - 《世界四大文化与东南亚文学》，I330.06
 - 刘文飞译作：
-  - 《萨宁》；
   - 《悲伤与理智》；
 - 《大师与玛格丽特》；
 - 《日瓦戈医生》

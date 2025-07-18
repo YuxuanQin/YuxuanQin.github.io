@@ -57,6 +57,8 @@
 - [石亚龙](http://maths.nju.edu.cn/~yshi/)：从微积分到上同调讲义；
 - [莫大代数学](https://halgebra.math.msu.su/)：莫大代数学主页；
 - [归斌](https://binguimath.github.io/)：清华丘中心教授，有极好的分析讲义；
+- [Clara Löh](loeh.app.uni-regensburg.de)：雷根斯堡教授，有极好的几何群论、（应用）代数拓扑、微分几何讲义，均附有习题；
+- [Isaac Goldbring](https://www.math.uci.edu/~isaac/research.html)：深入的非标准分析讲义、微分几何及表示论课程；
 
 
 
@@ -74,7 +76,8 @@
 - [JHU pl](https://pl.cs.jhu.edu/pl/book/)：jhu 的 pl 课，里面有本书，看起来不错；
 - [CS 144]：斯坦福的网络课（也许能用来入门 C++？）；
 - [MGS 2021 - 单子](https://cs.ioc.ee/~tarmo/mgs21/)：单子与计算；
-- [Intro Computing](https://introcomputing.org/)：不知道是啥的东西，不过内容不多，估计也可以速通
+- [Intro Computing](https://introcomputing.org/)：不知道是啥的东西，不过内容不多，估计也可以速通；
+- [Sam van Gool](https://samvangool.net/)：*Topological Duality for Distributive Lattices* 的著者，主页内有 “对偶与范畴逻辑” 课程的课程表；
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
@@ -93,13 +96,11 @@
 - [quiver](https://q.uiver.app)：在线画交换图；
 - [Temp Email](https://temp-email.dreamhunter2333.xyz/)：临时邮箱；
 - [Temp files store](https://0x0.st/)：存放临时文件；
-- [Mozhi](https://translate.privacyredirect.com/)：多引擎翻译；
 - [Wolfree](https://gqq.gitlab.io/input/)：快速访问 Wolfram；
-- [Send](https://send.mni.li/)：传文件；
 - [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录
 - [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2025 年 3 月 1 日。
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
-- [Youtube local](https://m.fridu.us/https://www.youtube.com/)：代理；
+- [Wormhole](https://wormhole.app/)：传文件（5 G 以上需要自己做种）；
 
 ## 语言
 - [字統](https://zi.tools/)
