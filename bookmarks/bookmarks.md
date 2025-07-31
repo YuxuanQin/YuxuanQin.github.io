@@ -57,7 +57,7 @@
 - [石亚龙](http://maths.nju.edu.cn/~yshi/)：从微积分到上同调讲义；
 - [莫大代数学](https://halgebra.math.msu.su/)：莫大代数学主页；
 - [归斌](https://binguimath.github.io/)：清华丘中心教授，有极好的分析讲义；
-- [Clara Löh](loeh.app.uni-regensburg.de)：雷根斯堡教授，有极好的几何群论、（应用）代数拓扑、微分几何讲义，均附有习题；
+- [Clara Löh](https://loeh.app.uni-regensburg.de)：雷根斯堡教授，有极好的几何群论、（应用）代数拓扑、微分几何讲义，均附有习题；
 - [Isaac Goldbring](https://www.math.uci.edu/~isaac/research.html)：深入的非标准分析讲义、微分几何及表示论课程；
 
 
@@ -101,6 +101,7 @@
 - [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2025 年 3 月 1 日。
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
 - [Wormhole](https://wormhole.app/)：传文件（5 G 以上需要自己做种）；
+- [激活 Windows](https://get.activated.win/)：估计是 4chan 老哥的发明；
 
 ## 语言
 - [字統](https://zi.tools/)

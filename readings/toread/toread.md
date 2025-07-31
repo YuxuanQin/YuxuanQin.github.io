@@ -51,9 +51,6 @@
 - [nCafe - Introduction to Categorical Probability](https://golem.ph.utexas.edu/category/2024/08/introduction_to_categorical_pr.html)
 - [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
-- 模型论与范畴论： 
-  - [For all x implies exist x](https://mattecapu.github.io/ct-zulip-archive/stream/233104-deprecated.3A-logic/topic/for.20all.20x.20implies.20exists.20x.3F.html)：范畴论 zulip 存档，讨论了模型论和逻辑之间的关联；
-  - [Category theory and Model theory](https://homepages.math.uic.edu/~jbaldwin/pub/ams2022slidesa.pdf)：John T. Baldwin 的报告，60 页；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
 - [Shelah](https://mathshistory.st-andrews.ac.uk/Biographies/Shelah/)：Shelah 传记；
 

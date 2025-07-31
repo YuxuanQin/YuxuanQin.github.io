@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>gpg</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="/styles/styles.css" />
+</head>
+<body>
+<h1 id="gpg-常用命令一览">GPG 常用命令一览</h1>
+<p>GPG 是一款加密程序，用处多多：</p>
+<ul>
+<li>加密文件：使用 GPG 给文件上锁后，只有持有钥匙的人才能打开；</li>
+<li>给文件签名：使用 GPG 给文件签名后，其他人可以验证文件的作者；</li>
+<li>其他高级功能。</li>
+</ul>
+<p>黑客圈、学术圈都有许多人在使用这款程序，本文简单介绍如何使用
+GPG，至于如何下载，请自行搜索。</p>
+<h2 id="生成密钥">生成密钥</h2>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--gen-key</span></span></code></pre></div>
+<p>这个命令能生成一把密钥、一把公钥，前者用来开锁，后者用来上锁。</p>
+<h2 id="加密文件">加密文件</h2>
+<div class="sourceCode" id="cb2"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--output</span> <span class="op">&lt;</span>加密后的文件名<span class="op">&gt;</span> --encrypt <span class="op">&lt;</span>想加密的文件<span class="op">&gt;</span> --recipient <span class="op">&lt;</span>收件人<span class="op">&gt;</span></span></code></pre></div>
+<p>注意： - 这样你就得到了一份加密文件，当然，如果懒得起名，可以直接省略
+<code>--output &lt;加密后的文件名&gt;</code>； - GPG
+只认识已经导入的收件人，如果没导入，需要先导入收件人信息。</p>
+<h2 id="解密文件">解密文件</h2>
+<div class="sourceCode" id="cb3"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--output</span> <span class="op">&lt;</span>解密后的文件名<span class="op">&gt;</span> --decrypt <span class="op">&lt;</span>需要解密的文件<span class="op">&gt;</span></span></code></pre></div>
+<h2 id="给文件签名">给文件签名</h2>
+<p>给文件签名有很多种方法：</p>
+<h3 id="在文件内签名并加密">在文件内签名，并加密：</h3>
+<div class="sourceCode" id="cb4"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--sign</span> <span class="op">&lt;</span>需要签名的文件<span class="op">&gt;</span></span></code></pre></div>
+<p>这条命令将产生一份具签名的加密文件。</p>
+<h3 id="在文件内签名且不加密">在文件内签名，且不加密</h3>
+<div class="sourceCode" id="cb5"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--clearsign</span> <span class="op">&lt;</span>需要签名的文件<span class="op">&gt;</span></span></code></pre></div>
+<p>这条命令将产生一份在末尾签名的文件，但没有加密。</p>
+<h3 id="在文件外签名且不加密">在文件外签名，且不加密</h3>
+<div class="sourceCode" id="cb6"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--detach-sign</span> <span class="op">&lt;</span>需要签名的文件<span class="op">&gt;</span></span></code></pre></div>
+<p>这条命令将产生一份单独的签名文件。</p>
+<h2 id="验证签名">验证签名</h2>
+<p>和上面一节一样，需要对症下药。</p>
+<h3 id="签名在文件内且加密">签名在文件内，且加密</h3>
+<h4 id="只验证签名">只验证签名</h4>
+<div class="sourceCode" id="cb7"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--verify</span> <span class="op">&lt;</span>已签名文件<span class="op">&gt;</span></span></code></pre></div>
+<h4 id="验证签名并解密">验证签名并解密</h4>
+<div class="sourceCode" id="cb8"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--decrypt</span> <span class="op">&lt;</span>已签名文件<span class="op">&gt;</span></span></code></pre></div>
+<h3 id="签名在文件内但未加密">签名在文件内，但未加密</h3>
+<div class="sourceCode" id="cb9"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--verify</span> <span class="op">&lt;</span>已签名文件<span class="op">&gt;</span></span></code></pre></div>
+<h3 id="签名在文件外">签名在文件外</h3>
+<div class="sourceCode" id="cb10"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gpg</span> <span class="at">--verify</span> <span class="op">&lt;</span>签名<span class="op">&gt;</span> <span class="op">&lt;</span>文件<span class="op">&gt;</span></span></code></pre></div>
+</body>
+</html>

@@ -13,4 +13,4 @@
 
 欢迎找我聊天：
 
-`oreo_queen 艾特 outlook 点 com`
+`oreo_queen 艾特 outlook 点 com`，[PGP 公钥](./pubkey.txt)（[怎么用？](./store/gpg)）
