@@ -12,6 +12,7 @@
 - [Category Theory](https://dmitripavlov.org/notes/2018s-6325.pdf)：Дмитри Повлов，例子很丰富，44 页。
   - Hahn–Banach 定理的范畴表述（example 9.9）、测度空间范畴 Meas 通过 BoolAlg，成为实在范畴：
   - 纯范畴论的内容不多，和具体数学结合的内容很多。
+- [nlab - Monodromy](https://ncatlab.org/nlab/show/monodromy)：极好的材料，介绍了 monodromy 的性质，主要结果：对于拓扑空间 $X$，$\mathrm{Cov}(X)$ 和 $\mathrm{Set}^{\Pi_1(X)}$ 范畴等价。
 
 ## 书
 - 《波斯札记》，穆宏燕：波斯文化评论，乃发表于报纸、杂志上的文章所集。挺有意思的，印象最深是关于藏红花源于波斯一篇，以及波斯某皇客死长安一篇。
