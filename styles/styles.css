@@ -30,15 +30,7 @@ img {
   display: block;   /* 确保图片作为块元素显示 */
   margin-left: auto;
   margin-right: auto;
-}
-
-img::after {
-  content: attr(alt); /* 使用alt属性作为代替文本 */
-  display: block;
   text-align: center; /* 居中显示代替文本 */
-  margin-top: 5px;
-  font-size: 0.9em;
-  color: #606060;
 }
 
 @media (max-width: 600px) {
