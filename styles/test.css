@@ -1,0 +1,179 @@
+html {
+  line-height: 1.5;
+  font-family: "Noto Serif CJK SC", serif;
+  font-size: 13px;
+  color: #1a1a1a;
+  background-color: #f3ede6;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 73%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  font-kerning: auto;
+}
+
+math {
+  font-family: "Latin Modern Math";
+  overflow-x: auto; /* 允许数学公式左右滑动 */
+}
+
+.figure {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.figure figcaption {
+  margin-top: 5px;
+  font-size: 0.9em;
+  color: #606060;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 0.9em;
+    padding: 1em;
+  }
+  h1 {
+    font-size: 1.8em;
+  }
+}
+
+@media print {
+  body {
+    background-color: transparent;
+    color: black;
+    font-size: 12pt;
+  }
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2, h3, h4 {
+    page-break-after: avoid;
+  }
+}
+
+p {
+  margin: 1em 0;
+  text-indent: 2em;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: rgb(99, 122, 160);
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.4em;
+}
+
+h5, h6 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+h6 {
+  font-weight: normal;
+}
+
+ol, ul {
+  padding-left: 1.7em;
+  margin-top: 1em;
+}
+
+li > ol, li > ul {
+  margin-top: 0;
+}
+
+blockquote {
+  margin: 1em 0 1em 1.7em;
+  padding-left: 1em;
+  border-left: 2px solid #e6e6e6;
+  color: #606060;
+}
+
+code {
+  font-family: Fira Code, monospace;
+  font-size: 80%;
+  margin: 0;
+}
+
+pre {
+  margin: 1em 0;
+  overflow: auto;
+  font-family: Georgia, serif;
+  font-size: 17px;
+}
+
+pre code {
+  padding: 0;
+  overflow: visible;
+  overflow-wrap: normal;
+}
+
+.sourceCode {
+  background-color: transparent;
+  overflow: visible;
+}
+
+hr {
+  background-color: #1a1a1a;
+  border: none;
+  height: 1.1px;
+  margin: 2em 0;
+}
+
+table {
+  margin: 1em 0;
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+  margin-bottom: 0.75em;
+}
+
+tbody {
+  margin-top: 0.5em;
+  border-top: 1px solid #1a1a1a;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+th {
+  border-top: 1px solid #1a1a1a;
+  padding: 0.25em 0.5em 0.25em 0.5em;
+}
+
+td {
+  padding: 0.125em 0.5em 0.25em 0.5em;
+}
+
+header {
+  margin-bottom: 4em;
+  text-align: center;
+}

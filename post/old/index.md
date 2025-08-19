@@ -9,4 +9,4 @@
 
 当时用 [Gridea](https://github.com/getgridea/gridea) 生成了 html、css 等文件。
 
-[回到过去！](./oldindex.html)
+[$$回到过去！$$](./oldindex.html)
