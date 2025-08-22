@@ -3,11 +3,15 @@
 二〇二四年十一月一日~~初雪之前~~按：欲望大爆发，想起来高中那个记了两百多条 “待读书目” 的本子，姑勉之，勿怠惰！
 
 ## 文章、报告
-- [CODENSITY AND THE ULTRAFILTER MONAD](http://www.tac.mta.ca/tac/volumes/28/13/28-13.pdf)：Tom Leinster 出品，必属精品！附有三篇博文：
-  - [nCafe - Where Do Ultrafilters Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultrafilters_come_fro.html)
-  - [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
-  - [codensity monad](https://ncatlab.org/nlab/show/codensity+monad)：nlab 文章；
-- [CODENSITY: ISBELL DUALITY, PRO-OBJECTS, COMPACTNESS AND ACCESSIBILITY](https://arxiv.org/pdf/1910.01014)：Ivan Di Liberti，20 页，可以看成是 Leinster 文章的后传嘿嘿。
+### Codensity 专题学习
+  - [CODENSITY AND THE ULTRAFILTER MONAD](http://www.tac.mta.ca/tac/volumes/28/13/28-13.pdf)：Tom Leinster 出品，必属精品！附有三篇博文：
+    - [nCafe - Where Do Ultrafilters Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultrafilters_come_fro.html)
+    - [nCafe - Where Do Ultraproducts Come From?](https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html)
+    - [codensity monad](https://ncatlab.org/nlab/show/codensity+monad)：nlab 文章；
+  - [CODENSITY: ISBELL DUALITY, PRO-OBJECTS, COMPACTNESS AND ACCESSIBILITY](https://arxiv.org/pdf/1910.01014)：Ivan Di Liberti，20 页，可以看成是 Leinster 文章的后传嘿嘿。
+
+### 其他的
+- [Categorical Probability Theory](https://arxiv.org/pdf/1406.6030)：也受到 Tom 那篇文章的启发，36 页；
 - [A Sometimes Funny Book Supposedly about Infinity](https://www.ams.org/notices/200406/rev-harris.pdf)：ams 关于大卫 · 华莱士所著 *Everything and More* 的书评；
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
 - 拓扑群相关：
@@ -164,6 +168,9 @@
 - 《冷战温度计的爆表时刻：柏林危机》，童欣：这本感觉也不错，著者专做德国与冷战的。
 - 《视而不见》，广西师大出版社：讲民国画报、广告等等视觉艺术；
 - 卡彭铁耳的作品；
+- 《爱、谎言与写作：杜拉斯画传》：这么多图不得不看了！
+- 《潮汐图》：据说是大陆近几年最好的作品；
+
 
 ## 想看的电影
 - 《夜的第三章》，祖拉斯基。

@@ -59,6 +59,7 @@
 - [归斌](https://binguimath.github.io/)：清华丘中心教授，有极好的分析讲义；
 - [Clara Löh](https://loeh.app.uni-regensburg.de)：雷根斯堡教授，有极好的几何群论、（应用）代数拓扑、微分几何讲义，均附有习题；
 - [Isaac Goldbring](https://www.math.uci.edu/~isaac/research.html)：深入的非标准分析讲义、微分几何及表示论课程；
+- [Zhu qi](https://qizhumath.wixsite.com/math)：汉名未知，目前在波恩马普所，有各种课程的笔记；
 
 
 
