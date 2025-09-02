@@ -28,7 +28,6 @@
 - [George Mark Bergman](https://math.berkeley.edu/~gbergman/)： *An Invitation to General Algebra and Universal Constructions* 的作者；
 - [Timothy Y. Chow's homepage](http://timothychow.net/index.html)：*A Beginner's guide to forcing* 的作者；
 - [Tom de Jong](https://tdejong.com/)：诺丁汉的博士，为 Midland Graduate School 著有 *Domain theory* 和 *Category Realizability*；
-- [Matilde Marcolli](https://www.its.caltech.edu/~matilde/)：修过古典学的语言学家、数学家、达达主义者。网站上有计算语言学资料；
 - [Steve Awdoey](https://awodey.github.io/)：范畴逻辑讲义；
 - [Amar Hadzihasanovic](https://www.ioc.ee/~amar/)：他的范畴论讲义看起来不错，第二讲就引入了 Bicategory，还讲了线图 (String diagram)。
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/278x.html)：范畴逻辑；
@@ -60,6 +59,8 @@
 - [Clara Löh](https://loeh.app.uni-regensburg.de)：雷根斯堡教授，有极好的几何群论、（应用）代数拓扑、微分几何讲义，均附有习题；
 - [Isaac Goldbring](https://www.math.uci.edu/~isaac/research.html)：深入的非标准分析讲义、微分几何及表示论课程；
 - [Zhu qi](https://qizhumath.wixsite.com/math)：汉名未知，目前在波恩马普所，有各种课程的笔记；
+- [Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/)：此人在 ICM 作过报告，有微分几何、微分拓扑的讲义；
+- [Henry Wilton](https://www.dpmms.cam.ac.uk/~hjrw2/)：有几何群论的题、黎曼面的讲义；
 
 
 

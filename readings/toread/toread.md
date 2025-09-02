@@ -11,9 +11,9 @@
   - [codensity monad](https://ncatlab.org/nlab/show/codensity+monad)：nlab 文章；
 - [CODENSITY: ISBELL DUALITY, PRO-OBJECTS, COMPACTNESS AND ACCESSIBILITY](https://arxiv.org/pdf/1910.01014)：Ivan Di Liberti，20 页，可以看成是 Leinster 文章的后传嘿嘿。
 - [Categorical Probability Theory](https://arxiv.org/pdf/1406.6030)：也受到 Tom 那篇文章的启发，36 页；
+- [CODENSITY AND STONE SPACES](https://arxiv.org/pdf/1409.1370)：如其名
 
 ### 其他的
-- [A Sometimes Funny Book Supposedly about Infinity](https://www.ams.org/notices/200406/rev-harris.pdf)：ams 关于大卫 · 华莱士所著 *Everything and More* 的书评；
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
 - 拓扑群相关：
   - [Locally Compact Groups](https://www.uni-muenster.de/AGKramer/index.php?name=LocallyCompactGroups&menu=members)：明斯特大学某教授的讲义。
@@ -35,18 +35,18 @@
 - [ACCESSIBLE CATEGORIES, SET THEORY, AND MODEL THEORY: AN INVITATION](https://arxiv.org/pdf/1904.11307)：Sebastien Vasey（已离开学术界，专做量化），68 页，可达范畴和模型论交融的这个方向似乎挺新的！
 - [The Discovery of My Completeness Proofs](https://daiwz.net/course/logic/books/Henkin_my_discovery.pdf)：Henkin 证明背后的故事；
 - [Model Theory Courses Note](https://poisson.phc.dm.unipi.it/~mennuni/MT_course_notes.pdf)：某意大利老哥的幽默笔记；
-- [Randomness and Computability](https://www.ams.org/journals/notices/201907/rnoti-p1001.pdf)：AMS 的小品文，用于了解南开暑校内容；
 - [The Blind Spot](https://girard.perso.math.cnrs.fr/keio2006.pdf)：Girard 关于逻辑的评论；
 - [Ultrafilters Throughtout Mathematics](https://people.dm.unipi.it/dinasso/ULTRABIBLIO/Goldbring%20-%20Ultrafilters%20throughout%20mathematics%20(2022).pdf)：关于超滤的百科全书，可以细读导论。
 - [ULTRAFILTERS: WHERE TOPOLOGICAL DYNAMICS = ALGEBRA = COMBINATORICS](https://topology.nipissingu.ca/tp/reprints/v18/tp18003.pdf)：Andreas Blass 关于超滤的综述；
 - [Ultrafilters, finite coproducts and locally connected classifying toposes](https://web.science.mq.edu.au/~rgarner/Papers/Ultrafilters.pdf)：Richard Garner，29 页，前几部分挺初步的，可以读。
+- [Stonean spaces, projective objects, the Riesz representation theorem, and (possibly) condensed mathematics](https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/)：陶哲轩博客，用 Stone 空间的技术证明 Riesz 表示定理；
+- [What is Applied category theory](https://arxiv.org/pdf/1809.05923)：如其名；
 
 
 ## 网络资源
 - [nCafe - An Operational Semantics of Simply-Typed Lambda Calculus With String Diagrams](https://golem.ph.utexas.edu/category/2024/07/an_operational_semantics_of_si.html)
 - [nCafe - Large sets II](https://golem.ph.utexas.edu/category/2021/06/large_sets_2.html)
 - [nCafe - Nonstandard arithmetic model](https://golem.ph.utexas.edu/category/2019/06/nonstandard_models_of_arithmet.html)
-- [nCafe - Algebraic Closure](https://golem.ph.utexas.edu/category/2021/04/algebraic_closure.html)
 - [nCafe - Enrichment and its Limits](https://golem.ph.utexas.edu/category/2017/04/enrichment_and_its_limits.html)
 - [nCafe - Doctrinal and Tannakian Reconstruction](https://golem.ph.utexas.edu/category/2011/07/doctrinal_and_tannakian_recons.html)
   - [nLab - Tannaka duality](https://ncatlab.org/nlab/show/Tannaka+duality)
@@ -54,10 +54,10 @@
 - [nCafe - How I Learned to Love the Nerve Construction](https://golem.ph.utexas.edu/category/2008/01/mark_weber_on_nerves_of_catego.html)
 - [nCafe - The Nucleus of a Profunctor: Some Categorified Linear Algebra](https://golem.ph.utexas.edu/category/2013/08/the_nucleus_of_a_profunctor_so.html)
 - [nCafe - Introduction to Categorical Probability](https://golem.ph.utexas.edu/category/2024/08/introduction_to_categorical_pr.html)
-- [Codensity Monad](https://ncatlab.org/nlab/show/codensity+monad)
 - [Crash Course in Number Theory](https://vahagn-aslanyan.github.io/numbertheory.pdf)：可能不如 Serre 的书；
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
-- [Shelah](https://mathshistory.st-andrews.ac.uk/Biographies/Shelah/)：Shelah 传记；
+- [Turing Machine](https://samwho.dev/turing-machines/)：看起来不错的图灵机文章；
+- [nCafe - The Ax-Grothendieck Theorem According to Category Theory](https://golem.ph.utexas.edu/category/2012/09/the_axgrothendieck_theorem_acc.html)：说不定是讨论范畴论和模型论的；
 
 
 ## 想读的书
@@ -108,7 +108,8 @@
 - 《秘密笔记》：作者不认识，人民文学出版社（同样讲人到中年）；
 - 佛教相关：
   - 《佛教基础三十讲》：姚卫群，商务印书馆，2019 年；
-  - 《佛学概论》：姚卫群，线装书局，2021 年；
+  - 《佛学概论》：姚卫群，线装书局，2021 年（学校有，应该是在三楼新书架那里）；
+  - 《佛教哲学》：方立天，中国人民大学出版社。2012 年；
 - 《声音集》：人民文学出版社（注意，据《最后的天真》，阿莱杭德娜受他影响极大）；
 - 《金克木译天竺诗文》：`I351.22/J35`，印度文学那一栏；
 - 《镜子与迷宫》：张猛，作家出版社，俄罗斯文化评论；
@@ -120,7 +121,6 @@
 - 《中国文学发展史》：商务印书馆（同类中最胜）
 - 《悬诗》：商务印书馆（阿拉伯人未伊斯兰化之前的诗作）
 - 《现象学导论》：上海文化出版社，2013 年；
-- 《佛教哲学》：方立天，中国人民大学出版社。2012 年；
 - 波利亚科夫书两种，均是三联书店出版：
   - 《羊奶煮羊羔》；
   - 《无望的逃离》；
