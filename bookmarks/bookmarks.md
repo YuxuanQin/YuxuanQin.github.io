@@ -95,12 +95,12 @@
 - [顾犇](http://www.bengu.cn/)：奇人，本是学数学的，现在做图书馆学，在这里看到过《通天塔图书馆》；
 
 ## 工具
-- [quiver](https://q.uiver.app)：在线画交换图；
+- [quiver](https://quiver.theophile.me/)：在线画交换图，支持 typst 和 LaTeX；
 - [Temp Email](https://temp-email.dreamhunter2333.xyz/)：临时邮箱；
 - [Temp files store](https://0x0.st/)：存放临时文件；
 - [Wolfree](https://gqq.gitlab.io/input/)：快速访问 Wolfram；
 - [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录
-- [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总，最后更新于 2025 年 3 月 1 日。
+- [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总；
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
 - [Wormhole](https://wormhole.app/)：传文件（5 G 以上需要自己做种）；
 - [激活 Windows](https://get.activated.win/)：估计是 4chan 老哥的发明；
