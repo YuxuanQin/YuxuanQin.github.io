@@ -20,6 +20,8 @@
 - [中国社会科学院大学课程表](https://jw.ucass.edu.cn/kcyjc/kcdg.htm)：有阅读书目推荐
 - [苏联宣传画](https://the-eye.eu/public/Images/Russian%20Propaganda/)；
 - [新东方（非补习机构）](https://www.new-east-archive.org/)：东欧、巴尔干、高加索、俄罗斯文化评论；
+- [庄子集释在线](https://yanwenyuan.uk)
+- [春秋三传对读](https://docusky.org.tw/DocuSky/projects/ntu/chunqiu)
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
@@ -86,6 +88,7 @@
 - [NES Ninja](https://nesninja.com/)：NES 游戏；
 - [Yume wiki](https://yume.wiki/)：梦日记百科；
 - [梦日记中文站](https://yumenikki.info/)
+- [在 Linux Wayland 下玩饥荒联机版](https://liolok.com/zhs/dont-starve-together-note/)；
 
 ## 博客
 - [Henrize](https://henrize.kim/)：十字街站长博客；
@@ -96,14 +99,15 @@
 
 ## 工具
 - [quiver](https://quiver.theophile.me/)：在线画交换图，支持 typst 和 LaTeX；
-- [Temp Email](https://temp-email.dreamhunter2333.xyz/)：临时邮箱；
+- [Temp Email](https://mail.awsl.uk/)：临时邮箱；
 - [Temp files store](https://0x0.st/)：存放临时文件；
 - [Wolfree](https://gqq.gitlab.io/input/)：快速访问 Wolfram；
-- [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录
+- [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录；
 - [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总；
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
 - [Wormhole](https://wormhole.app/)：传文件（5 G 以上需要自己做种）；
 - [激活 Windows](https://get.activated.win/)：估计是 4chan 老哥的发明；
+- [网页版腾讯会议](https://voovmeeting.com/r)：我终于发现了外宾专用版；
 
 ## 语言
 - [字統](https://zi.tools/)
