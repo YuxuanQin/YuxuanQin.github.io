@@ -82,6 +82,7 @@
 - [MGS 2021 - 单子](https://cs.ioc.ee/~tarmo/mgs21/)：单子与计算；
 - [Intro Computing](https://introcomputing.org/)：不知道是啥的东西，不过内容不多，估计也可以速通；
 - [Sam van Gool](https://samvangool.net/)：*Topological Duality for Distributive Lattices* 的著者，主页内有 “对偶与范畴逻辑” 课程的课程表；
+- [Domain Theory Lectures](https://liamoc.net/forest/dt-001Y/index.xml)：如其名
 
 ## 游戏
 - [YGOPro 233 服](https://ygo233.com/)、[萌卡 YGOPro 社区](https://ygobbs.com/)：游戏王；
