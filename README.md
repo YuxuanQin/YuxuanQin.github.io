@@ -15,7 +15,9 @@
 - 自用 `.css` 文件；
 - 网页标题栏默认用文章标题；
 
-结果：
+最终结果：
 ```
 pandoc -s --css="/styles/styles.css" --shift-heading-level-by=-1  文件.md -o 文件.html
 ```
+
+其中，关于 `shift-heading-level-by` 的用法，请参考 [Pandoc 手册](https://pandoc.org/MANUAL.html#option--shift-heading-level-by)。
