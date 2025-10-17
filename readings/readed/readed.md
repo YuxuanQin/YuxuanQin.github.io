@@ -3,6 +3,7 @@
 
 
 ## 网络资源
+### 数学
 - [nCafe - Ends](https://golem.ph.utexas.edu/category/2014/01/ends.html)：相对 *Coend Calculus* 而言没什么新东西。
 - [nCafe - Sheaves Do Not Belong to Algebraic Geometry](https://golem.ph.utexas.edu/category/2010/02/sheaves_do_not_belong_to_algeb.html)(2025-02-15)：极好的材料，用范畴论揭示了层和平展空间之间的伴随关系、层化函子，十分优雅！材料中还提到了如下几点有用信息：
   - 伴随函子将诱导某个全子范畴间的等价；
@@ -13,6 +14,10 @@
   - Hahn–Banach 定理的范畴表述（example 9.9）、测度空间范畴 Meas 通过 BoolAlg，成为实在范畴：
   - 纯范畴论的内容不多，和具体数学结合的内容很多。
 - [nlab - Monodromy](https://ncatlab.org/nlab/show/monodromy)：极好的材料，介绍了 monodromy 的性质，主要结果：对于拓扑空间 $X$，$\mathrm{Cov}(X)$ 和 $\mathrm{Set}^{\Pi_1(X)}$ 范畴等价。
+
+### 历史
+- [蔡锷的教育](https://yishuai.github.io/book/history/3-caie/)：陈一帅（北京交通大学电信学院副教授）于参观湖南辛亥革命人物纪念馆后，总结的蔡锷生平，内容极其详实，文末附上参考文献。从这里知道了蔡锷是梁启超的高徒，二人都希望有强而有力的中央维护中国之完整；对暴力革命，则没有同盟会那么痴迷。
+
 
 ## 书
 - 《波斯札记》，穆宏燕：波斯文化评论，乃发表于报纸、杂志上的文章所集。挺有意思的，印象最深是关于藏红花源于波斯一篇，以及波斯某皇客死长安一篇。

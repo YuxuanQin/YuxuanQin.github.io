@@ -4,8 +4,11 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>quantifer</title>
+  <title>量词与集合交并补的关系</title>
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -24,14 +27,16 @@
   <link rel="stylesheet" href="/styles/styles.css" />
 </head>
 <body>
-<h1 id="量词与集合交并补的关系">量词与集合交并补的关系</h1>
+<header id="title-block-header">
+<h1 class="title">量词与集合交并补的关系</h1>
+</header>
 <p>在读 Axler 的 <a href="https://measure.axler.net/"><em>Measure,
 Integration &amp; Real Analysis</em></a>，其中第 36 页公式 2.49
 引起了我的兴趣：Axler
 是怎么写出来这种复杂的公式的？想到类型论中有着“积对于全称量词”、“余积对应存在量词”，我突然有了想法：</p>
 <p>首先，给定一列良好函数
 <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">{</mo><msub><mi>f</mi><mi>i</mi></msub><msub><mo stretchy="false" form="postfix">}</mo><mrow><mi>i</mi><mo>∈</mo><mi>I</mi></mrow></msub></mrow><annotation encoding="application/x-tex">\{f_i\}_{i \in I}</annotation></semantics></math>，使得所有的逐点极限皆存在，并定义</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>:=</mo><mrow><mi>lim</mi><mo>&#8289;</mo></mrow><msub><mi>f</mi><mi>i</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo></mrow><annotation encoding="application/x-tex">f(x) := \lim f_i(x),</annotation></semantics></math></p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>:=</mo><mrow><mi mathvariant="normal">lim</mi><mo>&#8289;</mo></mrow><msub><mi>f</mi><mi>i</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo></mrow><annotation encoding="application/x-tex">f(x) := \lim f_i(x),</annotation></semantics></math></p>
 <p>此时可以断言：</p>
 <p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>f</mi><mrow><mi>−</mi><mn>1</mn></mrow></msup><mo stretchy="false" form="prefix">(</mo><mo stretchy="false" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo><mo>=</mo><munder><mo>⋃</mo><mi>j</mi></munder><munder><mo>⋃</mo><mi>m</mi></munder><munder><mo>⋂</mo><mrow><mi>k</mi><mo>≥</mo><mi>m</mi></mrow></munder><msubsup><mi>f</mi><mi>k</mi><mrow><mi>−</mi><mn>1</mn></mrow></msubsup><mo stretchy="false" form="prefix">(</mo><mo stretchy="false" form="prefix">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo><mi>.</mi></mrow><annotation encoding="application/x-tex">f^{-1}((a, b)) = \bigcup_j \bigcup_m \bigcap_{k \ge m} f^{-1}_{k}((a, b)).</annotation></semantics></math></p>
 <p>其实可以翻译成：</p>

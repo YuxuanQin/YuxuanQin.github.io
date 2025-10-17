@@ -102,19 +102,20 @@
 - [quiver](https://quiver.theophile.me/)：在线画交换图，支持 typst 和 LaTeX；
 - [Temp Email](https://mail.awsl.uk/)：临时邮箱；
 - [Temp files store](https://0x0.st/)：存放临时文件；
-- [Wolfree](https://gqq.gitlab.io/input/)：快速访问 Wolfram；
 - [Jitsi](https://meet.libreops.cc/)：快速线上会议，无须登录；
 - [DoH 推荐](https://coding.gs/2024/06/09/available-doh/)：DoH 汇总；
 - [吉大校园网之窗](http://login.jlu.edu.cn/notice_win.php)
 - [Wormhole](https://wormhole.app/)：传文件（5 G 以上需要自己做种）；
 - [激活 Windows](https://get.activated.win/)：估计是 4chan 老哥的发明；
 - [网页版腾讯会议](https://voovmeeting.com/r)：我终于发现了外宾专用版；
+- [CroxyProxy](https://www.croxyproxy.com/)：在线代理，牛逼疯了；
 
 ## 语言
 - [字統](https://zi.tools/)
 - [古今文字集成](http://ccamc.org/)
-- [叶典](http://yedict.com/)
-- [中华全国世界语协会](https://www.chinaesperantoligo.com.cn/)
+- 粤语相关：
+  - [粵音資料集叢](https://jyut.net)：查粤音；
+  - [粤典](https://words.hk/)：查字义；
 
 ## 一切都逝去了
 - [万民书社](https://wanmin-books.github.io/)：孩子们，你们的妈妈叫什么？
