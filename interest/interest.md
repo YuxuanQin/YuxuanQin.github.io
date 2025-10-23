@@ -11,5 +11,9 @@
 
 但是范畴论真的很有意思，譬如范畴逻辑。
 
+我的数学笔记：[Github 仓库](https://github.com/YuxuanQin/math-notes)。
+
 ## 历史文化
 我对佛教感兴趣（但我不信任何宗教）。历史方面就不提了，近期目标是不做史盲。
+
+我的历史笔记：[本网站 “历史” 栏目](../quick-notes/history)。
