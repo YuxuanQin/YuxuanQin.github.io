@@ -63,6 +63,7 @@
 - [Zhu qi](https://qizhumath.wixsite.com/math)：汉名未知，目前在波恩马普所，有各种课程的笔记；
 - [Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/)：此人在 ICM 作过报告，有微分几何、微分拓扑的讲义；
 - [Henry Wilton](https://www.dpmms.cam.ac.uk/~hjrw2/)：有几何群论的题、黎曼面的讲义；
+- [Hasse - Distribution Theory](https://www.math.chalmers.se/~hasse/distributioner_eng.pdf)：分布理论
 
 
 
@@ -109,6 +110,9 @@
 - [激活 Windows](https://get.activated.win/)：估计是 4chan 老哥的发明；
 - [网页版腾讯会议](https://voovmeeting.com/r)：我终于发现了外宾专用版；
 - [CroxyProxy](https://www.croxyproxy.com/)：在线代理，牛逼疯了；
+- 种子搜索：
+  - [TorrentZ9](https://torrentz9.org)
+  - [ext.to](https://ext.to)
 
 ## 语言
 - [字統](https://zi.tools/)

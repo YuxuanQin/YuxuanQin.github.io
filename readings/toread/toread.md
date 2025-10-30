@@ -41,6 +41,7 @@
 - [Ultrafilters, finite coproducts and locally connected classifying toposes](https://web.science.mq.edu.au/~rgarner/Papers/Ultrafilters.pdf)：Richard Garner，29 页，前几部分挺初步的，可以读。
 - [Stonean spaces, projective objects, the Riesz representation theorem, and (possibly) condensed mathematics](https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/)：陶哲轩博客，用 Stone 空间的技术证明 Riesz 表示定理；
 - [What is Applied category theory](https://arxiv.org/pdf/1809.05923)：如其名；
+- [Galois groups and fundamental groups](https://www.math.bgu.ac.il/~corwind/files/expository/etale.pdf)：挺详细的；
 
 
 ## 网络资源
@@ -180,6 +181,8 @@
   - 《雪域求法记》；
   - 《喇嘛王国的覆灭》；
 - 《哲学船事件》：讲苏联对沙俄时期知识分子的大驱逐；
+- 《德国人的西藏幻梦》：讲德国藏学的；
+- 《美洲迷梦》：拉美文化政治史；
 
 
 

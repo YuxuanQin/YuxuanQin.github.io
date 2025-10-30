@@ -4,6 +4,5 @@
 
 - [数学](./math)
 - [计算机](./computer)
-- [文史](./literacy)
 - [语言](./lang)
 - [历史](./history)

@@ -14,6 +14,7 @@
   - Hahn–Banach 定理的范畴表述（example 9.9）、测度空间范畴 Meas 通过 BoolAlg，成为实在范畴：
   - 纯范畴论的内容不多，和具体数学结合的内容很多。
 - [nlab - Monodromy](https://ncatlab.org/nlab/show/monodromy)：极好的材料，介绍了 monodromy 的性质，主要结果：对于拓扑空间 $X$，$\mathrm{Cov}(X)$ 和 $\mathrm{Set}^{\Pi_1(X)}$ 范畴等价。
+- [Galois Theory: Past and Present](https://pagine.dm.unipi.it/tamas/galoisbeamer.pdf)：Tamás Szamuely，幻灯片，介绍了 Galois 理论和覆叠空间理论的交融，还介绍了 etale 代数。
 
 ### 历史
 - [蔡锷的教育](https://yishuai.github.io/book/history/3-caie/)：陈一帅（北京交通大学电信学院副教授）于参观湖南辛亥革命人物纪念馆后，总结的蔡锷生平，内容极其详实，文末附上参考文献。从这里知道了蔡锷是梁启超的高徒，二人都希望有强而有力的中央维护中国之完整；对暴力革命，则没有同盟会那么痴迷。
