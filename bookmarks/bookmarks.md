@@ -22,6 +22,8 @@
 - [新东方（非补习机构）](https://www.new-east-archive.org/)：东欧、巴尔干、高加索、俄罗斯文化评论；
 - [庄子集释在线](https://yanwenyuan.uk)
 - [春秋三传对读](https://docusky.org.tw/DocuSky/projects/ntu/chunqiu)
+- [文史广东](https://www.gdwsw.gov.cn/)：极好的历史科普，“推荐阅读”栏目列出了很多好书；
+- [藏人文化网](https://www.tibetcul.com/)：“专题”栏目中有许多藏文化科普；
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
@@ -113,6 +115,7 @@
 - 种子搜索：
   - [TorrentZ9](https://torrentz9.org)
   - [ext.to](https://ext.to)
+- [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)：`.gov.cn` 后缀的官修地图网站！
 
 ## 语言
 - [字統](https://zi.tools/)
