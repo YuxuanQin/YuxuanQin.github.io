@@ -13,6 +13,15 @@
 - [Categorical Probability Theory](https://arxiv.org/pdf/1406.6030)：也受到 Tom 那篇文章的启发，36 页；
 - [CODENSITY AND STONE SPACES](https://arxiv.org/pdf/1409.1370)：如其名
 
+### 安妈专题
+- [巴金与爱玛·高德曼：1920年代国民革命中的无政府主义](https://www.ncpssd.cn/Literature/secure/articleinfo?params=aC9MRXBNM2IxYS8wNWpqSlVXTG0reUt6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuaXoOaUv%252BW6nCIgT1IgSUtQWVRFPSLml6DmlL%252FlupwiICBPUiBJS1NUPSLml6DmlL%252FlupwiIE9SIElLRVQ9IuaXoOaUv%252BW6nCIgT1IgSUtTRT0i5peg5pS%252F5bqcIikgQU5EICgoSUtURT0i5be06YeRIiBPUiBJS1BZVEU9IuW3tOmHkSIgT1IgSUtTVD0i5be06YeRIiBPUiBJS0VUPSLlt7Tph5EiIE9SIElLU0U9IuW3tOmHkSIpKQ%253D%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5peg5pS%252F5bqcIiDkuJQgKOmimOWQjS%252FlhbPplK7or409IuW3tOmHkSIp%2526nav%253D0%2526ajaxKeys%253D5be06YeRLOaXoOaUv%252BW6nA%253D%253D)；
+- [无政府主义信仰的曲折之路 ── 青年巴金对历史、时间与革命的反思](https://www.ncpssd.cn/Literature/secure/articleinfo?params=WEhDSzJDNCtKaE5EVkc1N0R0TjMreUt6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuaXoOaUv%252BW6nCIgT1IgSUtQWVRFPSLml6DmlL%252FlupwiICBPUiBJS1NUPSLml6DmlL%252FlupwiIE9SIElLRVQ9IuaXoOaUv%252BW6nCIgT1IgSUtTRT0i5peg5pS%252F5bqcIikgQU5EICgoSUtURT0i5be06YeRIiBPUiBJS1BZVEU9IuW3tOmHkSIgT1IgSUtTVD0i5be06YeRIiBPUiBJS0VUPSLlt7Tph5EiIE9SIElLU0U9IuW3tOmHkSIpKQ%253D%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5peg5pS%252F5bqcIiDkuJQgKOmimOWQjS%252FlhbPplK7or409IuW3tOmHkSIp%2526nav%253D0%2526ajaxKeys%253D5be06YeRLOaXoOaUv%252BW6nA%253D%253D)；
+- [Nick Health - _Ba Jin_ (on libcom)](https://libcom.org/article/ba-jin-1904-2005)：libcom 关于巴金的评论，提到了埃玛；
+- [Emma Glodman (on Wikipedia)](https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman)：竟然是标星文章！
+- [Angel Pino - _Ba Jin and the "Arshinov Platform"_ (on Anarchist Library)](https://theanarchistlibrary.org/library/angel-pino-ba-jin-and-the-arshinov-platform)：贼多参考文献；
+- [Vadim Damier - _Anarcho-syndicalism in the 20th Century_ (on Anarchist Library)](https://theanarchistlibrary.org/library/vadim-damier-anarcho-syndicalism-in-the-20th-century)：libcom 上面[也有](https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier)，可以参考那里的评论；
+
+
 ### 其他的
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
 - 拓扑群相关：
@@ -59,6 +68,7 @@
 - [Monad Series](https://stringdiagram.com/)：实为某博客，有一系列关于单子的精彩博文；
 - [Turing Machine](https://samwho.dev/turing-machines/)：看起来不错的图灵机文章；
 - [nCafe - The Ax-Grothendieck Theorem According to Category Theory](https://golem.ph.utexas.edu/category/2012/09/the_axgrothendieck_theorem_acc.html)：说不定是讨论范畴论和模型论的；
+- [Wikipedia - Roman von Ungern-Sternberg](https://wikimore.private.coffee/wiki/en/wiki/Roman_von_Ungern-Sternberg)：恩琴还不完……
 
 
 ## 想读的书
@@ -151,7 +161,6 @@
   - 《气球》；
 - 克洛德西蒙的书；
 - 列托夫喜欢的：
-  - 普拉东诺夫的书；
   - 弗兰·奥布莱恩的书；
   - 安德烈耶夫的书；
   - 安部公房《砂女》《箱男》；
@@ -183,6 +192,7 @@
 - 《哲学船事件》：讲苏联对沙俄时期知识分子的大驱逐；
 - 《德国人的西藏幻梦》：讲德国藏学的；
 - 《美洲迷梦》：拉美文化政治史；
+- 巴金的作品；
 
 
 

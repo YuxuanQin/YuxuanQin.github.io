@@ -24,6 +24,7 @@
 - [春秋三传对读](https://docusky.org.tw/DocuSky/projects/ntu/chunqiu)
 - [文史广东](https://www.gdwsw.gov.cn/)：极好的历史科普，“推荐阅读”栏目列出了很多好书；
 - [藏人文化网](https://www.tibetcul.com/)：“专题”栏目中有许多藏文化科普；
+- [The Journal of Right-Wing Studies](https://jrws.berkeley.edu/issues)：右翼研究刊，加州伯克利出品！
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
@@ -116,6 +117,7 @@
   - [TorrentZ9](https://torrentz9.org)
   - [ext.to](https://ext.to)
 - [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)：`.gov.cn` 后缀的官修地图网站！
+- [4 archive](https://archiveofsins.com/_/articles/faq/)：4 chan 档案馆；
 
 ## 语言
 - [字統](https://zi.tools/)
