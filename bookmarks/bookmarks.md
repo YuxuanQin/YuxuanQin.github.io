@@ -25,6 +25,11 @@
 - [文史广东](https://www.gdwsw.gov.cn/)：极好的历史科普，“推荐阅读”栏目列出了很多好书；
 - [藏人文化网](https://www.tibetcul.com/)：“专题”栏目中有许多藏文化科普；
 - [The Journal of Right-Wing Studies](https://jrws.berkeley.edu/issues)：右翼研究刊，加州伯克利出品！
+- [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》等等都有，吉大 ip 可直接阅览；
+- [汇雅电子书](https://www.sslibrary.com/)：正版电子书，吉大 ip 可直接阅览；
+- [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊；
+- [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
+- [中国社会科学文库](https://www.sklib.cn/)：免费看书！
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；

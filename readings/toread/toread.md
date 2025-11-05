@@ -20,6 +20,7 @@
 - [Emma Glodman (on Wikipedia)](https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman)：竟然是标星文章！
 - [Angel Pino - _Ba Jin and the "Arshinov Platform"_ (on Anarchist Library)](https://theanarchistlibrary.org/library/angel-pino-ba-jin-and-the-arshinov-platform)：贼多参考文献；
 - [Vadim Damier - _Anarcho-syndicalism in the 20th Century_ (on Anarchist Library)](https://theanarchistlibrary.org/library/vadim-damier-anarcho-syndicalism-in-the-20th-century)：libcom 上面[也有](https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier)，可以参考那里的评论；
+- [Morgan William Rocks - _Beyond the bounds of revolutions: Chinese in transnational anarchist networks from the 1920s to the 1950s_ (on Anarchist Library)](https://theanarchistlibrary.org/library/morgan-william-rocks-beyond-the-bounds-of-revolutions)：一份博士论文，探讨了中国安娜其的跨国网络；
 
 
 ### 其他的
@@ -193,7 +194,7 @@
 - 《德国人的西藏幻梦》：讲德国藏学的；
 - 《美洲迷梦》：拉美文化政治史；
 - 巴金的作品；
-
+- 《微分几何简明教程》，嵇庆春，科学出版社：复旦的古典微分几何教材，只有 153 页！
 
 
 ## 想看的电影
