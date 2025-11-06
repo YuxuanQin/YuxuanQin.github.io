@@ -21,7 +21,7 @@
 - [Angel Pino - _Ba Jin and the "Arshinov Platform"_ (on Anarchist Library)](https://theanarchistlibrary.org/library/angel-pino-ba-jin-and-the-arshinov-platform)：贼多参考文献；
 - [Vadim Damier - _Anarcho-syndicalism in the 20th Century_ (on Anarchist Library)](https://theanarchistlibrary.org/library/vadim-damier-anarcho-syndicalism-in-the-20th-century)：libcom 上面[也有](https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier)，可以参考那里的评论；
 - [Morgan William Rocks - _Beyond the bounds of revolutions: Chinese in transnational anarchist networks from the 1920s to the 1950s_ (on Anarchist Library)](https://theanarchistlibrary.org/library/morgan-william-rocks-beyond-the-bounds-of-revolutions)：一份博士论文，探讨了中国安娜其的跨国网络；
-
+- [王中忱《佐尔格-尾崎秀实事件的叙述与档案解密的政治 ── 以 1940 - 1950 年代日文文献为中心的初步检证》](https://www.ncpssd.cn/Literature/secure/articleinfo?params=azJ2azUrVkpjSmVjdXlYczQ3cG80Q0t6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuWwvuW0juengOWunuS6i%252BS7tiIgT1IgSUtQWVRFPSLlsL7ltI7np4Dlrp7kuovku7YiICBPUiBJS1NUPSLlsL7ltI7np4Dlrp7kuovku7YiIE9SIElLRVQ9IuWwvuW0juengOWunuS6i%252BS7tiIgT1IgSUtTRT0i5bC%252B5bSO56eA5a6e5LqL5Lu2Iik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5bC%252B5bSO56eA5a6e5LqL5Lu2Ig%253D%253D%2526nav%253D0%2526ajaxKeys%253D5bC%252B5bSO56eA5a6e5LqL5Lu2)：尾崎秀实可能是史沫特莱的情人之一，当然他本身作为帮助中国人的和人，也非常值得研究。
 
 ### 其他的
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
@@ -195,6 +195,7 @@
 - 《美洲迷梦》：拉美文化政治史；
 - 巴金的作品；
 - 《微分几何简明教程》，嵇庆春，科学出版社：复旦的古典微分几何教材，只有 153 页！
+- 《人间的命运》，芹泽光治良，东方出版社：记述了巴金和邵可侣一家的故事；
 
 
 ## 想看的电影
@@ -206,6 +207,8 @@
   - 埃米尔·库斯图里察《爸爸出差时》；
   - 英格玛·伯格曼《野草莓》；
 - 费德里科·费里尼《卡比利亚之夜》；
+- 米克洛什·扬索《红军与白军》（Csillagosok, katonák）
+- 万玛才旦《气球》
 
 
 

@@ -3,20 +3,16 @@
 
 ## 文化
 - [书格](https://new.shuge.org/)：扫描本古籍；
-- [中国哲学书电子化计划](https://ctext.org/)
 - [杨卡](http://yanka.lenin.ru/)：关于杨卡的一切（俄语）；
 - [Magazine Hall](https://magazines.gorky.media/)：俄罗斯文学杂志集；
-- [ERGO PROXY SUM](http://ergoproxysum.russelldjones.ru/)：动画《死亡代理人》中的典故、背景知识（俄语）；
 - [L A I N](https://fauux.neocities.org/)：关于 lain 的艺术站点；
 - [Библиотека](https://ilibrary.ru/)：俄语图书馆；
 - [Авторский Комикс](https://acomics.ru/)：俄语漫画；
 - [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
-- [neverendingbooks](http://www.neverendingbooks.org/)：看起来像是数学文化史；
 - AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月/年月FullIssue.pdf`；
 - MIT 公开课系列：
   - [拉美近代史](https://ocw.mit.edu/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/)，有阅读材料、课程表；
   - [苏俄史](https://ocw.mit.edu/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/)，有阅读材料、课程表；
-  - [语言学](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/)，有阅读材料、课程表并录像；
 - [中国社会科学院大学课程表](https://jw.ucass.edu.cn/kcyjc/kcdg.htm)：有阅读书目推荐
 - [苏联宣传画](https://the-eye.eu/public/Images/Russian%20Propaganda/)；
 - [新东方（非补习机构）](https://www.new-east-archive.org/)：东欧、巴尔干、高加索、俄罗斯文化评论；
@@ -27,9 +23,12 @@
 - [The Journal of Right-Wing Studies](https://jrws.berkeley.edu/issues)：右翼研究刊，加州伯克利出品！
 - [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》等等都有，吉大 ip 可直接阅览；
 - [汇雅电子书](https://www.sslibrary.com/)：正版电子书，吉大 ip 可直接阅览；
-- [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊；
-- [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
-- [中国社会科学文库](https://www.sklib.cn/)：免费看书！
+- [Ciprian Manolescu 爱看的电影](https://web.stanford.edu/~cm5/movies.html)：某个数学家爱看的电影；
+- 吉大购买的数据库：
+  - [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊；
+  - [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
+  - [中国社会科学文库](https://www.sklib.cn/)：免费看书！
+
 
 ## 数学
 - [王作勤](http://staff.ustc.edu.cn/~wangzuoq/)：拓扑、微分几何；
