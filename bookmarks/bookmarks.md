@@ -6,9 +6,6 @@
 - [杨卡](http://yanka.lenin.ru/)：关于杨卡的一切（俄语）；
 - [Magazine Hall](https://magazines.gorky.media/)：俄罗斯文学杂志集；
 - [L A I N](https://fauux.neocities.org/)：关于 lain 的艺术站点；
-- [Библиотека](https://ilibrary.ru/)：俄语图书馆；
-- [Авторский Комикс](https://acomics.ru/)：俄语漫画；
-- [Wisdom Library](https://www.wisdomlib.org/)：智慧宫，有大量关于印度古典哲学的材料；
 - AMS Notice：虽然 AMS 网站一直不好使，但是 pdf 还是能下的：`https://www.ams.org/notices/年月/年月FullIssue.pdf`；
 - MIT 公开课系列：
   - [拉美近代史](https://ocw.mit.edu/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/)，有阅读材料、课程表；
@@ -19,15 +16,17 @@
 - [庄子集释在线](https://yanwenyuan.uk)
 - [春秋三传对读](https://docusky.org.tw/DocuSky/projects/ntu/chunqiu)
 - [文史广东](https://www.gdwsw.gov.cn/)：极好的历史科普，“推荐阅读”栏目列出了很多好书；
+- [《历史研究》](https://www.ncpssd.cn/journal/secure/details?params=UDZGQ1VoanVvd0FFUFRNT3dpTldGL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0)：历史顶刊；
 - [藏人文化网](https://www.tibetcul.com/)：“专题”栏目中有许多藏文化科普；
 - [The Journal of Right-Wing Studies](https://jrws.berkeley.edu/issues)：右翼研究刊，加州伯克利出品！
-- [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》等等都有，吉大 ip 可直接阅览；
-- [汇雅电子书](https://www.sslibrary.com/)：正版电子书，吉大 ip 可直接阅览；
 - [Ciprian Manolescu 爱看的电影](https://web.stanford.edu/~cm5/movies.html)：某个数学家爱看的电影；
 - 吉大购买的数据库：
+  - [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》等等都有，吉大 ip 可直接阅览；
+  - [汇雅电子书](https://www.sslibrary.com/)：正版电子书，吉大 ip 可直接阅览；
   - [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊；
   - [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
   - [中国社会科学文库](https://www.sklib.cn/)：免费看书！
+- [近代中國史料叢刊](https://commons.wikimedia.org/w/index.php?search=%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A&title=Special%3AMediaSearch&go=%E5%9F%B7%E8%A1%8C&uselang=zh-tw&type=page)：无量功德；
 
 
 ## 数学
