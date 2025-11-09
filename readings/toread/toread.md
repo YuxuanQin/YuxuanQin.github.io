@@ -15,14 +15,12 @@
 
 ### 安妈专题
 - [无政府主义信仰的曲折之路 ── 青年巴金对历史、时间与革命的反思](https://www.ncpssd.cn/Literature/secure/articleinfo?params=WEhDSzJDNCtKaE5EVkc1N0R0TjMreUt6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuaXoOaUv%252BW6nCIgT1IgSUtQWVRFPSLml6DmlL%252FlupwiICBPUiBJS1NUPSLml6DmlL%252FlupwiIE9SIElLRVQ9IuaXoOaUv%252BW6nCIgT1IgSUtTRT0i5peg5pS%252F5bqcIikgQU5EICgoSUtURT0i5be06YeRIiBPUiBJS1BZVEU9IuW3tOmHkSIgT1IgSUtTVD0i5be06YeRIiBPUiBJS0VUPSLlt7Tph5EiIE9SIElLU0U9IuW3tOmHkSIpKQ%253D%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5peg5pS%252F5bqcIiDkuJQgKOmimOWQjS%252FlhbPplK7or409IuW3tOmHkSIp%2526nav%253D0%2526ajaxKeys%253D5be06YeRLOaXoOaUv%252BW6nA%253D%253D)；
-- [Nick Health - _Ba Jin_ (on libcom)](https://libcom.org/article/ba-jin-1904-2005)：libcom 关于巴金的评论，提到了埃玛；
 - [Emma Glodman (on Wikipedia)](https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman)：竟然是标星文章！
 - [Angel Pino - _Ba Jin and the "Arshinov Platform"_ (on Anarchist Library)](https://theanarchistlibrary.org/library/angel-pino-ba-jin-and-the-arshinov-platform)：贼多参考文献；
 - [Vadim Damier - _Anarcho-syndicalism in the 20th Century_ (on Anarchist Library)](https://theanarchistlibrary.org/library/vadim-damier-anarcho-syndicalism-in-the-20th-century)：libcom 上面[也有](https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier)，可以参考那里的评论；
 - [Morgan William Rocks - _Beyond the bounds of revolutions: Chinese in transnational anarchist networks from the 1920s to the 1950s_ (on Anarchist Library)](https://theanarchistlibrary.org/library/morgan-william-rocks-beyond-the-bounds-of-revolutions)：一份博士论文，探讨了中国安娜其的跨国网络；
 - [王中忱《佐尔格-尾崎秀实事件的叙述与档案解密的政治 ── 以 1940 - 1950 年代日文文献为中心的初步检证》](https://www.ncpssd.cn/Literature/secure/articleinfo?params=azJ2azUrVkpjSmVjdXlYczQ3cG80Q0t6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuWwvuW0juengOWunuS6i%252BS7tiIgT1IgSUtQWVRFPSLlsL7ltI7np4Dlrp7kuovku7YiICBPUiBJS1NUPSLlsL7ltI7np4Dlrp7kuovku7YiIE9SIElLRVQ9IuWwvuW0juengOWunuS6i%252BS7tiIgT1IgSUtTRT0i5bC%252B5bSO56eA5a6e5LqL5Lu2Iik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5bC%252B5bSO56eA5a6e5LqL5Lu2Ig%253D%253D%2526nav%253D0%2526ajaxKeys%253D5bC%252B5bSO56eA5a6e5LqL5Lu2)：尾崎秀实可能是史沫特莱的情人之一，当然他本身作为帮助中国人的和人，也非常值得研究。
 - [付志达《广州新文化运动再研究》](https://www.ncpssd.cn/Literature/secure/articleinfo?params=NlkxMFovQVFIem1OMjVLa3RGWnFseHdnK3NOVjIyUFJOUnNNUGJkWWwwOWlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252Fjournal%252Fsecure%252Fdetails%253Fparams%253DUDZGQ1VoanVvd0FFUFRNT3dpTldGN01MTU40Z0V3dGZEUlUyK2doYnREUzN3Ly9YL1NZdXFUUGIzMGNnZkh3Rg)：牛逼的；
-- [石瑶《1930 年代初期中国致公团体内的派别及政治趋向》](https://www.ncpssd.cn/Literature/secure/articleinfo?params=VVdNS1Y4NXZtNDRqWFR6NGd6TG5BZms0cG1LZThXNW1jemtrM0ZPT0VRQWQxZG5xK1FlRklLNnJGNnNmcTgycjVIS1F4NUpQSUxZNTdWNWVlWVVWVlpNeHZ1M2Z4dmpFbUxtYjBFVGJaZTJrMWg2M3lBb1lIeUlmRWtSaURsL2M&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IumprOiCsuiIqiIgT1IgSUtQWVRFPSLpqazogrLoiKoiICBPUiBJS1NUPSLpqazogrLoiKoiIE9SIElLRVQ9IumprOiCsuiIqiIgT1IgSUtTRT0i6ams6IKy6IiqIik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i6ams6IKy6IiqIg%253D%253D%2526nav%253D0%2526ajaxKeys%253D6ams6IKy6Iiq)：提到了马育航；
 
 ### 其他的
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
@@ -197,6 +195,9 @@
 - 巴金的作品；
 - 《微分几何简明教程》，嵇庆春，科学出版社：复旦的古典微分几何教材，只有 153 页！
 - 《人间的命运》，芹泽光治良，东方出版社：记述了巴金和邵可侣一家的故事；
+- 《海外洪门与辛亥革命》，中国致公出版社；
+- 《天义》，万仕国，中国人民大学出版社：天义报校注；
+- 《广东文史资料第 43 辑：广东军阀大事记》：梳理了龙济光、陆荣廷、陈炯明等人掌控广东的事迹；
 
 
 ## 想看的电影
