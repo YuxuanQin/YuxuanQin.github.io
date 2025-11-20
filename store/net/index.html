@@ -23,6 +23,7 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="/styles/styles.css" />
 </head>
@@ -30,6 +31,71 @@
 <header id="title-block-header">
 <h1 class="title">更好的上网体验</h1>
 </header>
-<p>base64: <code>aHR0cHM6Ly9yZW50cnkub3JnL3NoYW5nd2FuZw==</code>.</p>
+<p>最后更新于 <code>2025-11-10</code>。</p>
+<p>下文 “浏览器” 都默认指 firefox。</p>
+<p>具体设置</p>
+<h1 id="dns-设置">DNS 设置</h1>
+<ul>
+<li>对于一般用户，直接参考<a
+href="https://coding.gs/2024/06/09/available-doh/">DoH
+推荐</a>中的服务，找到喜欢的以后，进入 firefox 设置，搜索
+<code>dns</code>，选择
+<code>最大保护 -&gt; 自定义</code>，填入链接即可。</li>
+<li>（海外）公用 DoH 容易被不明力量取缔，内地 DoH
+存在限速等现象，因此对于闲人而言，自建是非常好的选择，这里推荐
+RethinkDNS，请直接参考<a
+href="https://docs.rethinkdns.com/dns/open-source/#deno-deploy">官方文档</a>。自建完以后，和上一段一样设置，填入自己的
+DoH 服务网址即可。</li>
+</ul>
+<h1 id="libredirect-设置">Libredirect 设置</h1>
+<p>到 <a
+href="https://addons.mozilla.org/firefox/addon/libredirect/">firefox
+插件商店</a>下载即可。</p>
+<p>下载完成后，进入插件设置，在 <code>Fetch public instances</code>
+选项中选择 <code>codeberg</code>（因为 codeberg 能稳定直连，github
+不行）。在服务列表中选择想要的服务，并点击测速选择最快的实例（instance），保存后退出。</p>
+<p>这并不是访问 Wikipedia 的唯一方法。详见下文。</p>
+<h1 id="更换谷歌-cdn">更换谷歌 cdn</h1>
+<p>直接<a
+href="https://addons.mozilla.org/zh-CN/firefox/addon/google-cdn-replace/">安装</a>即可。</p>
+<p>启用以后，就能更快地访问 stack overflow。</p>
+<h1 id="拦广告">拦广告</h1>
+<p>启用 <a href="https://github.com/gorhill/uBlock">uBlock Origin</a>
+插件即可，注意某地区用户无法直接从插件商店下载，请按照项目主页说明手动下载，并在启用
+firefox 开发者模式后手动安装。</p>
+<h1 id="各种小工具">各种小工具</h1>
+<p>这些工具都能在一定程度上帮助你访问各种国外服务。个人体验以 Accesser
+为佳（当然，steamcommunity302
+功能更多，游戏这块依然是不可替代的王者）。</p>
+<h2 id="accesser开源">Accesser（开源）</h2>
+<p>见<a href="https://github.com/URenko/Accesser">Github 仓库</a>。</p>
+<p>有 <a href="https://aur.archlinux.org/packages/python-accesser">AUR
+包</a>，下载后 <code>sudo</code> 运行。</p>
+<p>为在 firefox 中使用本服务，按如下步骤操作：</p>
+<ol type="1">
+<li>打开 <code>localhost:7654/cert/root.crt</code> 下载证书；</li>
+<li>在设置中搜索 <code>certificates</code>，点击
+<code>view certificates</code> 按钮；</li>
+<li>在 <code>authorities</code> 一栏中点击 <code>import</code>
+按钮，找到刚下好的证书导入，两个选项都选上；</li>
+<li>导入完成后关闭；</li>
+<li>此后的操作，见<a
+href="https://github.com/URenko/Accesser/wiki/Firefox%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%B3%95">官方指导</a>；</li>
+</ol>
+<p>是一个 python 程序，所以有支持手机的可能性。</p>
+<h2 id="steamcommunity-302不开源">SteamCommunity 302（不开源）</h2>
+<p>羽翼城|Dogfight360 大佬制作的小软件，功能非常丰富，使用指南见<a
+href="https://www.dogfight360.com/blog/18682/">官方指导</a>。</p>
+<p>有<a href="https://aur.archlinux.org/packages/steamcommunity302">AUR
+包</a>。</p>
+<p>不支持手机。</p>
+<h2 id="sheas-cealer开源">Sheas-Cealer（开源）</h2>
+<p>见<a href="https://github.com/SpaceTimee/Sheas-Cealer">Github
+仓库</a>。</p>
+<p>Linux 支持不佳；但支持手机。</p>
+<h1 id="可选vim-键位">（可选）Vim 键位</h1>
+<p>用 vim 浏览网页，直接下载 <a
+href="https://vimium.github.io/">Vimium</a>。</p>
+<p>配合 Libredirect 服务中的 search 一起使用更佳。</p>
 </body>
 </html>

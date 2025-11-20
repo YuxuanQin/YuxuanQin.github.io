@@ -23,7 +23,7 @@
 - 吉大购买的数据库：
   - [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》等等都有，吉大 ip 可直接阅览；
   - [汇雅电子书](https://www.sslibrary.com/)：正版电子书，吉大 ip 可直接阅览；
-  - [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊；
+  - [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊（有《闽星》《广东省立一中校刊》）；
   - [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
   - [中国社会科学文库](https://www.sklib.cn/)：免费看书！
 - [近代中國史料叢刊](https://commons.wikimedia.org/w/index.php?search=%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A&title=Special%3AMediaSearch&go=%E5%9F%B7%E8%A1%8C&uselang=zh-tw&type=page)：无量功德；
@@ -70,6 +70,7 @@
 - [Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/)：此人在 ICM 作过报告，有微分几何、微分拓扑的讲义；
 - [Henry Wilton](https://www.dpmms.cam.ac.uk/~hjrw2/)：有几何群论的题、黎曼面的讲义；
 - [Hasse - Distribution Theory](https://www.math.chalmers.se/~hasse/distributioner_eng.pdf)：分布理论
+- [Walker H. Stem - Differential Geometry](https://www.walkerstern.com/courses/2022_DiffGeo/)：参考讲义 Wolfgang Kühnel. Differential Geometry: Curves — Surfaces — Manifolds
 
 
 
