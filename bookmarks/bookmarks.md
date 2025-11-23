@@ -27,6 +27,7 @@
   - [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
   - [中国社会科学文库](https://www.sklib.cn/)：免费看书！
 - [近代中國史料叢刊](https://commons.wikimedia.org/w/index.php?search=%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A&title=Special%3AMediaSearch&go=%E5%9F%B7%E8%A1%8C&uselang=zh-tw&type=page)：无量功德；
+  - 另附浙江大學提供的[在綫目錄](http://csid.zju.edu.cn/doclib/sub?id=8a8fbda74ca27288014ca2734d1300ec)；
 
 
 ## 数学

@@ -1,0 +1,252 @@
+.
+├── 实习证明.pdf
+├── all
+├── cs
+│   ├── cs-for-mathguy-yanofsky.pdf
+│   ├── intro-to-proof-theory.pdf
+│   ├── not-so-short-intro-latex-zh.pdf
+│   ├── practical-foundations-programming-languages.pdf
+│   └── semantic-and-applications.pdf
+├── cult
+│   ├── 梵汉对堪心经·金刚经.pdf
+│   ├── 佛教基础三十讲.pdf
+│   ├── book-of-ism.pdf
+│   ├── shamanism-archaic-techniques-of-ecstasy_compress.pdf
+│   └── yoga-sutra.epub
+├── daidu
+│   └── 2411.18561v1.pdf
+├── history
+│   ├── 安
+│   │   ├── 20世纪初期中国无政府主义运动研究-(辜也平).pdf
+│   │   ├── 解放別錄.pdf
+│   │   ├── 劳动者.pdf
+│   │   ├── 旅欧教育运动.PDF
+│   │   ├── 师复文集-(万民书社).pdf
+│   │   ├── 天義-(万仕国).pdf
+│   │   ├── 无政府主义思想资料选（上）.pdf
+│   │   ├── 无政府主义思想资料选（下）.pdf
+│   │   ├── 袁振英传 (李继锋，郭彬，陈立平著, Li Jifeng, Guo Bin, Chen Liping etc.) (Z-Library).pdf
+│   │   ├── 袁振英研究史料.pdf
+│   │   ├── 中国无政府主义史稿-(路哲).pdf
+│   │   ├── beyond-the-bounds-of-revolution.pdf
+│   │   └── morgan-william-rocks-beyond-the-bounds-of-revolutions.epub
+│   ├── 巴黎和会与北京政府的内外博弈-(邓野).epub
+│   ├── 北洋军阀史话-(丁中江).epub
+│   ├── 陈炯明、联省
+│   │   ├── 陈竞存先生年谱上.pdf
+│   │   ├── 陈炯明(岭南文库) (段云章 ，倪俊明) (Z-Library).pdf
+│   │   ├── 罗生门后的思想与政治之争——1922年广东共产党组织“附陈反孙”之谜.pdf
+│   │   ├── 民初的地方主义与联省自治（增订版） (胡春惠) (Z-Library).pdf
+│   │   ├── 莫纪彭先生访问纪录.pdf
+│   │   ├── 走向革命：中共党人与联省自治运动的分合_杨一帆.pdf
+│   │   ├── Chen Jiongming and the Federalist Movement Regional Leadership and Nation Building in Early Republican China (陈定炎).pdf
+│   │   └── Negotiating A Chinese Federation - Vivienne Xiangwei Guo.pdf
+│   ├── 鼎革-(尚小明).epub
+│   ├── 尕母倪咨母、俄国
+│   │   ├── 论中共二大前后的陈独秀与孙中山_徐涛.pdf
+│   │   ├── 毛泽东早期文稿.epub
+│   │   ├── [社科学术文库]苏联兴亡史纲 (陈之骅吴恩远马龙闪 主编) (Z-Library).pdf
+│   │   ├── 中苏关系史纲-(沈志华).epub
+│   │   └── The Communist Movement in China An Essay Written in 1924 (Chen Gongbo 陈公博) (Z-Library).pdf
+│   ├── 古代天文历法讲座.pdf
+│   ├── 广雅
+│   │   ├── 广东广雅中学教改经验选集.pdf
+│   │   ├── 广东省广雅中学（中国名校丛书）.pdf
+│   │   ├── 广东文史资料第41辑-(广雅校史) .pdf
+│   │   ├── 广东文史资料精编第4卷-民国时期文化篇.pdf
+│   │   ├── 《广雅学报》文章集.pdf
+│   │   ├── 近代中國史料叢刊_626-627_梁節庵（鼎芬）先生剩稿.pdf
+│   │   └── 张之洞与广雅书院.pdf
+│   ├── 桂系据粤之由来及其经过 (李培生撰, Li Peisheng zhuan, Peisheng Li, 李培生撰, 李培生 etc.) (Z-Library).pdf
+│   ├── 喇嘛王国的覆灭-(戈尔斯坦).epub
+│   ├── 两岸新编中国近代史-(民国卷).epub
+│   ├── 束学、德国
+│   │   ├── Dylan Riley - The Civic Foundations of Fascism in Europe (Second Edition) (2019, Verso) - libgen.li.pdf
+│   │   ├── Fascists-(MICHAEL_MANN).pdf
+│   │   ├── german-myth-of-the-east.pdf
+│   │   └── Hitlers Priestess - Savitri Devi, the Hindu-Aryan Myth, and Neo-Nazism (Nicholas Goodrick-Clarke) (Z-Library).pdf
+│   ├── 宋案重审修订本.pdf
+│   ├── 孙文与日本史事编年 增订本 (段云章) (Z-Library).pdf
+│   ├── 五四时期期刊介绍-第1集.pdf
+│   ├── 辛亥革命史稿第一册中国资产阶级革命派的形成 (金冲及 ， 胡绳武) (Z-Library).pdf
+│   ├── 中国近代通史.第六卷 民国的初建（1912-1923） (汪朝光；张海鹏 主编) (Z-Library).epub
+│   └── Muslims in Amdo Tibetan Society.pdf
+├── lang
+│   ├── cet-ru-words.pdf
+│   ├── frequency-russian-words-only-words.pdf
+│   ├── frequency-russian-words.pdf
+│   ├── german-for-reading.pdf
+│   ├── reading-german.pdf
+│   ├── reference-grammar-of-russian.pdf
+│   ├── russian-by-propaganda.pdf
+│   └── russian-for-mathguy.pdf
+├── lit
+│   ├── (巴别塔图书进阶书系) 彼得·巴里 - 理论入门_ 文学与文化理论导论-世界图书出版公司 (2023).pdf
+│   ├── 巴纳耶娃回忆录.pdf
+│   ├── 笔墨游戏.pdf
+│   ├── 东方文学史通论.pdf
+│   ├── 俄国文学史.pdf
+│   ├── 榖梁古义疏上.pdf
+│   ├── 金瓶梅资料汇编.pdf
+│   ├── 瓶外卮言.pdf
+│   ├── 清平山堂话本校注.pdf
+│   ├── 人妻约会指南.pdf
+│   ├── 苏曼殊全集.pdf
+│   ├── 图像·女人的盛典.pdf
+│   ├── 王弼评传.pdf
+│   ├── 魏晋玄学论稿-(ocr).pdf
+│   ├── 新娘日记.pdf
+│   ├── 致D.pdf
+│   ├── 中国小说史略疏识.pdf
+│   ├── artInMath.pdf
+│   ├── i-want-to-be-a-mathematician.pdf
+│   ├── k我的自传-克鲁泡特金.pdf
+│   ├── kafka-in-context.pdf
+│   ├── lain-track44.pdf
+│   ├── math-as-metaphor.pdf
+│   ├── neko_girl_magazine_1.pdf
+│   ├── pre-person.pdf
+│   ├── skazki.pdf
+│   ├── the-best-of-amp.pdf
+│   └── the-cloak-of-dreams-(balaz).pdf
+├── math
+│   ├── 代数模型论引论-(史念东).pdf
+│   ├── 黎曼几何初步-(伍鸿熙).pdf
+│   ├── 流形拓扑学-(马天).pdf
+│   ├── a-guide-to-plane-algebraic-curves-(Kendig).pdf
+│   ├── algebra0.pdf
+│   ├── algebraic-curves-and-riemann-surface.pdf
+│   ├── algebraic-geometry-and-commutative-algebra.pdf
+│   ├── algebraic-number-theory.pdf
+│   ├── algebraic-top-from-homotopy-view.pdf
+│   ├── algebraic-topology
+│   │   ├── complete-book-on-algebraic-topology.pdf
+│   │   ├── galois-and-fundamental-group-(Tamás_Szamuely).pdf
+│   │   ├── loeh.pdf
+│   │   └── miller.pdf
+│   ├── amann-analysis-2.pdf
+│   ├── amann-analysis-3.pdf
+│   ├── applied-cat-theory.pdf
+│   ├── bishop-lawvere-set.pdf
+│   ├── brouwer.pdf
+│   ├── cantor.pdf
+│   ├── category-theory
+│   │   ├── 2-category-yau.pdf
+│   │   ├── awodey-category-theory.pdf
+│   │   ├── categorical-algebra.pdf
+│   │   ├── categorical-proof-theory.pdf
+│   │   └── cat-for-types.pdf
+│   ├── cat-Homotopy.pdf
+│   ├── cat-sheaves.pdf
+│   ├── combinitory-homotopy.pdf
+│   ├── commutative-algebra-kemper.pdf
+│   ├── compact-generated-space.pdf
+│   ├── differential-geometry
+│   │   ├── diff-geometry-(杜武亮).pdf
+│   │   ├── diff-geometry-(loeh).pdf
+│   │   ├── from-calculus-to-cohomology.pdf
+│   │   ├── functional-diff-geometry.pdf
+│   │   ├── smooth-manifolds-and-ovservables-(jet_nestruev).pdf
+│   │   └── topology-from-a-differential-pov.pdf
+│   ├── divide3.pdf
+│   ├── enrich-cat.pdf
+│   ├── Escardo-Oliva-MSFP2010-corrected.pdf
+│   ├── fourier-analysis-(GTM-302).pdf
+│   ├── from-group-to-categorical-algebra.pdf
+│   ├── functional-analysis-helemskii.pdf
+│   ├── general-algebra.pdf
+│   ├── geometric-group-theory-(Drutu-Kapovich).pdf
+│   ├── geometric-group-theory-(loeh).pdf
+│   ├── geometric-group-theory-(springer-loeh).pdf
+│   ├── global-calculus.pdf
+│   ├── groups-graphs-trees.pdf
+│   ├── hamilton-machanics.pdf
+│   ├── homology-(mac-lane).pdf
+│   ├── hott-intro.pdf
+│   ├── intro-cat-sheaves.pdf
+│   ├── intro-coalgebra.pdf
+│   ├── intro-homological-algebra.pdf
+│   ├── intro-simplicial-set.pdf
+│   ├── intro-to-algebraic-topology-kammeyer.pdf
+│   ├── invitation-to-algebraic-geometry.pdf
+│   ├── lambda.pdf
+│   ├── lib.md
+│   ├── lisi-algebraic-top.pdf
+│   ├── logic-marker.pdf
+│   ├── manifold-fudan.pdf
+│   ├── manifolds-sheaves-cohomology.pdf
+│   ├── manin-logic.pdf
+│   ├── math-form-and-function.pdf
+│   ├── measure-integration-real.analysis-(alex).pdf
+│   ├── model-theory-kent.pdf
+│   ├── model-theory-(marker).pdf
+│   ├── office-hours-of-geomtric-group.pdf
+│   ├── ovilia-topos.pdf
+│   ├── p-adic-num.pdf
+│   ├── physics
+│   │   └── physics-for-mathematicians.pdf
+│   ├── pratical-foundation-math.pdf
+│   ├── predicativity.pdf
+│   ├── princeton-comp-math.pdf
+│   ├── proof-progress.pdf
+│   ├── quantum-group-street.pdf
+│   ├── ralf-set-errata.pdf
+│   ├── ralf-set-theory.pdf
+│   ├── rational-points.pdf
+│   ├── real-Analysis-pugh.pdf
+│   ├── realizability-(bauer).pdf
+│   ├── representation-theory
+│   │   ├── lie-representation.pdf
+│   │   ├── rep-(etingof).pdf
+│   │   └── rep_notes.pdf
+│   ├── riemann-manifolds-(Lee).pdf
+│   ├── riemann-surface
+│   │   └── forster.pdf
+│   ├── ring-mod-hopf.pdf
+│   ├── serre-数论教程.pdf
+│   ├── set-model-proof-Moerdijk.pdf
+│   ├── sheaf-topo-logic.pdf
+│   ├── sheaves-and-cosheaves.pdf
+│   ├── sheaves-in-topology.djvu
+│   ├── sketches-of-an-elephant.pdf
+│   ├── stone-duality.pdf
+│   ├── structure-and-geometry-of-lie-group.pdf
+│   ├── tom-deick-algebraic-topology.pdf
+│   ├── topology-groupoid.pdf
+│   └── ultraproduct.pdf
+├── philosophy
+│   └── category-for-phylosopher.pdf
+├── picture
+│   ├── 海错图第一册-(聂璜-康熙-北京故宫).pdf
+│   └── manga
+│       ├── 暗之声.pdf
+│       ├── 被迷倒的双一.pdf
+│       ├── 大地之子.pdf
+│       ├── 稻川先生的怪谈玉手箱.pdf
+│       ├── 地狱星REMINA.pdf
+│       ├── 富江·占据(全3话).pdf
+│       ├── 富江Again―富江Part3―.pdf
+│       ├── 感应(梦魔游记)[单行本版].pdf
+│       ├── 感应(梦魔游记)[连载版].pdf
+│       ├── 怪‧刺繪本[单页版].pdf
+│       ├── 海虎Ⅰ - 第01-03話 (溫日良, 鄧志輝) (Z-Library).mobi
+│       ├── 黑色诡局.pdf
+│       ├── 幻怪地带.pdf
+│       ├── 幻怪地带 Season 2 以太村[汉化].pdf
+│       ├── 幻怪地带 Season 2 以太村[日文].pdf
+│       ├── 禁入空间.pdf
+│       ├── 恐怖的重层.pdf
+│       ├── 恐怖漫画合集 死角-伊藤润二的少女残酷童话 白雪公主篇.pdf
+│       ├── 脸面固定.pdf
+│       ├── 露露.pdf
+│       ├── 盲点的维纳斯.pdf
+│       ├── 魔声.pdf
+│       ├── 魔之碎片[单行本版].pdf
+│       ├── 魔之碎片[连载版].pdf
+│       └── 请叫我英雄公式合集.pdf
+├── sinology
+│   ├── 读书指南-梁启超.pdf
+│   └── 经学历史-皮锡瑞.pdf
+└── zine
+
+24 directories, 227 files
