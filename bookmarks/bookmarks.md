@@ -21,13 +21,14 @@
 - [The Journal of Right-Wing Studies](https://jrws.berkeley.edu/issues)：右翼研究刊，加州伯克利出品！
 - [Ciprian Manolescu 爱看的电影](https://web.stanford.edu/~cm5/movies.html)：某个数学家爱看的电影；
 - 吉大购买的数据库：
-  - [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》等等都有，吉大 ip 可直接阅览；
+  - [大成老旧刊数据库](https://laokan.dachengdata.com/)：民国旧报刊，挺全的，《新青年》《天义》《广雅学生》等等都有，吉大 ip 可直接阅览；
   - [汇雅电子书](https://www.sslibrary.com/)：正版电子书，吉大 ip 可直接阅览；
-  - [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊（有《闽星》《广东省立一中校刊》）；
+  - [全国报刊阅览](https://www.cnbksy.com)：民国旧报刊（有《闽星》《广东省立一中校刊》《广雅丛报》《广雅学生抗日特刊》）；
   - [中国近代影像资料库](https://www.lzp360.com/)：中国社会科学出版社的带制作；
   - [中国社会科学文库](https://www.sklib.cn/)：免费看书！
 - [近代中國史料叢刊](https://commons.wikimedia.org/w/index.php?search=%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A&title=Special%3AMediaSearch&go=%E5%9F%B7%E8%A1%8C&uselang=zh-tw&type=page)：无量功德；
   - 另附浙江大學提供的[在綫目錄](http://csid.zju.edu.cn/doclib/sub?id=8a8fbda74ca27288014ca2734d1300ec)；
+- [Wikimedia Commons](https://commons.wikimedia.org)：有许多古籍、民国图书，直接搜索即可。另外，同网站的[书库备份计划](https://commons.wikimedia.org/wiki/Commons:Library_back_up_project)搜集了读秀泄露书目、中美百万书项目（CADAL）书目、台湾图书馆书目等等。
 
 
 ## 数学
@@ -72,6 +73,7 @@
 - [Henry Wilton](https://www.dpmms.cam.ac.uk/~hjrw2/)：有几何群论的题、黎曼面的讲义；
 - [Hasse - Distribution Theory](https://www.math.chalmers.se/~hasse/distributioner_eng.pdf)：分布理论
 - [Walker H. Stem - Differential Geometry](https://www.walkerstern.com/courses/2022_DiffGeo/)：参考讲义 Wolfgang Kühnel. Differential Geometry: Curves — Surfaces — Manifolds
+- [Lectures on Geometry of Manifolds](https://www3.nd.edu/~lnicolae/Lectures.pdf)：著者是个罗马尼亚人，主页还有些其他讲义，作者自称此书为“is addressed primarily to the graduate students specializing in global analysis and gauge theory.”
 
 
 
@@ -99,6 +101,7 @@
 - [Yume wiki](https://yume.wiki/)：梦日记百科；
 - [梦日记中文站](https://yumenikki.info/)
 - [在 Linux Wayland 下玩饥荒联机版](https://liolok.com/zhs/dont-starve-together-note/)；
+- [广州地铁站转盘](https://gz-metro-spin-wheel.kylegeeks.com/)
 
 ## 博客
 - [Henrize](https://henrize.kim/)：十字街站长博客；
@@ -123,6 +126,7 @@
   - [ext.to](https://ext.to)
 - [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)：`.gov.cn` 后缀的官修地图网站！
 - [4 archive](https://archiveofsins.com/_/articles/faq/)：4 chan 档案馆；
+- [在线 OCR](https://ocr.wdku.net/index_shupai)：竟然能扫描竖排书！
 
 ## 语言
 - [字統](https://zi.tools/)
