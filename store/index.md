@@ -16,3 +16,4 @@
 - [在油管上关注的人](./youtube)
 - [我喜欢的种子](./torrents)
 - [Typst 配置](./typst)
+- [第一之本](./benzi)
