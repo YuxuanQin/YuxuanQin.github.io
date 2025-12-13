@@ -14,7 +14,6 @@
 - [CODENSITY AND STONE SPACES](https://arxiv.org/pdf/1409.1370)：如其名
 
 ### 安妈专题
-- [无政府主义信仰的曲折之路 ── 青年巴金对历史、时间与革命的反思](https://www.ncpssd.cn/Literature/secure/articleinfo?params=WEhDSzJDNCtKaE5EVkc1N0R0TjMreUt6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuaXoOaUv%252BW6nCIgT1IgSUtQWVRFPSLml6DmlL%252FlupwiICBPUiBJS1NUPSLml6DmlL%252FlupwiIE9SIElLRVQ9IuaXoOaUv%252BW6nCIgT1IgSUtTRT0i5peg5pS%252F5bqcIikgQU5EICgoSUtURT0i5be06YeRIiBPUiBJS1BZVEU9IuW3tOmHkSIgT1IgSUtTVD0i5be06YeRIiBPUiBJS0VUPSLlt7Tph5EiIE9SIElLU0U9IuW3tOmHkSIpKQ%253D%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5peg5pS%252F5bqcIiDkuJQgKOmimOWQjS%252FlhbPplK7or409IuW3tOmHkSIp%2526nav%253D0%2526ajaxKeys%253D5be06YeRLOaXoOaUv%252BW6nA%253D%253D)；
 - [Emma Glodman (on Wikipedia)](https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman)：竟然是标星文章！
 - [Angel Pino - _Ba Jin and the "Arshinov Platform"_ (on Anarchist Library)](https://theanarchistlibrary.org/library/angel-pino-ba-jin-and-the-arshinov-platform)：贼多参考文献；
 - [Vadim Damier - _Anarcho-syndicalism in the 20th Century_ (on Anarchist Library)](https://theanarchistlibrary.org/library/vadim-damier-anarcho-syndicalism-in-the-20th-century)：libcom 上面[也有](https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier)，可以参考那里的评论；

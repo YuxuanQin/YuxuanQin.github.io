@@ -17,3 +17,4 @@
 - [我喜欢的种子](./torrents)
 - [Typst 配置](./typst)
 - [第一之本](./benzi)
+- [考试](./exam)
