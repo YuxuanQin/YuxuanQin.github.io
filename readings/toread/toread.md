@@ -27,6 +27,7 @@
 - [Wiki - _Fascism_](https://wikimore.private.coffee/wiki/en/wiki/Fascism)
 - [《新广东》：从政治到文学](https://www.ncpssd.org/Literature/secure/articleinfo?params=NGQ3R3llL1Evc3h3U3NLVE1ZWnNOeUt6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.org%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9Iuasp%252BammOeUsiIgT1IgSUtQWVRFPSLmrKfmppjnlLIiICBPUiBJS1NUPSLmrKfmppjnlLIiIE9SIElLRVQ9Iuasp%252BammOeUsiIgT1IgSUtTRT0i5qyn5qaY55SyIik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5qyn5qaY55SyIg%253D%253D%2526nav%253D0%2526ajaxKeys%253D5qyn5qaY55Sy)
 - _Muslims in Amdo Tibetan Society_ Chapter 7: Victims of Modernization? Struggles between the goloks and the Muslim Ma Warlords in Qinghai, 1917–1942, by Bianca Horlemann
+- [Book recs on Fascism](https://fascio.substack.com/p/the-best-book-recommendations-on)：一堆牛逼书；
 
 ### 其他的
 - [Lawvere Theory](https://web.science.mq.edu.au/~street/MitchB.pdf)：Ross Street 谈 Lawvere 理论！33 页；
