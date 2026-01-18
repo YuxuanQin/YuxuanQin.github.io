@@ -14,7 +14,7 @@ BASE STYLES
 *******************************************************************************/
 
 html {
-    font-size: 10.5pt;
+    font-size: 11pt;
     height: 100%;
 }
 
@@ -468,7 +468,7 @@ MATH NOTATION
 /* Block math equations - display as block, centered */
 figure[role="math"] {
     display: block;
-    width: 55%;
+    width: 85%;
     text-align: center;
     margin: 1em 0;
     padding: 0.5em 0;
