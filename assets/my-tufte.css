@@ -6,10 +6,10 @@ html {
 }
 
 body {
-  width: 87.5%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 12.5%;
+  padding-left: 10%;
   /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
   font-family: "Libertinus Serif", libertinus, "Noto Serif CJK SC", "Noto Serif Chinese SC", "Source Han Serif SC", serif;
   background-color: #fffff8;
@@ -99,7 +99,7 @@ ul {
 }
 
 p {
-  margin-top: 1.4rem;
+  margin-top: 1rem;
   margin-bottom: 1.4rem;
   padding-right: 0;
   vertical-align: baseline;
@@ -148,13 +148,13 @@ blockquote footer {
 section > footer,
 section > p,
 section > table {
-  width: 55%;
+  width: 65%;
 }
 
 section > dl,
 section > ol,
 section > ul {
-  width: 50%;
+  width: 67%;
   -webkit-padding-start: 5%;
 }
 
@@ -170,7 +170,7 @@ figure {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  max-width: 55%;
+  max-width: 67%;
   -webkit-margin-start: 0;
   -webkit-margin-end: 0;
   margin: 0 0 3em 0;
@@ -193,7 +193,9 @@ figure.fullwidth figcaption {
 }
 
 /* 链接样式 */
-a:link,
+a:link {
+  color: blue;
+}
 a:visited {
   color: inherit;
 }
@@ -290,7 +292,7 @@ img {
   float: right;
   clear: right;
   margin-right: -60%;
-  width: 50%;
+  width: 57%;
   margin-top: .3rem;
   margin-bottom: 0;
   font-size: 1.1rem;
@@ -344,7 +346,7 @@ div.table-wrapper {
 
 /* 无衬线字体样式 */
 .sans {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-family: "Noto Sans CJK SC", "Gill Sans MT", Calibri, sans-serif;
   letter-spacing: .03em;
 }
 
