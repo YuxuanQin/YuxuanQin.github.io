@@ -1,29 +1,19 @@
 @charset "UTF-8";
-/* 基础样式 */
 
+/* 基础样式 */
 html {
   font-size: 15px;
 }
 
 body {
-  width: 90%;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 10%;
-  /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  font-family: "Libertinus Serif", libertinus, "Noto Serif CJK SC", "Noto Serif Chinese SC", "Source Han Serif SC", serif;
+  padding-left: 12.5%;
   background-color: #fffff8;
   color: #111;
   max-width: 1400px;
   counter-reset: sidenote-counter;
-}
-
-/* 深色模式适配 */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #151515;
-    color: #ddd;
-  }
 }
 
 /* 标题样式 */
@@ -31,7 +21,7 @@ h1 {
   font-weight: 400;
   margin-top: 4rem;
   margin-bottom: 1.5rem;
-  font-size: 3.2rem;
+  font-size: 3.5rem;
   line-height: 1;
 }
 
@@ -99,7 +89,7 @@ ul {
 }
 
 p {
-  margin-top: 1rem;
+  margin-top: 1.4rem;
   margin-bottom: 1.4rem;
   padding-right: 0;
   vertical-align: baseline;
@@ -148,13 +138,13 @@ blockquote footer {
 section > footer,
 section > p,
 section > table {
-  width: 65%;
+  width: 55%;
 }
 
 section > dl,
 section > ol,
 section > ul {
-  width: 67%;
+  width: 50%;
   -webkit-padding-start: 5%;
 }
 
@@ -170,7 +160,7 @@ figure {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  max-width: 67%;
+  max-width: 55%;
   -webkit-margin-start: 0;
   -webkit-margin-end: 0;
   margin: 0 0 3em 0;
@@ -192,95 +182,6 @@ figure.fullwidth figcaption {
   margin-right: 24%;
 }
 
-/* 链接样式 */
-a:link {
-  color: blue;
-}
-a:visited {
-  color: inherit;
-}
-
-.no-tufte-underline:link {
-  background: unset;
-  text-shadow: unset;
-}
-
-.hover-tufte-underline:hover,
-.tufte-underline,
-a:link {
-  text-decoration: none;
-  background: -webkit-linear-gradient(#fffff8, #fffff8), 
-              -webkit-linear-gradient(#fffff8, #fffff8), 
-              -webkit-linear-gradient(currentColor, currentColor);
-  background: linear-gradient(#fffff8, #fffff8), 
-              linear-gradient(#fffff8, #fffff8), 
-              linear-gradient(currentColor, currentColor);
-  -webkit-background-size: .05em 1px, .05em 1px, 1px 1px;
-  -moz-background-size: .05em 1px, .05em 1px, 1px 1px;
-  background-size: .05em 1px, .05em 1px, 1px 1px;
-  background-repeat: no-repeat, no-repeat, repeat-x;
-  text-shadow: .03em 0 #fffff8, 
-               -.03em 0 #fffff8, 
-               0 .03em #fffff8, 
-               0 -.03em #fffff8, 
-               .06em 0 #fffff8, 
-               -.06em 0 #fffff8, 
-               .09em 0 #fffff8, 
-               -.09em 0 #fffff8, 
-               .12em 0 #fffff8, 
-               -.12em 0 #fffff8, 
-               .15em 0 #fffff8, 
-               -.15em 0 #fffff8;
-  background-position: 0 93%, 100% 93%, 0 93%;
-}
-
-/* Webkit内核浏览器适配 */
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-  .hover-tufte-underline:hover,
-  .tufte-underline,
-  a:link {
-    background-position-y: 87%, 87%, 87%;
-  }
-}
-
-/* 深色模式下的链接样式 */
-@media (prefers-color-scheme: dark) {
-  .hover-tufte-underline:hover,
-  .tufte-underline,
-  a:link {
-    text-shadow: .03em 0 #151515, 
-                 -.03em 0 #151515, 
-                 0 .03em #151515, 
-                 0 -.03em #151515, 
-                 .06em 0 #151515, 
-                 -.06em 0 #151515, 
-                 .09em 0 #151515, 
-                 -.09em 0 #151515, 
-                 .12em 0 #151515, 
-                 -.12em 0 #151515, 
-                 .15em 0 #151515, 
-                 -.15em 0 #151515;
-  }
-}
-
-/* 链接选中样式 */
-a:link::-moz-selection,
-a:link::selection {
-  text-shadow: .03em 0 #b4d5fe, 
-               -.03em 0 #b4d5fe, 
-               0 .03em #b4d5fe, 
-               0 -.03em #b4d5fe, 
-               .06em 0 #b4d5fe, 
-               -.06em 0 #b4d5fe, 
-               .09em 0 #b4d5fe, 
-               -.09em 0 #b4d5fe, 
-               .12em 0 #b4d5fe, 
-               -.12em 0 #b4d5fe, 
-               .15em 0 #b4d5fe, 
-               -.15em 0 #b4d5fe;
-  background: #b4d5fe;
-}
-
 /* 图片自适应 */
 img {
   max-width: 100%;
@@ -292,7 +193,7 @@ img {
   float: right;
   clear: right;
   margin-right: -60%;
-  width: 57%;
+  width: 50%;
   margin-top: .3rem;
   margin-bottom: 0;
   font-size: 1.1rem;
@@ -346,14 +247,14 @@ div.table-wrapper {
 
 /* 无衬线字体样式 */
 .sans {
-  font-family: "Noto Sans CJK SC", "Gill Sans MT", Calibri, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   letter-spacing: .03em;
 }
 
 /* 代码样式 */
 code,
 pre > code {
-  font-family: "Fira Code", "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "Fira Code", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 1rem;
   line-height: 1.42;
   -webkit-text-size-adjust: 100%;

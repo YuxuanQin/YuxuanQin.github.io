@@ -4,15 +4,12 @@
 <基数>
 直接贴链接：#link("https://math.jhu.edu/~eriehl/arithmetic.pdf")[Categorifying Cardinal Arithmetic]
 
-我们真的需要 “基数” 吗？上面那个报告（又一次）激起了读
-#link("https://golem.ph.utexas.edu/category/2021/06/large_sets_1.html")[Large Sets 1]
-的欲望（暑假说要读来着，结果到现在都只读完第一部分）
+我们真的需要 “基数” 吗？上面那个报告（又一次）激起了读 #link("https://golem.ph.utexas.edu/category/2021/06/large_sets_1.html")[Large Sets 1] 的欲望（暑假说要读来着，结果到现在都只读完第一部分）
 
 最近开始重新了解集合论，乃是因为伴随函子定理：
 
 #quote(block: true)[
-若 $F : cal(C) arrow.r cal(D)$ 保极限，且 $cal(C)$
-完备，则它有右伴随当且仅当其满足某种解集条件
+若 $F : cal(C) arrow.r cal(D)$ 保极限，且 $cal(C)$ 完备，则它有右伴随当且仅当其满足某种解集条件
 ]
 
 前面都好说，但是后面的解集条件却值得讨论一番：譬如说群的遗忘函子

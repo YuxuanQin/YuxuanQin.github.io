@@ -12,8 +12,8 @@
   188)，这是我第一本 GTM 嘿嘿，算是对非标准分析的初步理解，超实数
   Hyperreals 的 (其中一种) 构造尤其简单：全体实数序列 (意味着可数项分量)
   $r = chevron.l r_1 \, r_2 \, dots.h chevron.r$ 的等价类。即
-  $""^convolve bb(R) := bb(R)^(bb(N)) \/ equiv$,
-  $r equiv s med med i f f med med { k in N : r_k = s_k } in F$，其中
+  $attach(bb(R), tl: *) := bb(R)^(bb(N)) \/ equiv$,
+  $r equiv s "iff" { k in N : r_k = s_k } in F$，其中
   $F$ 是 $N$ 上的 (某个) 非主超滤。 　
 
   用超实数证明中值定理显得很简单，主要依据是转换原理，把区间分为无穷多长度无穷小的段，然后根据有限段的推理，得出无穷段的结论。最后依赖于一个比较重要的纲领完成证明：两个实数无穷接近，那么它们是同一个实数。
@@ -25,8 +25,8 @@
 - 借了汪芳庭先生的《算术超滤》希望能在寒假读一读。另外，还借了许全华的《泛函分析讲义》，意外地发现这本书有一张学长留下的纸条：
 
 #quote(block: true)[
-=== 彩蛋
-<彩蛋>
+*彩蛋*
+
 许全华的泛函大概是目前你所能找到的中文泛函分析教材 (本科水平)
 中最好的。事实上，泛函的中文教材中只有 Kolmogorov, Lax 的值得一看。但
 Kolmogorov 的两册太老了 (但很详细，如对于 Fourier
@@ -39,7 +39,8 @@ Kolmogorov 的两册太老了 (但很详细，如对于 Fourier
 Albiac 的书，或了解 Assaf Naor
 的工作，这些都是国内泛函研究不曾涉及的、比较奇趣的主题。
 
-不愿留下姓名的学长 \
+不愿留下姓名的学长
+
 QQ:850458544
 ]
 
@@ -56,7 +57,7 @@ QQ:850458544
   - 构造主义者通常也#strong[不承认]选择公理，因为选择公理蕴含排中律
     (视频中给出了证明，注意这个蕴含关系直到 1970 年才被发现)。
   - 没有排中律我们也能做很多事。
-  - 同样地，没有选择公理我们也能做很多事，例如在无点拓 (Point-free /
+  - 同样地，没有选择公理我们也能做很多事，例如在无点拓扑 (Point-free /
     Pointless Topology) 中，可以在不承认选择公理与排中律的情况下证明
     Tychonoff 定理
     (当然，这是在#strong[无点拓扑]中；于通常的拓扑学而言，本定理甚至蕴含选择公理)。
@@ -73,9 +74,9 @@ QQ:850458544
 - #link("https://arxiv.org/pdf/1703.03007.pdf")[Homotopy type theory: the logic of space]
 - #link("https://projecteuclid.org/journals/review-of-modern-logic/volume-6/issue-3/Interview-with-a-constructive-mathematician/rml/1204835729.full")[INTERVIEW WITH A CONSTRUCTIVE MATHEMATICIAN]
 - #link("https://unimath.github.io/SymmetryBook/book.pdf")[S Y M M E T R Y]
-  ------ 一本据说用类型论视角探讨群论的书
+  —— 一本据说用类型论视角探讨群论的书
 - #link("https://web.math.princeton.edu/~nelson/papers/warn.pdf")[Warning Signs of a Possible Collapse of Contemporary Mathematics]
-  ------ 一位极端的构造主义数学家 Edward Nelson
+  —— 一位极端的构造主义数学家 Edward Nelson
   向学界发出的警告。(他不是民科，至少此人曾在普林斯顿任教，另外 nlab
   称他为 #emph[Ultrafinitism]。)
 
@@ -90,7 +91,7 @@ QQ:850458544
 指盾牌。
 
 借了穆齐尔《在世遗作》、波拉尼奥《重返暗夜》，还有一位不太认识的作家
------- 让 · 热内 ------ 的作品《阳台》，寒假准备读完 ……
+—— 让 · 热内 —— 的作品《阳台》，寒假准备读完 ……
 嘶，之前买的《英雄与坟墓》还没读呢，上面那么多数学材料还没读呢 ……
 (更别说暑假买的一堆书)
 

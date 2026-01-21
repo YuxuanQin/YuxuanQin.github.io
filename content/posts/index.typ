@@ -6,9 +6,8 @@
 
 === 二〇二五
 <二〇二五>
-- #link("./jilin-translation/")[吉林大学“抽象代数 II”翻译作业]
-- #link("./informal-history-of-revolution/")[梁冰弦《解放別錄》重排本]
 - #link("./2025/rain")[雨]
+- #link("./2025/dishonesty/")[记一篇学术不端的论文]
 - #link("./2025/history")[关于历史]
 - #link("./2025/chifeng")[赤峰、锦州旅行记]
 - #link("./2025/sanin")[《萨宁》]

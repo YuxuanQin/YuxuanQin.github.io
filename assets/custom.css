@@ -3,18 +3,96 @@ CUSTOM STYLES
 
 Add your custom CSS styles here to override or extend the default styles.
 *******************************************************************************/
+
+
+/******************************************************************************
+                                  字体配置 
+目标：在所有设备上使用 Libertinus Serif 字体显示西文。
+
+方法：使用 woff 及 woff2 格式实现自定义字体，强制所有设备使用 Libertinus Serif
+      显示西文。
+
+流程：
+     1. 用 https://transfonter.org/ 将 Libertinus 的 .otf 文件转换成 woff 格式。
+     2. 下载转换后的 zip 文件，解压后把 css 的内容复制至此，下面的 @font-face
+        便是。
+
+说明：这些不同风格、不同自重的字体全都共用同一个名字，乃是为了方便起见，详见
+      https://456bereastreet.com/archive/201012/font-face_tip_define_font-weight_and_font-style_to_keep_your_css_simple/
+
+*******************************************************************************/
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('fonts/LibertinusSerif-Regular.woff2') format('woff2'),
+        url('fonts/LibertinusSerif-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('fonts/LibertinusSerif-Italic.woff2') format('woff2'),
+        url('fonts/LibertinusSerif-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('fonts/LibertinusSerif-Semibold.woff2') format('woff2'),
+        url('fonts/LibertinusSerif-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('fonts/LibertinusSerif-BoldItalic.woff2') format('woff2'),
+        url('fonts/LibertinusSerif-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('fonts/LibertinusSerif-Bold.woff2') format('woff2'),
+        url('fonts/LibertinusSerif-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*字体设置完毕*/
+
 html {
-  font-family: "Noto Serif CJK SC", serif;
+  font-family: "Libertinus Serif", "Noto Serif CJK SC", serif;
 }
 
 body {
-  max-width: 90%;
+  max-width: 87.5%;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
   padding-bottom: 50px;
+  text-align: justify;
 }
 
+blockquote {
+  margin: 1em 0 1em 1.7em;
+  padding-left: 1em;
+  border-left: 2px solid #e6e6e6;
+  color: #606060;
+}
+
+p {
+  /*text-indent: 2em each-line;*/
+  hyphens: auto;
+}
 
 a:link {
   color: blue;
@@ -25,6 +103,5 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: none;
   font-weight: bold;
 }

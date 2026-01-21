@@ -6,12 +6,12 @@
 
 寒假去了趟
 BICMR，本来以为是讲类型论的，结果其实是去打工。有几位讲师是做应用数学或者计算数学的，他们也只不过是会用而已，讲课的时候也带着一种常见的
------- 同时当然也是无可厚非的 ------
+—— 同时当然也是无可厚非的 ——
 的态度：“我不关心类型论，能用就行”，既然这样我还来干嘛……不过当然有几位讲师非常了得（#strike[同时也非常抽象]），编程能力极强，同时对各种类型论感觉也很懂，但是限于时间没能一领其功夫之全貌。
 
 那两周算是刷完了 #emph[Mathematics in
 Lean]，也算是完成了一次对形式化数学的
-“祛魅”？近距离接触后反倒看到了更多丑陋的东西 ------ `Lean`
+“祛魅”？近距离接触后反倒看到了更多丑陋的东西 —— `Lean`
 的代码感觉还行，但用一大堆密密麻麻的英文代替简洁的数学符号，以及定理命名的方式都不讨人喜欢（我甚至怀疑这样低的可读性能否支撑其野心）。总体来说这次去北京还是有收获的，至少不再那么狂热地对待
 Lean 了，现在的重心应该从真正动手证明定理转向了理论背景的学习。
 
@@ -55,7 +55,7 @@ bb(U) & := union.big_(i in bb(N)) bb(U)_i . $
 目前的主要成果：
 
 - Robinson' Compactness Criterion:
-  $ B subset.eq bb(R) med upright("compact") arrow.l.r.double^(*) #h(-1em) #h(-1em) B subset.eq union.big_(r in B) upright("hal") \( r \) . $
+  $ B subset.eq RR "compact" <==> attach(B, tl: *) subset.eq union.big_(r in B) "hal" (r) . $
 - Saturation;
 - Overflow principle;
 - …
