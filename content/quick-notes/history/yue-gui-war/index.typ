@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "粤桂战争")
 = 粤桂战争
 <粤桂战争>
 粤桂战争是护法运动期间的两次战争。

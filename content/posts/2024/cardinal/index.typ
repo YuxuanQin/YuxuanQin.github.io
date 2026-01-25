@@ -1,6 +1,7 @@
 #import "/config.typ": template, tufted
-#show: template
-== 基数
+#show: template.with(title: "基数")
+
+= 基数
 <基数>
 直接贴链接：#link("https://math.jhu.edu/~eriehl/arithmetic.pdf")[Categorifying Cardinal Arithmetic]
 

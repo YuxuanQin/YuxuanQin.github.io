@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "谭延闿")
 = 谭延闿
 <谭延闿>
 我对此人感兴趣，是因 1920

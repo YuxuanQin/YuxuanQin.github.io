@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "颞下颌关节紊乱")
 = 颞下颌关节紊乱
 <颞下颌关节紊乱>
 自十九岁生日那天中午以来，我耳根和面颊的连接处在咬合的时候就会发痛。自高二冬天的某个晚上以来，我在入睡前，尤其姿以侧睡时，常感到耳朵内抖动不已。

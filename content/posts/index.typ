@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "絮语")
 = 絮语
 <絮语>
 我写下这些文字，于是它们便这般存在。

@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "二月二十九日小记")
 = 二月二十九日小记
 <二月二十九日小记>
 一月没写东西，趁着闰年独有的日子记录一下。

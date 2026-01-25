@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "女孩和栀子花儿")
 = 女孩和栀子花儿
 <女孩和栀子花儿>
 汤素兰在其小说集《红鞋子》（天天出版社，2010）写过一篇小故事：《女孩和栀子花儿》，这故事很短，作者也是儿童文学作家，但却给我留下了很深的印象。

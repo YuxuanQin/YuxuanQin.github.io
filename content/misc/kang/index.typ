@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "世上已无康宏逵")
 = 世上已无康宏逵
 <世上已无康宏逵>
 === 梅剑华

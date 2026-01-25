@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "历史")
 = 历史
 <历史>
 这里记录了我的历史笔记，以民国史为主。

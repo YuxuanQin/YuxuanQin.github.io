@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "索引")
 = 索引
 <索引>
 == 二〇二四

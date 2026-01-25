@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "读完了《英雄与坟墓》")
 = 读完了《英雄与坟墓》
 <读完了英雄与坟墓>
 如题。

@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "牛模大计划")
 = 牛模大计划
 <牛模大计划>
 == 拓扑

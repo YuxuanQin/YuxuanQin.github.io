@@ -1,6 +1,7 @@
 #import "/config.typ": template, tufted
-#show: template
-== 看完了《着魔》
+#show: template.with(title: "看完了《着魔》")
+
+= 看完了《着魔》
 <看完了着魔>
 中华人民共和国 75 岁生日那天，我看完了祖拉斯基的《着魔》。
 

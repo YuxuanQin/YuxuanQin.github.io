@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "寒假之前的记录")
 = 寒假之前的记录
 <寒假之前的记录>
 \(2024 / 1 / 11)

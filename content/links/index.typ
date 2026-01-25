@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "我喜欢的网站")
 
 = 我喜欢的网站
 

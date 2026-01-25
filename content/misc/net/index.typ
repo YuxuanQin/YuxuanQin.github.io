@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "更好的上网体验")
 = 更好的上网体验
 <更好的上网体验>
 最后更新于 `2025-11-10`。

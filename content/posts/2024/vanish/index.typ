@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "为何一切尚未消失？")
 = 为何一切尚未消失？
 <为何一切尚未消失>
 

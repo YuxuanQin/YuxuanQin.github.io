@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "为什么这么无聊？")
 = 为什么这么无聊？
 <为什么这么无聊>
 也许，在讨论之前，需要对你使用的词语作出#strong[界定]。

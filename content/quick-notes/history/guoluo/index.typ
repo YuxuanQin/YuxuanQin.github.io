@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "果洛部落")
 = 果洛部落
 <果洛部落>
 == 人物

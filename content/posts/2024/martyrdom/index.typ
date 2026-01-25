@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "殉道")
 = 殉道
 <殉道>
 人需要殉道般的狂热才足以让自我充分而彻底地存在。

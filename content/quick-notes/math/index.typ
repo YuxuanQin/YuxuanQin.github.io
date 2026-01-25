@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "数学小知识")
 = 数学小知识
 这里记录一些小知识，并不是长篇大论。
 

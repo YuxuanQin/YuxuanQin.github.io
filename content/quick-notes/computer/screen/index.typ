@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "GNU `screen` 怎么用")
 = GNU `screen` 怎么用
 <gnu-screen-怎么用>
 根据某知乎老哥的建议，特来学习 `screen`，命令只有两条：

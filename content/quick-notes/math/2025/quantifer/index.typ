@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "量词与集合交并补的关系")
 = 量词与集合交并补的关系
 <量词与集合交并补的关系>
 在读 Axler 的

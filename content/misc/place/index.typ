@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "可以去的地方")
 = 可以去的地方
 <可以去的地方>
 == 长春

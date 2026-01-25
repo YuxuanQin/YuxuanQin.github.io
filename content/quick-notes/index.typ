@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "笔记")
 = 笔记
 <笔记>
 边读书，边记笔记，岂不快哉！

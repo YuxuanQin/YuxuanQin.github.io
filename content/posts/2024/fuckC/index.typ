@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "C 语言的一切都是大便")
 = C 语言的一切都是大便
 <c-语言的一切都是大便>
 理由：

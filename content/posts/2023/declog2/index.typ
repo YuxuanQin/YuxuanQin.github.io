@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "十二月小记之二")
 = 十二月小记之二
 <十二月小记之二>
 上次记录以来生了一次病，身上忽冷忽热，在寝室躺了一周，前三天几乎没有除睡觉以外的欲望，应该是新冠。写此文以庆贺#strong[复活]！

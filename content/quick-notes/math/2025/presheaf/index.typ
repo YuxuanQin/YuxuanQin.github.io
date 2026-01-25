@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "The category of presheaves are cartesien closed")
 #set text(lang: "en")
 
 = The category of presheaves are cartesien closed
@@ -25,7 +25,8 @@ $P^Q \( c \) := hat(upright(bold(C))) \( upright(bold(y))_c times Q \, R \)$.
 The theorems/propositions in the comments after each equation are all in the book #emph[Coend Calculus], and 
 
 
-#tufted.full-width[$ hat(upright(bold(C))) \( P \, hat(upright(bold(C))) \( upright(bold(y))_(\( \)) times Q \, R \) \) & tilde.equiv integral_c upright(S e t) \( P c \, hat(upright(bold(C))) \( upright(bold(y))_c times Q \, R \) \) & \( upright("By Thm 1.4.1") \)\
+#tufted.full-width[
+$ hat(upright(bold(C))) \( P \, hat(upright(bold(C))) \( upright(bold(y))_(\( \)) times Q \, R \) \) & tilde.equiv integral_c upright(S e t) \( P c \, hat(upright(bold(C))) \( upright(bold(y))_c times Q \, R \) \) & \( upright("By Thm 1.4.1") \)\
  & tilde.equiv integral_c upright(S e t) \( P c \, integral_x upright(S e t) \( upright(bold(C)) \( x \, c \) times Q x \, R x \) \) & \( upright("By Thm 1.4.1") \)\
  & tilde.equiv integral_c integral_x upright(S e t) \( P c \, upright(S e t) \( upright(bold(C)) \( x \, c \) times Q x \, R x \) \) & \( upright("Representables preserve limits") \)\
  & tilde.equiv integral_x integral_c upright(S e t) \( P c \, upright(S e t) \( upright(bold(C)) \( x \, c \) times Q x \, R x \) \) & \( upright("By Thm 1.3.1") \)\
@@ -34,7 +35,8 @@ The theorems/propositions in the comments after each equation are all in the boo
  & tilde.equiv integral_x upright(S e t) \( P x \, upright(S e t) \( Q x \, R x \) \) & \( upright("By Prop 2.2.1") \)\
  & tilde.equiv integral_x upright(S e t) \( P x times Q x \, R x \) & \( upright("Set is cartesien closed") \)\
  & tilde.equiv hat(upright(bold(C))) \( P times Q \, R \) & \( upright("By Thm 1.4.1") \)\
- $]
+ $
+]
 
 QED.
 

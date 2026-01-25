@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "套磁信")
 = 套磁信
 <套磁信>
 #quote(block: true)[

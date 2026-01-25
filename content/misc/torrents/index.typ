@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "我喜欢的种子")
 = 我喜欢的种子
 <我喜欢的种子>
 种源：

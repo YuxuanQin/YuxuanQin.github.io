@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "互联网")
 = 互联网
 <互联网>
 几乎所有真正沉迷过互联网的人都得出了同样的结论：互联网是屎。

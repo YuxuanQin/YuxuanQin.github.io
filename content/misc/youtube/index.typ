@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "在油管上关注的人")
 = 在油管上关注的人
 <在油管上关注的人>
 == 歌

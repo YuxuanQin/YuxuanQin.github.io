@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "小出版")
 = 小出版
 <小出版>
 昨天是世界读书日，这几天来也逐渐了解到了小出版和
@@ -22,15 +22,10 @@ zine，这都是我心目中的优秀文化机构，这是一种文化自由。�
 
 - #link("https://lainzine.org")[Lainzine]，这是我第一次见到“zine”字样的地方，也算是启蒙了，内容大多关于网络，在我看来名气应该挺大的，内容从动画到编程，非常丰富，但是文学性作品少。
 
-  注意：lainzine
-  似乎在准备中文翻译（#link("https://lainchan.org/lit/res/9748.html#9800")[出处]）。
-
+  注意：lainzine 似乎在准备中文翻译（#link("https://lainchan.org/lit/res/9748.html#9800")[出处]）。
 - #link("https://blackfogzine.org")[黑雾 Blackfog]，这份 zine
   主要关注文艺作品和漫画，看起来非常有趣！
-
-- #link("https://nekogirlmagazine.com")[Nekogirlzine]，名字没有意义，这份
-  zine
-  内容及其古怪（但是并不意味着我不喜欢）：动漫和伊斯兰混合、品钦的名字和欧里庇得斯的言辞穿插在文章之间、略血腥而怪异的照片到处都是、LaTeX
+- #link("https://nekogirlmagazine.com")[Nekogirlzine]，名字没有意义，这份 zine  内容及其古怪（但是并不意味着我不喜欢）：动漫和伊斯兰混合、品钦的名字和欧里庇得斯的言辞穿插在文章之间、略血腥而怪异的照片到处都是、LaTeX
   排版……这一切综合起来，简直就是后现代的盛宴。请看他们自述如下：
 
 #quote(block: true)[

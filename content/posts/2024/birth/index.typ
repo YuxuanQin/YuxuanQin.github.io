@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "生日之前")
 = 生日之前
 <生日之前>
 其实只是平凡的一天。

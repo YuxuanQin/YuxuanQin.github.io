@@ -1,5 +1,6 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "赤峰、锦州游记")
+
 = 赤峰、锦州游记
 <赤峰锦州游记>
 我对这次旅行还是挺满意的，唯一不满意的地方是……我不会开车！

@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "萨宁")
 = 萨宁
 <萨宁>
 从学校回来后，就立刻去图书馆借了阿尔志跋绥夫的《萨宁》。

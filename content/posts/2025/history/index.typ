@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "关于历史")
 = 关于历史
 <关于历史>
 近来对民国史（尤其是北洋时期）发生了兴趣，并阅读了一些历史书籍，通过《白日升》，认识了很多历史人物（以及他们不为人所知的一面），颇感略有所得，因此提笔记录我的心路历程以及收获。

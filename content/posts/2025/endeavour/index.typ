@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "重回 linux")
 = 重回 linux
 <重回-linux>
 #strong[注意]：具体配置如下：

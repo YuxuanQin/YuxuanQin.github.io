@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "Denotational Semantics (指称语义)")
 = Denotational Semantics (指称语义)
 <denotational-semantics-指称语义>
 这是我阅读 #link("https://en.wikibooks.org/wiki/Haskell/Denotational_semantics")[Haksell Wiki book/Denotational Semantics]

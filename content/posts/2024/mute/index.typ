@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "有很多想说的")
 = 有很多想说的
 <有很多想说的>
 然而说不出来，因为人是社会关系的总和，以此类推，我能否断言一切都是与其他东西关系的综合？

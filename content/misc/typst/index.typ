@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "我的 Typst 配置")
 = 我的 Typst 配置
 <我的-typst-配置>
 感谢开源！

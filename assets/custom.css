@@ -82,6 +82,13 @@ body {
   text-align: justify;
 }
 
+
+/*段落设置*/
+p {
+  text-indent: 2em each-line;
+  hyphens: auto;
+}
+
 blockquote {
   margin: 1em 0 1em 1.7em;
   padding-left: 1em;
@@ -89,11 +96,12 @@ blockquote {
   color: #606060;
 }
 
-p {
-  /*text-indent: 2em each-line;*/
-  hyphens: auto;
+/*防止数学公式也被缩进*/
+span[role="math"] {
+    text-indent: 0;
 }
 
+/*链接设置*/
 a:link {
   color: blue;
 }

@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "The definition of determinat")
 = The definition of determinat
 <the-definition-of-determinat>
 Main reference: #link("https://linear.axler.net/")[#emph[Linear Algebra Done Right]] by

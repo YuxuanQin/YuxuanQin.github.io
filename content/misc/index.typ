@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "储物间")
 = 储物间
 这里用来储存：
 

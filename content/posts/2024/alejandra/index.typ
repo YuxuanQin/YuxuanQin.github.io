@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "阿莱杭德娜")
 = 阿莱杭德娜
 <阿莱杭德娜>
 昨天身体偶感不适，因此晚上在图书馆读阿莱杭德娜的传记《最后的天真》消磨时光。这绝对是我读过最好的传记

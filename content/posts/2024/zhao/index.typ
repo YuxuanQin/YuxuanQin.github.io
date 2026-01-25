@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "僧肇")
 = 僧肇
 <僧肇>
 僧肇是姚秦三藏法师鸠摩罗什的高徒，初好玄学，后皈依佛门。

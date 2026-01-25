@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "十二月小记")
 #set text(lang: "zh", region: "cn")
 
 = 十二月小记

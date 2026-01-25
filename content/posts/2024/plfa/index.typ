@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "编程语言基础，Agda 版本")
 = 编程语言基础，Agda 版本
 <编程语言基础agda-版本>
 因为这是我记得的最后一个物件，因此，它是名字。

@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "记一篇涉嫌学术不端的论文")
 
 = 记一篇涉嫌学术不端的论文
 <记一篇涉嫌学术不端的论文>

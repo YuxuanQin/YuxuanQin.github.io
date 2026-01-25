@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "暑假学点啥")
 = 暑假学点啥
 <暑假学点啥>
 安排一下暑假日程。

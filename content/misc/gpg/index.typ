@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "GPG 常用命令一览")
 = GPG 常用命令一览
 <gpg-常用命令一览>
 GPG 是一款加密程序，用处多多：

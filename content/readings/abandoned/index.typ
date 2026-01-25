@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "弃读")
 = 弃读
 <弃读>
 这里记录了一些我没读完的文章。

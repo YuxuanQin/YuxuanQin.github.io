@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "雨")
 = 雨
 <雨>
 四大抒情名物“风花雪月”中的“雪”乃是广州所没有的。在广州，雨代替了雪，并起到了后者的抒情作用。

@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "已读")
 = 已读
 <已读>
 2025 年 11 月 2

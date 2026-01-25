@@ -1,5 +1,5 @@
 #import "/config.typ": template, tufted
-#show: template
+#show: template.with(title: "兴趣")
 = 兴趣
 这个页面更像是自我介绍，因为我之社会生命#footnote[与生理生命相对，同时也与家庭生命相对。]，主要围绕以下几个方面展开：
 
