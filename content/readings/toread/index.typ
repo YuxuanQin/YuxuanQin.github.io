@@ -39,6 +39,7 @@
   Modernization? Struggles between the goloks and the Muslim Ma Warlords
   in Qinghai, 1917--1942, by Bianca Horlemann
 - #link("https://fascio.substack.com/p/the-best-book-recommendations-on")[Book recs on Fascism]：一堆牛逼书；
+- #link("https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IumHjeaAneS4nOS6muWMuuWfn+enqeW6j+WPsiIgT1IgSUtQWVRFPSLph43mgJ3kuJzkuprljLrln5/np6nluo/lj7IiICBPUiBJS1NUPSLph43mgJ3kuJzkuprljLrln5/np6nluo/lj7IiIE9SIElLRVQ9IumHjeaAneS4nOS6muWMuuWfn+enqeW6j+WPsiIgT1IgSUtTRT0i6YeN5oCd5Lic5Lqa5Yy65Z+f56ep5bqP5Y+yIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i6YeN5oCd5Lic5Lqa5Yy65Z+f56ep5bqP5Y+yIg==&nav=0&ajaxKeys=6YeN5oCd5Lic5Lqa5Yy65Z+f56ep5bqP5Y+y")[《重思东亚区域秩序史》，《历史研究》]；
 
 === 其他的
 <其他的>
@@ -226,10 +227,6 @@
   - 邓野的作品；
   - 《中苏关系史纲》；
 - 《药地炮庄》
-- 西藏近代史：
-  - 《艽野尘梦》；
-  - 《雪域求法记》；
-  - 《喇嘛王国的覆灭》；
 - 《哲学船事件》：讲苏联对沙俄时期知识分子的大驱逐；
 - 《德国人的西藏幻梦》：讲德国藏学的；
 - 《美洲迷梦》：拉美文化政治史；
@@ -239,9 +236,27 @@
 - 《人间的命运》，芹泽光治良，东方出版社：记述了巴金和邵可侣一家的故事；
 - 《海外洪门与辛亥革命》，中国致公出版社；
 - 《天义》，万仕国，中国人民大学出版社：天义报校注；
-- 《广东文史资料第 43
-  辑：广东军阀大事记》：梳理了龙济光、陆荣廷、陈炯明等人掌控广东的事迹；
+- 《广东文史资料第 43 辑：广东军阀大事记》：梳理了龙济光、陆荣廷、陈炯明等人掌控广东的事迹；
 - 《中国近代史史料学（增订本）》，北京大学出版社；
+- 边疆史学者吕一燃的作品：
+  - 《中国近代边界史》，人民出版社，2013
+=== 康藏
+- 周希武《玉树调查记》，青海人民出版社，2022
+- 《西藏百年史研究》，社会科学文献出版社，2015：浏览即可，三位著者的学术水平看起来都不是顶尖的
+- 《艽野尘梦》；
+- 《雪域求法记》；
+- 《喇嘛王国的覆灭》；
+
+=== 西域
+- 《丝路探险》，上海古籍，2020
+- 《唐代景教再研究（增订本）》，商务印书馆，2021：似乎是论文集
+- 范长江，《中国的西北角（勘注增补本）》，北京出版社，2025
+
+=== 蒙古
+- 《北洋政府时期的蒙古地区历史资料》，黑龙江教育出版社，2014
+
+
+
 
 == 想看的电影
 <想看的电影>

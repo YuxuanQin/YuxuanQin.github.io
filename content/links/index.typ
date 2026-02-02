@@ -34,6 +34,7 @@
 - #link("https://commons.wikimedia.org/w/index.php?search=%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A&title=Special%3AMediaSearch&go=%E5%9F%B7%E8%A1%8C&uselang=zh-tw&type=page")[近代中國史料叢刊]：无量功德；
   - 另附浙江大學提供的#link("http://csid.zju.edu.cn/doclib/sub?id=8a8fbda74ca27288014ca2734d1300ec")[在綫目錄]；
 - #link("https://commons.wikimedia.org")[Wikimedia Commons]：有许多古籍、民国图书，直接搜索即可。另外，同网站的#link("https://commons.wikimedia.org/wiki/Commons:Library_back_up_project")[书库备份计划]搜集了读秀泄露书目、中美百万书项目（CADAL）书目、台湾图书馆书目等等。
+- #link("http://jds.cssn.cn/xsqk/jdsyj/")[社科院近代史研究期刊]：提供了《国外中国近代史研究》系列书目的 pdf
 
 == 数学
 - #link("http://staff.ustc.edu.cn/~wangzuoq/")[王作勤]：拓扑、微分几何；
