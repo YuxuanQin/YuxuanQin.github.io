@@ -1,14 +1,11 @@
 #import "/config.typ": template, tufted
 #show: template.with(title: "待读")
-
 = 待读
 <待读>
 二〇二四年十一月一日#strike[初雪之前]按：欲望大爆发，想起来高中那个记了两百多条
 “待读书目” 的本子，姑勉之，勿怠惰！
 
-== 文章、报告
-<文章报告>
-=== Codensity 专题学习
+== Codensity 专题学习
 <codensity-专题学习>
 - #link("https://arxiv.org/pdf/1910.01014")[CODENSITY: ISBELL DUALITY, PRO-OBJECTS, COMPACTNESS AND ACCESSIBILITY]：Ivan
   Di Liberti，20 页，可以看成是 Leinster 文章的后传嘿嘿。
@@ -16,12 +13,11 @@
   Tom 那篇文章的启发，36 页；
 - #link("https://arxiv.org/pdf/1409.1370")[CODENSITY AND STONE SPACES]：如其名
 
-=== 范畴论
+== 范畴论
 <范畴论>
 - #link("https://arxiv.org/pdf/2302.07855")[COULD ∞-CATEGORY THEORY BE TAUGHT TO UNDERGRADUATES?]
 
-=== 安妈专题
-<安妈专题>
+== 安妈
 - #link("https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman")[Emma Glodman (on Wikipedia)]：竟然是标星文章！
 - #link("https://theanarchistlibrary.org/library/angel-pino-ba-jin-and-the-arshinov-platform")[Angel Pino - #emph[Ba Jin and the "Arshinov Platform"] (on Anarchist Library)]：贼多参考文献；
 - #link("https://theanarchistlibrary.org/library/vadim-damier-anarcho-syndicalism-in-the-20th-century")[Vadim Damier - #emph[Anarcho-syndicalism in the 20th Century] (on Anarchist Library)]：libcom
@@ -35,9 +31,6 @@
 - #link("https://dl.ziliaozhan.win/%E4%B9%A6%E7%B1%8D/pdf/PDF%E6%9D%82%E5%BF%97/%E5%8E%86%E5%8F%B2/%E8%BF%91%E4%BB%A3%E6%96%B0%E7%96%86%E5%A4%A9%E4%B8%BB%E6%95%99%E4%BC%9A%E5%8E%86%E5%8F%B2%E8%80%83.pdf")[《新疆天主教》]
 - #link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=azJ2azUrVkpjSmVjdXlYczQ3cG80Q0t6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuWwvuW0juengOWunuS6i%252BS7tiIgT1IgSUtQWVRFPSLlsL7ltI7np4Dlrp7kuovku7YiICBPUiBJS1NUPSLlsL7ltI7np4Dlrp7kuovku7YiIE9SIElLRVQ9IuWwvuW0juengOWunuS6i%252BS7tiIgT1IgSUtTRT0i5bC%252B5bSO56eA5a6e5LqL5Lu2Iik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5bC%252B5bSO56eA5a6e5LqL5Lu2Ig%253D%253D%2526nav%253D0%2526ajaxKeys%253D5bC%252B5bSO56eA5a6e5LqL5Lu2")[王中忱《佐尔格-尾崎秀实事件的叙述与档案解密的政治 ── 以 1940 - 1950 年代日文文献为中心的初步检证》]：尾崎秀实可能是史沫特莱的情人之一，当然他本身作为帮助中国人的和人，也非常值得研究。
 - #link("https://wikimore.private.coffee/wiki/en/wiki/Fascism")[Wiki - #emph[Fascism]]
-- #emph[Muslims in Amdo Tibetan Society] Chapter 7: Victims of
-  Modernization? Struggles between the goloks and the Muslim Ma Warlords
-  in Qinghai, 1917--1942, by Bianca Horlemann
 - #link("https://fascio.substack.com/p/the-best-book-recommendations-on")[Book recs on Fascism]：一堆牛逼书；
 - #link("https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IumHjeaAneS4nOS6muWMuuWfn+enqeW6j+WPsiIgT1IgSUtQWVRFPSLph43mgJ3kuJzkuprljLrln5/np6nluo/lj7IiICBPUiBJS1NUPSLph43mgJ3kuJzkuprljLrln5/np6nluo/lj7IiIE9SIElLRVQ9IumHjeaAneS4nOS6muWMuuWfn+enqeW6j+WPsiIgT1IgSUtTRT0i6YeN5oCd5Lic5Lqa5Yy65Z+f56ep5bqP5Y+yIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i6YeN5oCd5Lic5Lqa5Yy65Z+f56ep5bqP5Y+yIg==&nav=0&ajaxKeys=6YeN5oCd5Lic5Lqa5Yy65Z+f56ep5bqP5Y+y")[《重思东亚区域秩序史》，《历史研究》]；
 
@@ -112,38 +105,13 @@
 
 == 想读的书
 <想读的书>
-- 《萨满教与神话》，富育光，商务印书馆，450 页，2023
-  版：详细介绍了萨满教。
-- 《文字学概要》，裘锡圭，商务印书馆，450
-  页，任意版本：详细的文字学教材。
-- 《鲁拜集》，张鸿年译，商务印书馆。
-- 《没有男人的女人们》，穆宏燕译，上海文艺出版社。
-- 《道连格雷的画像》：王尔德（什么译本都行）
-- 《隧道》，萨瓦托最薄的一本。
-- 《假如》，某个罗马尼亚作家的童年回忆录，看着挺有意思。
 - 《当代伊斯兰教》
-- 《藏传佛教思想史纲》，B946.5
 - 《激荡百年的俄罗斯》，K512/ZH11
-- 《印度神话》，上书同列同排。
-- 《印度哲学通史》，上书左列同排。
-- 《乔伊斯文集》，I562.15, Q43-2：诗歌很不错，戏剧也值得一看。
-- 《归于尘土》，品特，译林出版社，2010 年。
-- 《兰波评传》，上海社会科学院出版社，2022 年，C/K835.655.6。
-- 《守望者》，世界图书出版公司，2020 年。
-- 《理论入门》，彼得·巴里著，杨建国译，任意版本。
-- 塞巴尔德的书；
-- 赫塔 · 米勒的书；
-- 《南海寄归内法传校注》：中华书局；
-- 《大唐西域求法高僧传校注》：中华书局；
-- 《华严原人论校释》：中华书局（著者想一统儒释道三教）；
 - 《秦汉史讲义》：秦晖，山西人民出版社，（听说观点很新锐，著者本人也有一定的学术声望）
 - 杜布拉夫卡·乌格雷西奇的作品（不认识，但看起来很不错）；
-- 敦煌相关（第一本是通俗读物，但是是入门的绝佳材料）：
-  - 《满世界寻找敦煌》，荣新江，中华书局；
-  - 《敦煌学十八讲》，荣新江，北京大学出版社；
+- 《敦煌学十八讲》，荣新江，北京大学出版社；
 - 《绿蝗》：某葡萄牙女作家；
 - 《铃蟾的叫声》：应该是君特·格拉斯；
-- 《美好而粗暴的的世界》：普拉东诺夫；
 - 《隐墙》：某德国女作家，听说很不错；
 - 《来日方长》：阿尔都塞自传，B565.59, A00-2
 - 下面两本书都在 “欧洲科学、思维科学、逻辑学” 那一架；
@@ -156,11 +124,6 @@
 - 《外国语文导论》：北京大学出版社，速通读本；
 - 西吉茨蒙德・科尔扎诺夫斯基的书（又一颗苏联遗珠）；
 - 《秘密笔记》：作者不认识，人民文学出版社（同样讲人到中年）；
-- 佛教相关：
-  - 《佛教基础三十讲》：姚卫群，商务印书馆，2019 年；
-  - 《佛学概论》：姚卫群，线装书局，2021
-    年（学校有，应该是在三楼新书架那里）；
-  - 《佛教哲学》：方立天，中国人民大学出版社。2012 年；
 - 《声音集》：人民文学出版社（注意，据《最后的天真》，阿莱杭德娜受他影响极大）；
 - 《金克木译天竺诗文》：`I351.22/J35`，印度文学那一栏；
 - 《镜子与迷宫》：张猛，作家出版社，俄罗斯文化评论；
@@ -179,11 +142,7 @@
 - 《笔墨游戏》：中华书局，2022 年（古典小说分析集）；
 - 《西方文学十五讲》：北京大学出版社，2002 年（速看即可）；
 - 《中国史纲》，张荫麟，中华书局（思想深邃）；
-- A History of the Morden Middle East，有
-  #link("https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/")[MIT 公开课]
-- 米歇尔·图尼埃的书；
-- 《俄国文学史》，米尔斯基，商务印书馆，2020
-  年（纳博科夫称这是最好的俄国文学史）；
+- A History of the Morden Middle East，有 #link("https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/")[MIT 公开课]
 - 《诗经图谱》，冈元凤，上海古籍出版社，2024 年；
 - 《瘾君子》，巴勒斯（垮掉的一代毕竟还是值得一读）；
 - 《现代性的五副面孔》，译林出版社；
@@ -192,60 +151,91 @@
 - 《波峰与波谷》，阎步克，（秦汉魏晋南北朝政治）；
 - 《印度宗教哲学概论》，B928.351/Y15-1
 - 《世界四大文化与东南亚文学》，I330.06
-- 刘文飞译作：
-  - 《悲伤与理智》；
-- 《大师与玛格丽特》；
-- 《日瓦戈医生》
 - 《见证》，肖斯塔科维奇回忆录
 - 《希腊对德意志的暴政》：文论，随便读读即可
+- 《西书东藏》，上海文艺：民国文人所藏西书；
+- 《那一天》，广西师大出版社；
+- 《视而不见》，广西师大出版社：讲民国画报、广告等等视觉艺术；
+- 《美洲迷梦》：拉美文化政治史；
+- 《微分几何简明教程》，嵇庆春，科学出版社：复旦的古典微分几何教材，只有 153 页！
+- 《天义》，万仕国，中国人民大学出版社：天义报校注；
+
+== 文学
+=== 中国
+- 《人间的命运》，芹泽光治良，东方出版社：记述了巴金和邵可侣一家的故事；
+- 《潮汐图》：据说是大陆近几年最好的作品；
+- 《棋王》；
 - 万玛才旦的作品：
   - 《松木的清香》；
   - 《气球》；
-- 克洛德西蒙的书；
+- 钱稻孙译作；
+
+=== 俄国
+- 《悲伤与理智》；
+- 《大师与玛格丽特》；
+- 《日瓦戈医生》
+- 《俄国文学史》，米尔斯基，商务印书馆，2020 年（纳博科夫称这是最好的俄国文学史）；
+- 《哲学船事件》：讲苏联对沙俄时期知识分子的大驱逐；
 - 列托夫喜欢的：
   - 弗兰·奥布莱恩的书；
   - 安德烈耶夫的书；
   - 安部公房《砂女》《箱男》；
   - 大江健三郎《万延元年的 football》；
-- 《西书东藏》，上海文艺：民国文人所藏西书；
-- 安德烈·别雷的作品
-- 《塞缪尔·贝克特：盛名之累》，传记（一千多页……）
-- 《棋王》；
-- 《河的第三条岸》，游雨频译；
-- 伊凡·克里玛的作品
 - 伊莱娜·内米洛夫斯基的作品；
 - 安德烈·别雷的作品；
 - 阿尔志跋绥夫的作品；
-- 《那一天》，广西师大出版社；
-- 《冷战温度计的爆表时刻：柏林危机》，童欣：这本感觉也不错，著者专做德国与冷战的。
-- 《视而不见》，广西师大出版社：讲民国画报、广告等等视觉艺术；
+- 安德烈·别雷的作品
+
+=== 东欧
+- 赫塔 · 米勒的书；
+
+=== 拉美、法国
+- 米歇尔·图尼埃的书；
 - 卡彭铁耳的作品；
 - 《爱、谎言与写作：杜拉斯画传》：这么多图不得不看了！
-- 《潮汐图》：据说是大陆近几年最好的作品；
-- 历史：
-  - 尚小明教授的作品；
-  - 邓野的作品；
-  - 《中苏关系史纲》；
-- 《药地炮庄》
-- 《哲学船事件》：讲苏联对沙俄时期知识分子的大驱逐；
-- 《德国人的西藏幻梦》：讲德国藏学的；
-- 《美洲迷梦》：拉美文化政治史；
-- 巴金的作品；
-- 《微分几何简明教程》，嵇庆春，科学出版社：复旦的古典微分几何教材，只有
-  153 页！
-- 《人间的命运》，芹泽光治良，东方出版社：记述了巴金和邵可侣一家的故事；
-- 《海外洪门与辛亥革命》，中国致公出版社；
-- 《天义》，万仕国，中国人民大学出版社：天义报校注；
-- 《广东文史资料第 43 辑：广东军阀大事记》：梳理了龙济光、陆荣廷、陈炯明等人掌控广东的事迹；
+- 《塞缪尔·贝克特：盛名之累》，传记（一千多页……）
+- 《河的第三条岸》，游雨频译；
+- 伊凡·克里玛的作品
+- 克洛德西蒙的书；
+- 《隧道》，萨瓦托最薄的一本。
+- 《兰波评传》，上海社会科学院出版社，2022 年，C/K835.655.6。
+
+=== 日耳曼
+- 《道连格雷的画像》：王尔德（什么译本都行）
+- 《乔伊斯文集》，I562.15, Q43-2：诗歌很不错，戏剧也值得一看。
+- 《归于尘土》，品特，译林出版社，2010 年。
+- 塞巴尔德的书；
+
+
+=== 中东
+- 《鲁拜集》，张鸿年译，商务印书馆。
+- 《没有男人的女人们》，穆宏燕译，上海文艺出版社。
+
+== 佛教相关：
+- 《佛教基础三十讲》：姚卫群，商务印书馆，2019 年；
+- 《佛学概论》：姚卫群，线装书局，2021 年（学校有，应该是在三楼新书架那里）；
+- 《佛教哲学》：方立天，中国人民大学出版社。2012 年；
+- 《藏传佛教思想史纲》，B946.5
+- 《中国佛教史》，中国社会科学出版社：资料齐备！
+- 《南海寄归内法传校注》：中华书局；
+- 《大唐西域求法高僧传校注》：中华书局；
+- 《华严原人论校释》：中华书局（著者想一统儒释道三教）；
+
+== 历史
 - 《中国近代史史料学（增订本）》，北京大学出版社；
-- 边疆史学者吕一燃的作品：
-  - 《中国近代边界史》，人民出版社，2013
+- 《广东文史资料第 43 辑：广东军阀大事记》：梳理了龙济光、陆荣廷、陈炯明等人掌控广东的事迹；
+- 邓野的作品；
+
+=== 辛亥革命
+- 《海外洪门与辛亥革命》，中国致公出版社；
+
 === 康藏
 - 周希武《玉树调查记》，青海人民出版社，2022
 - 《西藏百年史研究》，社会科学文献出版社，2015：浏览即可，三位著者的学术水平看起来都不是顶尖的
 - 《艽野尘梦》；
 - 《雪域求法记》；
 - 《喇嘛王国的覆灭》；
+- 《德国人的西藏幻梦》：讲德国藏学的；
 
 === 西域
 - 《丝路探险》，上海古籍，2020
@@ -255,7 +245,16 @@
 === 蒙古
 - 《北洋政府时期的蒙古地区历史资料》，黑龙江教育出版社，2014
 
+=== 边疆
+- 边疆史学者吕一燃的作品：
+  - 《中国近代边界史》，人民出版社，2013
 
+
+== 汉学
+=== 版本文献学
+- 黄永年《古文献学讲义》；
+- 余嘉锡《目录学发微》；
+- 《药地炮庄》
 
 
 == 想看的电影

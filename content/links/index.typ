@@ -24,17 +24,16 @@
 - #link("https://jrws.berkeley.edu/issues")[The Journal of Right-Wing Studies]：右翼研究刊，加州伯克利出品！
 - #link("https://web.stanford.edu/~cm5/movies.html")[Ciprian Manolescu 爱看的电影]：某个数学家爱看的电影；
 - 吉大购买的数据库：
-  - #link("https://laokan.dachengdata.com/")[大成老旧刊数据库]：民国旧报刊，挺全的，《新青年》《天义》《广雅学生》等等都有，吉大
-    ip 可直接阅览；
-  - #link("https://www.sslibrary.com/")[汇雅电子书]：正版电子书，吉大 ip
-    可直接阅览；
+  - #link("https://laokan.dachengdata.com/")[大成老旧刊数据库]：民国旧报刊，挺全的，《新青年》《天义》《广雅学生》等等都有，吉大 ip 可直接阅览；
+  - #link("https://www.sslibrary.com/")[汇雅电子书]：正版电子书，吉大 ip 可直接阅览；
   - #link("https://www.cnbksy.com")[全国报刊阅览]：民国旧报刊（有《闽星》《广东省立一中校刊》《广雅丛报》《广雅学生抗日特刊》）；
   - #link("https://www.lzp360.com/")[中国近代影像资料库]：中国社会科学出版社的带制作；
   - #link("https://www.sklib.cn/")[中国社会科学文库]：免费看书！
 - #link("https://commons.wikimedia.org/w/index.php?search=%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A&title=Special%3AMediaSearch&go=%E5%9F%B7%E8%A1%8C&uselang=zh-tw&type=page")[近代中國史料叢刊]：无量功德；
   - 另附浙江大學提供的#link("http://csid.zju.edu.cn/doclib/sub?id=8a8fbda74ca27288014ca2734d1300ec")[在綫目錄]；
 - #link("https://commons.wikimedia.org")[Wikimedia Commons]：有许多古籍、民国图书，直接搜索即可。另外，同网站的#link("https://commons.wikimedia.org/wiki/Commons:Library_back_up_project")[书库备份计划]搜集了读秀泄露书目、中美百万书项目（CADAL）书目、台湾图书馆书目等等。
-- #link("http://jds.cssn.cn/xsqk/jdsyj/")[社科院近代史研究期刊]：提供了《国外中国近代史研究》系列书目的 pdf
+- #link("http://jds.cssn.cn/xsqk/jdsyj/")[社科院近代史研究期刊]：提供了《国外中国近代史研究》系列书目的 pdf。
+- #link("http://www.buddhism-dict.net/ddb/")[电子佛教词典]：英文释义。
 
 == 数学
 - #link("http://staff.ustc.edu.cn/~wangzuoq/")[王作勤]：拓扑、微分几何；
@@ -168,6 +167,7 @@
   档案馆；
 - #link("https://ocr.wdku.net/index_shupai")[在线 OCR]：竟然能扫描竖排书！
 - #link("https://pan.quark.cn/s/31a1974da9b8#/list/share")[雅思试题集（夸克网盘）]
+- #link("https://tocify.aeriszhu.com/")[Ticify]：给 pdf 文件加目录！
 
 == 语言
 - #link("https://zi.tools/")[字統]
