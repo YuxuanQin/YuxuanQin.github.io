@@ -34,6 +34,7 @@
 - #link("https://commons.wikimedia.org")[Wikimedia Commons]：有许多古籍、民国图书，直接搜索即可。另外，同网站的#link("https://commons.wikimedia.org/wiki/Commons:Library_back_up_project")[书库备份计划]搜集了读秀泄露书目、中美百万书项目（CADAL）书目、台湾图书馆书目等等。
 - #link("http://jds.cssn.cn/xsqk/jdsyj/")[社科院近代史研究期刊]：提供了《国外中国近代史研究》系列书目的 pdf。
 - #link("http://www.buddhism-dict.net/ddb/")[电子佛教词典]：英文释义。
+- #link("https://www.dutongjian.com/")[读通鉴]：在线读《资治通鉴》，功能十分齐备！
 
 == 数学
 - #link("http://staff.ustc.edu.cn/~wangzuoq/")[王作勤]：拓扑、微分几何；
