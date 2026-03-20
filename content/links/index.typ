@@ -35,6 +35,7 @@
 - #link("http://jds.cssn.cn/xsqk/jdsyj/")[社科院近代史研究期刊]：提供了《国外中国近代史研究》系列书目的 pdf。
 - #link("http://www.buddhism-dict.net/ddb/")[电子佛教词典]：英文释义。
 - #link("https://www.dutongjian.com/")[读通鉴]：在线读《资治通鉴》，功能十分齐备！
+- #link("https://ancient-china-books.github.io/")[讀古書]：竖排繁体并注释，极好！
 
 == 数学
 - #link("http://staff.ustc.edu.cn/~wangzuoq/")[王作勤]：拓扑、微分几何；
