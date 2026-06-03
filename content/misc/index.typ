@@ -17,3 +17,4 @@
 - #link("./torrents")[我喜欢的种子]
 - #link("./typst")[Typst 配置]
 - #link("./benzi")[第一之本]
+- #link("./exam")[考试]

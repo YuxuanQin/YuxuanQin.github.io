@@ -146,11 +146,10 @@
 - #link("http://www.bengu.cn/")[顾犇]：奇人，本是学数学的，现在做图书馆学，在这里看到过《通天塔图书馆》；
 
 == 工具
-- #link("https://quiver.theophile.me/")[quiver]：在线画交换图，支持
+- #link("https://q.uiver.app/")[quiver]：在线画交换图，支持
   typst 和 LaTeX；
 - #link("https://mail.awsl.uk/")[Temp Email]：临时邮箱；
 - #link("https://0x0.st/")[Temp files store]：存放临时文件；
-- #link("https://meet.libreops.cc/")[Jitsi]：快速线上会议，无须登录；
 - #link("https://coding.gs/2024/06/09/available-doh/")[DoH 推荐]：DoH
   汇总；
 - #link("http://login.jlu.edu.cn/notice_win.php")[吉大校园网之窗]
@@ -163,13 +162,12 @@
 - 种子搜索：
   - #link("https://torrentz9.org")[TorrentZ9]
   - #link("https://ext.to")[ext.to]
-- #link("http://bzdt.ch.mnr.gov.cn/")[标准地图服务系统]：`.gov.cn`
-  后缀的官修地图网站！
-- #link("https://archiveofsins.com/_/articles/faq/")[4 archive]：4 chan
-  档案馆；
-- #link("https://ocr.wdku.net/index_shupai")[在线 OCR]：竟然能扫描竖排书！
-- #link("https://pan.quark.cn/s/31a1974da9b8#/list/share")[雅思试题集（夸克网盘）]
-- #link("https://tocify.aeriszhu.com/")[Ticify]：给 pdf 文件加目录！
+- `.gov.cn` 官修地图：
+  - #link("http://bzdt.ch.mnr.gov.cn/")[标准地图服务系统]：静态地图（世界地图之类的）
+  - #link("https://map.tianditu.gov.cn/")[天地图]：动态地图（就像百度地图那样）
+- #link("https://archiveofsins.com/_/articles/faq/")[4 archive]：4 chan 档案馆；
+- #link("https://tocify.aeriszhu.com/")[Tocify]：给 pdf 文件加目录！
+- #link("https://magicall.online/")[Magicall]：视频通话；
 
 == 语言
 - #link("https://zi.tools/")[字統]
