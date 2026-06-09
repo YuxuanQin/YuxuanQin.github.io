@@ -92,16 +92,14 @@
 - #link("https://loeh.app.uni-regensburg.de")[Clara Löh]：雷根斯堡教授，有极好的几何群论、（应用）代数拓扑、微分几何讲义，均附有习题；
 - #link("https://www.math.uci.edu/~isaac/research.html")[Isaac Goldbring]：深入的非标准分析讲义、微分几何及表示论课程；
 - #link("https://qizhumath.wixsite.com/math")[Zhu qi]：汉名未知，目前在波恩马普所，有各种课程的笔记；
-- #link("https://people.math.ethz.ch/~salamon/")[Dietmar A. Salamon]：此人在
-  ICM 作过报告，有微分几何、微分拓扑的讲义；
+- #link("https://people.math.ethz.ch/~salamon/")[Dietmar A. Salamon]：此人在 ICM 作过报告，有微分几何、微分拓扑的讲义；
 - #link("https://www.dpmms.cam.ac.uk/~hjrw2/")[Henry Wilton]：有几何群论的题、黎曼面的讲义；
 - #link("https://www.math.chalmers.se/~hasse/distributioner_eng.pdf")[Hasse - Distribution Theory]：分布理论
-- #link("https://www.walkerstern.com/courses/2022_DiffGeo/")[Walker H. Stem - Differential Geometry]：参考讲义
-  Wolfgang Kühnel. Differential Geometry: Curves --- Surfaces ---
-  Manifolds
-- #link("https://www3.nd.edu/~lnicolae/Lectures.pdf")[Lectures on Geometry of Manifolds]：著者是个罗马尼亚人，主页还有些其他讲义，作者自称此书为“is
-  addressed primarily to the graduate students specializing in global
-  analysis and gauge theory.”
+- #link("https://www.walkerstern.com/courses/2022_DiffGeo/")[Walker H. Stem - Differential Geometry]：参考讲义 Wolfgang Kühnel. Differential Geometry: Curves -- Surfaces -- Manifolds
+- #link("https://www3.nd.edu/~lnicolae/Lectures.pdf")[Lectures on Geometry of Manifolds]：著者是个罗马尼亚人，主页还有些其他讲义，作者自称此书为“is  addressed primarily to the graduate students specializing in global analysis and gauge theory.”
+- #link("https://webusers.imj-prg.fr/~bram.petri/")[Bram Petri]：有 Techmuller 空间讲义、Riemann 面上模空间讲义；
+- #link("https://www.uio.no/studier/emner/matnat/math/MAT4215/data/masteragbook.pdf")[一份代数几何讲义]：似乎非常不错；
+
 
 == 计算机
 - #link("https://www.cs.cornell.edu/courses/cs6120/2023fa/")[CS 6120]：康奈尔的编译器课，适合自学；
